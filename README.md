@@ -1,6 +1,6 @@
 # DE-TEL Book
 
-![Jekyll Build & Deploy](https://github.com/ec-tel/detel-book/workflows/Jekyll%20Build%20&%20Deploy/badge.svg)
+![Jekyll Build & Deploy](https://github.com/ea-tel/detel-book/workflows/Jekyll%20Build%20&%20Deploy/badge.svg)
 
 Welcome to the editing environment for the DE-TEL Book.
 
@@ -70,4 +70,4 @@ With every commit, a new version of the Web site is created automatically.
 Formatting of the content is done using a simple markdown language.
 Programming and lay-out uses JavaScript and CSS.
 
-The project's [wiki](https://github.com/ec-tel/detel-book/wiki) contains further details about the contribution guidelines and the technical environment.
+The project's [wiki](https://github.com/ea-tel/detel-book/wiki) contains further details about the contribution guidelines and the technical environment.
