@@ -11,3 +11,5 @@ order: 3
 ## 1 Introduction
 
 1. [Preface](/detel-book/chapter/introduction/preface/)
+
+2. [My New Chapter](/detel-book/chapter/myChapter/)
