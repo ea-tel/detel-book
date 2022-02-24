@@ -50,7 +50,8 @@ You can also type the entire path after cd:
 
 __Step 5.__ Install bundler
 
-Run the following colland:
+Run the following command:
+
 
     gem install bundler
 
