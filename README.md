@@ -115,7 +115,9 @@ Send the commit to the online repository:
 
 __Step 5.__ Wait for review
 
-Now you can wait for one of our administrators to check your contribution and accept or reject it. As soon as it is accepted, the contents of your commit will appear online on the public website. While you are waiting for the review, feel free to work on the next set of edits (e.g., your next chapter).
+Now you can wait for one of our administrators to check your contribution and accept or reject it. As soon as it is accepted, the contents of your commit will appear online on the public website. 
+
+While you are waiting for the review, feel free to work on the next set of edits (e.g., your next chapter). You should start new unrelated work (e.g., another chapter) on a new branch and that this new branch must be based on the master branch.
 
 # Description
 
