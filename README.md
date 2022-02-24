@@ -21,6 +21,8 @@ To do this, open the Command prompt and run command:
    
 It should return the installed version of Ruby.
 
+On Windows, you can find an entry called "Start Command Prompt with Ruby" in your start menu after the installation. It makes sure that Ruby is accessible by that command prompt. If the default command prompt cannot find Ruby, you can keep using this special command prompt.
+
 __Step 3.__ Clone this DETEL book repository. If needed, use instructions of [how to clone a github repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). Remember the folder where the local version of the repository is stored on your machine.
 
 
