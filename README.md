@@ -26,7 +26,8 @@ __Step 3.__ Clone this DETEL book repository. If needed, use instructions of [ho
 
 __Step 4.__ In the terminal/command line, navigate to the folder with the local version of the DETEL book repository. To navigate to the correct folder, use following command:
 
-    cd
+    cd foldername
+
 
 Example of how to use the cd command:
 
