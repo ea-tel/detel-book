@@ -37,6 +37,8 @@ NEW *text describing the exercise, probably adapt from our webinar slides*
 
 ### Deep Dive: Progress and Productivity
 
+#### General practices to foster a sense of progress
+
 content copied/adapted from [this post](https://ahappyphd.org/posts/progress-loop/) (second half?)
 
 #### Exercise: Your key productivity challenges
