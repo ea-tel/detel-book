@@ -240,11 +240,22 @@ Table 1. Four CAQDAS packages
 |		 |																														    | ●	Review coding with coding stripes and highlights                               | 										|
 |		 |																														    | ●	Matrix coding, coding word frequency, text search and coding comparison queries|										|																																      
 |  ATLAS.ti      |  ATLAS.ti was developed at the Technical University of Berlin as an interdisciplinary collaborative project between the psychology department, computer scientists and future users (1989-92).                                                   | ●	Unicode throughout							       |https://atlasti.com/							        |
-																																    | ●	Undo/redo (100steps)							       |										|
-																																    | ●	Direct import from Twitter, Endnote, Evernote                                  |										|
-																																    | ●	Powerful visual query editor for creating and modifying SmartCodes             |										|
-|   |   |   |   |
-|   |   |   |   |
+|		 |																														    | ●	Undo/redo (100steps)							       |										|
+|		 |																														    | ●	Direct import from Twitter, Endnote, Evernote                                  |										|
+|		 |																														    | ●	Powerful visual query editor for creating and modifying SmartCodes             |										|
+|                |   																													            | ●	Full project search with dynamic fade-in/fade-out hit categories               |										|
+|		 |																														    | ●	Network groups								       |										|
+|		 | 																														    | ●	Memo comments								       |										| 																														    
+|		 |																														    | ●	Multiple documents						               |									        |
+|HyperRESEARCH	 |HyperRESEARCH was first developed in 1990 by Sharlene Hesse, Scott Kinder and Paul Dupuis in Boston, Massachusetts. From 1991 HyperRESEARCH has been developed by ResearchWare who continue to develop and support the software.           	    | ●	Importer tool takes your survey from a spreadsheet                             |http://www.researchware.com/                        				|
+|		 |																														    | ●	Automatically builds a complete study       				       |										|
+|		 |																														    | ●	Easy to use								       |										|
+|		 |																										                                    | ●	Runs on multiple technological platforms                                       |										|
+|MAXqda		 |MAXqda is the latest in a software stream originally developed by Udo Kuckartz in order to manage political discourse data on the environment. 												    | ●	Work with bibliographic data from reference management programmes              |https://www.maxqda.com/                                                         |                                                     
+|		 |																														    | ●	Organise and analyse literature and excerpts with MAXqda                       |                                						|
+|		 |																														    | ●	Create literature review with MAXqda                                           |										|
+										    																									    
+
 
 	
 
