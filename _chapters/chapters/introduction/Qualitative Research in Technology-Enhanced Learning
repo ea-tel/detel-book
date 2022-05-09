@@ -231,10 +231,18 @@ CAQDAS software do not do any real analysis for us; rather, they have been desig
 Lewins and Silver(2008) recognised that while this is the most frequently asked question, it is impossible to be answered. They highlight that all software have tools in common but also their own distinctive features. Currently CAQDAS software development is at an expansion stage, with a number of packages competing for the highly lucrative dominant position. Table 2 displays the most frequently mentioned software in the literature. 
 
 Table 1. Four CAQDAS packages
-|  Software name |About the software  | Features  |  Link |
-|----------------|-------------------|-----------|-------|
-|   | NVivo was originally developed as NUD*IST by Tom Richards and Lyn Richards as a scroll mode Mac package at La Trobe University, Melbourne. Subsequently QSR International was formed which now develops and supports all QSR software products.  |   |   |
-|   |   |   |   |
+|  Software name |About the software                                                                                                                                                                                                                                | Features                                                                         |  Link                                                                          |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| NVivo          | NVivo was originally developed as NUD*IST by Tom Richards and Lyn Richards as a scroll mode Mac package at La Trobe University, Melbourne. Subsequently QSR International was formed which now develops and supports all QSR software products.  | ●	Import and analyse images, videos, emails, webdata                             | https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home |
+|		 |																														    | ●	Relationship coding                                                            |										|
+|		 |																														    | ●	Charts, word clouds, word trees, explore and comparison diagrams               |										|
+|		 | 																														    | ●	Import articles from reference management software                             |									        |
+|		 |																														    | ●	Review coding with coding stripes and highlights                               | 										|
+|		 |																														    | ●	Matrix coding, coding word frequency, text search and coding comparison queries|										|																																      
+|  ATLAS.ti      |  ATLAS.ti was developed at the Technical University of Berlin as an interdisciplinary collaborative project between the psychology department, computer scientists and future users (1989-92).                                                   | ●	Unicode throughout							       |https://atlasti.com/							        |
+																																    | ●	Undo/redo (100steps)							       |										|
+																																    | ●	Direct import from Twitter, Endnote, Evernote                                  |										|
+																																    | ●	Powerful visual query editor for creating and modifying SmartCodes             |										|
 |   |   |   |   |
 |   |   |   |   |
 
