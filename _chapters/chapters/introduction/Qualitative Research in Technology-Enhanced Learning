@@ -257,46 +257,46 @@ https://www.youtube.com/watch?v=tLKfaCiHVic
 
 CAQDAS software do not do any real analysis for us; rather, they have been designed to help researchers with the mechanisation of the clerical aspects of data management, in other words, CAQDAS replace the traditional tools of qualitative data analysis (paper, pen, scissors) with tools of the digital age. The purpose of software is not to provide you with a methodological or analytic framework but rather to support you in certain tasks, such as planning and managing your project, writing analytic memos, marking and commenting on data, searching for string words or phrases, developing a coding schema, coding, recoding, organising data, hyperlinking, mapping, and generating output.
 
-## Which is the ‘best’ CAQDAS package?
+## **Which is the ‘best’ CAQDAS package?**
 
 Lewins and Silver(2008) recognised that while this is the most frequently asked question, it is impossible to be answered. They highlight that all software have tools in common but also their own distinctive features. Currently CAQDAS software development is at an expansion stage, with a number of packages competing for the highly lucrative dominant position. Table 2 displays the most frequently mentioned software in the literature. 
 
-Table 1. Four CAQDAS packages
-|  Software name |About the software                                                                                                                                                                                                                                | Features                                                                         |  Link                                                                          |
-|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| NVivo          | NVivo was originally developed as NUD*IST by Tom Richards and Lyn Richards as a scroll mode Mac package at La Trobe University, Melbourne. Subsequently QSR International was formed which now develops and supports all QSR software products.  | ●	Import and analyse images, videos, emails, webdata                             | https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home |
-|		 |																														    | ●	Relationship coding                                                            |										|
-|		 |																														    | ●	Charts, word clouds, word trees, explore and comparison diagrams               |										|
-|		 | 																														    | ●	Import articles from reference management software                             |									        |
-|		 |																														    | ●	Review coding with coding stripes and highlights                               | 										|
-|		 |																														    | ●	Matrix coding, coding word frequency, text search and coding comparison queries|										|																																      
-|  ATLAS.ti      |  ATLAS.ti was developed at the Technical University of Berlin as an interdisciplinary collaborative project between the psychology department, computer scientists and future users (1989-92).                                                   | ●	Unicode throughout							       |https://atlasti.com/							        |
-|		 |																														    | ●	Undo/redo (100steps)							       |										|
-|		 |																														    | ●	Direct import from Twitter, Endnote, Evernote                                  |										|
-|		 |																														    | ●	Powerful visual query editor for creating and modifying SmartCodes             |										|
-|                |   																													            | ●	Full project search with dynamic fade-in/fade-out hit categories               |										|
-|		 |																														    | ●	Network groups								       |										|
-|		 | 																														    | ●	Memo comments								       |										| 																														    
-|		 |																														    | ●	Multiple documents						               |									        |
-|HyperRESEARCH	 |HyperRESEARCH was first developed in 1990 by Sharlene Hesse, Scott Kinder and Paul Dupuis in Boston, Massachusetts. From 1991 HyperRESEARCH has been developed by ResearchWare who continue to develop and support the software.           	    | ●	Importer tool takes your survey from a spreadsheet                             |http://www.researchware.com/                        				|
-|		 |																														    | ●	Automatically builds a complete study       				       |										|
-|		 |																														    | ●	Easy to use								       |										|
-|		 |																										                                    | ●	Runs on multiple technological platforms                                       |										|
-|MAXqda		 |MAXqda is the latest in a software stream originally developed by Udo Kuckartz in order to manage political discourse data on the environment. 												    | ●	Work with bibliographic data from reference management programmes              |https://www.maxqda.com/                                                         |                                                     
-|		 |																														    | ●	Organise and analyse literature and excerpts with MAXqda                       |                                						|
-|	         |																														    | ●	Create literature review with MAXqda                                           |										|
+**Table 1. Four CAQDAS packages**
+|**Software name** |**About the software**                                                                                                                                                                                                                          | **Features**                                                                     |  **Link**                                                                      |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| **NVivo**        | NVivo was originally developed as NUD*IST by Tom Richards and Lyn Richards as a scroll mode Mac package at La Trobe University, Melbourne. Subsequently QSR International was formed which now develops and supports all QSR software products.| ●	Import and analyse images, videos, emails, webdata                             | https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home |
+|		   |																														    | ●	Relationship coding                                                            |										|
+|		   |																														    | ●	Charts, word clouds, word trees, explore and comparison diagrams               |										|
+|		   | 																														    | ●	Import articles from reference management software                             |									        |
+|		   |																														    | ●	Review coding with coding stripes and highlights                               | 										|
+|		   |																														    | ●	Matrix coding, coding word frequency, text search and coding comparison queries|										|																																      
+| **ATLAS.ti**     |  ATLAS.ti was developed at the Technical University of Berlin as an interdisciplinary collaborative project between the psychology department, computer scientists and future users (1989-92).                                                 | ●	Unicode throughout							       |https://atlasti.com/							        |
+|		   |																														    | ●	Undo/redo (100steps)							       |										|
+|		   |																														    | ●	Direct import from Twitter, Endnote, Evernote                                  |										|
+|		   |																														    | ●	Powerful visual query editor for creating and modifying SmartCodes             |										|
+|                  |   																													            | ●	Full project search with dynamic fade-in/fade-out hit categories               |										|
+|		   |																														    | ●	Network groups								       |										|
+|		   | 																														    | ●	Memo comments								       |										| 																														    
+|		   |																														    | ●	Multiple documents						               |									        |
+|**HyperRESEARCH** |HyperRESEARCH was first developed in 1990 by Sharlene Hesse, Scott Kinder and Paul Dupuis in Boston, Massachusetts. From 1991 HyperRESEARCH has been developed by ResearchWare who continue to develop and support the software.           	    | ●	Importer tool takes your survey from a spreadsheet                             |http://www.researchware.com/                        				|
+|		   |																														    | ●	Automatically builds a complete study       				       |										|
+|		   |																														    | ●	Easy to use								       |										|
+|		   |																										                                    | ●	Runs on multiple technological platforms                                       |										|
+|**MAXqda**        |MAXqda is the latest in a software stream originally developed by Udo Kuckartz in order to manage political discourse data on the environment. 												    | ●	Work with bibliographic data from reference management programmes              |https://www.maxqda.com/                                                         |                                                     
+|		   |																														    | ●	Organise and analyse literature and excerpts with MAXqda                       |                                						|
+|	           |																														    | ●	Create literature review with MAXqda                                           |										|
 
-### Working with NVivo 
-VIDEO: Discover NVivo. The most cited and powerful software for qualitative data analysis https://www.youtube.com/watch?v=BHOEQQdEoiQ 
+### **Working with NVivo** 
+**VIDEO: Discover NVivo. The most cited and powerful software for qualitative data analysis** https://www.youtube.com/watch?v=BHOEQQdEoiQ 
 Here you will find a glossary with key terms to work with NVivo. 
 
-## Instructions to install NVivo 
+## **Instructions to install NVivo** 
 Here you will find instructions on how to install NVivo and work with the free trial for 14 days. 
 
-## Introduction to NVivo Manual
+## **Introduction to NVivo Manual**
 Here you will find a step-by-step guide on how to work with NVivo.
 
-## References
+## **References**
 
 Bogdan, R., & Biklen, S. K. (1997). Qualitative research for education. Boston, MA: Allyn & Bacon.
 Clarke, V. & Braun, V. (2013). Successful Qualitative Research: A Practical Guide For Beginners. London: SAGE.
