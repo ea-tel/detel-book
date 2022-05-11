@@ -55,12 +55,15 @@ __Step 5.__ Install bundler
 
 Run the following command:
 
-
     gem install bundler
+
+*NB: In Windows 10, you probably are better off installing a particular version of bundler*
+
+    gem install bundler:2.1.4
 
 __Step 6.__ Use bundler to pull Jekyll
 
-Run the following commands:
+Run the following commands (make sure you run them from the /detel-book folder, as per Step 4 above):
 
     bundle install
     
