@@ -13,3 +13,5 @@ order: 3
 1. [Preface](/detel-book/chapter/introduction/preface/)
 
 2. [My New Chapter](/detel-book/chapter/myChapter/)
+
+3. [MySecondChapter] (/detel-book/chapter/MyFolder/MySecondChapter/)
