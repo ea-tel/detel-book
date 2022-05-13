@@ -14,4 +14,4 @@ order: 3
 
 2. [My New Chapter](/detel-book/chapter/myChapter/)
 
-3. [MySecondChapter] (/detel-book/chapter/MyFolder/MySecondChapter/)
+3. [MySecondChapter](/detel-book/chapter/MyFolder/MySecondChapter/)
