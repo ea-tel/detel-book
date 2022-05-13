@@ -1,3 +1,12 @@
+---
+layout: page
+title: Design-based Research: an introduction
+
+hide: true
+permalink: /chapters/DBR
+---
+
+
 # An introduction to Design-based Research in TEL
 Authors: Lorena Sousa (lorena@ua.pt), Luís Pedro, and Carlos Santos
 
