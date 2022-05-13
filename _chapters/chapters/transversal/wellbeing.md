@@ -1,6 +1,6 @@
 ---
 layout: reading_chapter
-title: Completing a Happy TEL PhD: Wellbeing in TEL Doctorates
+title: Completing a Happy TEL PhD&#58; Wellbeing in TEL Doctorates
 hide: false
 permalink: /chapter/transversal/wellbeing/
 ---
@@ -12,7 +12,7 @@ NEW *personal, narrative vignette?*
 ### Dropout in the doctorate
 
 content copied/adapted from [this post](https://ahappyphd.org/posts/drop-out-phd/)
-<!-- use {% include_relative separate_file.md %} -->
+
 <!-- include some link like "This piece first appeared in (link to original post)" -->
 
 ### Mental health in the doctorate
