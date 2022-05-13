@@ -1,3 +1,12 @@
+---
+layout: page
+title: mySecondChapter
+
+hide: true
+permalink: /chapter/myFolder/mySecondChapter/
+---
+
+
 # This is my title.
 
 ## This is my subtitle.
