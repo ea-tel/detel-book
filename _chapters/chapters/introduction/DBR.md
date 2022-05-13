@@ -257,3 +257,4 @@ We also recommend the book _Conducting Educational Design Research_, by Susan Mc
 * Van den Akker, J. (1999). Principles and methods of development research. In J. van den Akker, R.M. Branch, K. Gustafson, N. Nieveen, & T. Plomp (Eds.), Design approaches and tools in education and training (pp. 1-14). Boston: Kluwer Academic. [link](https://link.springer.com/book/10.1007/978-94-011-4255-7)
 * Van den Akker, J., Gravemeijer, K, McKenney, S. & Nieveen, N. (Eds.). (2006). Educational design research. London: Routledge. [link](https://www.routledge.com/Educational-Design-Research/Akker-Gravemeijer-McKenney-Nieveen/p/book/9780415396356) 
 * Wademan, M.R. (2005). Utilizing development research to guide people-capability maturity model adoption considerations. Doctoral dissertation. Syracuse: Syracuse University. Dissertation Abstracts International, 67-01A, 434. (UMI No. 3205587) [link](https://surface.syr.edu/idde_etd/12/)
+
