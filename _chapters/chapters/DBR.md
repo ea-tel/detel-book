@@ -108,7 +108,7 @@ Whatever the purpose of DBR - development studies (to develop research-based sol
 
 ![DBR_cycle1_plomp](https://user-images.githubusercontent.com/100372892/168300519-02c8b414-e406-4b3b-a36f-d7d58674c83c.JPG)
 
-  _Interactions of systematic design cycles (Plomp, 2013)_
+_Interactions of systematic design cycles (Plomp, 2013)_
 
 Like all systematic educational and instructional design processes - it is cyclical or iterative. It incorporates cycles of analysis, design, evaluation and revision activities until a balance between the intended ideas and realization has been achieved. This process can be illustrated in several ways, depending on how authors have visualized it. 
 
