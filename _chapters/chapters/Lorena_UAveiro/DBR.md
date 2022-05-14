@@ -3,7 +3,7 @@ layout: page
 title: Design-based Research in TEL: an introduction
 
 hide: true
-permalink: /chapters/Lorena_UAveiro/DBR.md
+permalink: /chapters/Lorena_UAveiro/DBR/
 ---
 
 
