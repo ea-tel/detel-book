@@ -8,6 +8,7 @@ permalink: /chapters/Lorena_UAveiro/OER/
 
 # Creating Open Educational Resources with the H5P tool
 Authors: Lorena Sousa (lorena@ua.pt), Luís Pedro, and Carlos Santos
+
 University of Aveiro, Portugal
 
 ### Abstract
