@@ -12,7 +12,6 @@ permalink: /chapter/transversal/wellbeing/
 NEW *personal, narrative vignette?*
 
 
-
 A doctoral degree is one of the most challenging (and long!) educational experiences that a human can undergo. It involves working on a single research question, for which human knowledge has no answer yet, during three or more years. In recent years, there has been an increasing awareness that such protracted and complex learning experience can lead, for many doctoral candidates, to *mental health* challenges and/or the *abandoning* of the doctorate.
 
 ### Mental health in the doctorate
@@ -22,6 +21,7 @@ A doctoral degree is one of the most challenging (and long!) educational experie
 ### Dropout in the doctorate
 
 >  **Reading** (12 min): To understand how bad is the problem of high dropout rates in doctoral education, and some factors known to be related to doctoral dropouts, read the blog post ["Who drops out of the Ph.D.?"](https://ahappyphd.org/posts/drop-out-phd/).
+
 
 ### What about a *TEL* doctorate specifically?
 
