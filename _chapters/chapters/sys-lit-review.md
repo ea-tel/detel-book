@@ -134,7 +134,7 @@ When reporting outcomes the authors need to present a concise summary of data fo
 
 These two questions will help you reflect on what you have learned and think about how to apply it to your PhD project.
 
-1-What did you learn today that you didn\t know before?
+1-What did you learn today that you didn't know before?
 
 2- On what topic/aspect of your PhD project do you think it would be interesting to do a systematic literature review?
 
