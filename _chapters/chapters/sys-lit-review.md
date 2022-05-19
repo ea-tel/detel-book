@@ -83,7 +83,7 @@ Simple words (AND, OR, NOT or AND NOT) used as conjunctions to combine or exclud
 
 A structured approach to determine the source material for the review is recommended and include:
 
-* **Databases:** A systematic search for literature should draw from multiple databases. The major contributions are likely to be in the leading journals. Identification of relevant articles, scanning a journal's table of contents and also examine selected conference proceedings, especially those with a reputation for quality.
+* **Databases:** A systematic search for literature should draw from multiple databases. The major contributions are likely to be in the leading journals. Identification of relevant articles, scanning a journal's table of contents and also examine selected conference proceedings, especially those with a reputation for quality:
 * Scopus. 
 * Web of Science.
 * PubMed. 
