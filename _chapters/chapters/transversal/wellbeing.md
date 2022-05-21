@@ -57,67 +57,215 @@ We know doctoral students are a busy bunch, so we will use the scores from the e
 
 ### Deep Dive: Progress and Productivity
 
-We’ve seen progress is crucial for completing long, difficult tasks
+As we have seen [in the reading above](https://ahappyphd.org/posts/progress-loop/), perceiving a sense of progress in the elaboration of the dissertation materials is crucial for completing a TEL doctorate in an appropriate length of time. However, the PhD thesis implies many tasks of different kinds, e.g., reading, writing, gathering data, analysis, … which means it is very common to have “multiple fronts open”. And we have not even mentioned other obligations you may have *outside* the dissertation (family, friends, other jobs, volunteering, etc.)!
 
+How can we stand the deluge of tasks that all these areas of our life generate, and stay sane and finish on time? (and even enjoy it!?). This is where productivity advice, tailored specifically for the doctoral research environment and types of tasks, becomes helpful. In the following, we will quickly go over such advice, with links to further reading.
 
-The PhD thesis implies many tasks of different kinds
-i.e. reading, writing, gathering data, analysis, … having “multiple fronts open”.
-Not to mention other obligations you may have outside it!
+**Common productivity problems/symptoms in a TEL PhD**
 
+When talking with (TEL and otherwise) doctoral students about their productivity, these are some of the reactions we get (you can find a wider categorization of doctoral productivity challenges [here](http://ahappyphd.org/posts/productivity-challenges/)):
 
-How to stay sane and finish on time? (and enjoy it!?)
+- “Don’t know what’s the problem, but I know I’m not productive”
+
+- “I know what to do, but it does not look like I’m progressing”
+
+- “Don’t know why, but in the end I spend most of my day on email/phone/social networks”
+
+- “I am overwhelmed by so many tasks”
+
+- “I have this HUGE task that never seems to finish”
+
+- “I don’t have enough energy to do this important task, so I will do this other small thing” (procrastination) 
+
+- “My productivity is derailed by other people/interruptions/unexpected things happening”
+
+If you have every thought along these lines during your PhD work, know that **you are not alone**: Many TEL doctoral students have experienced more than one of these throughout their PhD, and many more will. Now that we have dispelled some of the "impostor syndrome" that these thoughts often bring (no, it is not that you are particularly unfit to do a PhD!), let's look at some solutions.
 
 #### General practices to foster a sense of progress
 
-> **Reading** (9 min): ............. content copied/adapted from [this post](https://ahappyphd.org/posts/progress-loop/) (second half?)
+> **Reading** (9 min): To get familiar with some general practices that have been proposed in the academic literature and in industry to foster the perception of one's own progress, finish reading the blog post ["Cultivating the progress loop in your PhD"](https://ahappyphd.org/posts/progress-loop/) (from the section "Cultivate your own progress loop" onwards).
 
-#### Exercise: Your key productivity challenges
-
-NEW *text describing the exercise, probably adapt from our webinar slides*
+The practices mentioned above (making smaller tasks, journaling, self-tracking or OKRs) often help with the *perception* side of perceiving one's own progress. Yet, how can we actually **get more done** in the (often, difficult, laborious, cognitively demanding) tasks that a doctorate implies? This is where (PhD-tailored) productivity advice comes in:
 
 #### Doctoral productivity meta-principles
 
-NEW *text describing the principles, probably adapt from our webinar slides*
+After four years as a PhD student, and many more trying to support doctoral students to finish their PhDs, there are several simple (but not necessarily easy) principles and rules that I have found work for many people, when doing research work for the first time:
+
+1. To be productive is a **practice** (even the productivity gurus fall off the wagon from time to time and have to start over and get into the rhythm)
+2. Manage your **attention/energy**, not only your time (see #3, #4 below)
+3. Do the **most important thing first** (this might not be the most urgent!)
+4. Do **once thing at a time** (multi-tasking does NOT work, unless it’s a really dumb task)
+5. **Habits and routines** are more important than willpower or great goals (focus on sustainability!)“Starting again” as a crucial meta-habit (see #1)
+6. Start **now**! (even if it is [for 25 min only](https://ahappyphd.org/posts/pomodoro-technique/))
+
+If you implement these rules consistently, you will already be ahead of many of the people that start a PhD thinking that it is "just like a longer masters". However, given that each TEL PhD journey is different (topic-wise, circumstance-wise, etc.), it is also good to understand what are the concrete challenges that *each of us* is facing specifically
+
+#### Exercise: Your key productivity challenges
+
+> **Exercise** (5 min): Spend a few minutes reflecting and writing down which ones do you think are your main productivity challenges. First, brainstorm many ideas (e.g., 5-10) without judging them much. Afterwards, highlight 1-3 <u>productivity</u> challenges which you think are clearly the most important in your particular case. When in doubt, select <u>internal</u> productivity challenges, i.e., those that depend mostly on you (rather than being because of external factors or people).
+>
+> ***NB**: You can also do this exercise in a group (as we do in [our doctoral workshops](https://ea-tel.eu/events/doctoral-wellbeing-and-technology-enhanced-learning)), by joining with other colleagues of yours (especially, doctoral students) and brainstorming challenges and discussing them in the group. Try to select in the end the 1-3 <u>internal productivity</u> challenges that you think affect all of you the most.*
+
+
 
 #### A catalogue of productivity techniques to address your challenges
 
-NEW *text describing the techniques, with links to the relevant posts, probably adapt from our webinar slides*
+Now that you know the exact productivity problem(s) you're facing, it is time to get more granular on what kind of productivity advice would fit your particular situation. While there is a wealth of doctoral-specific productivity advice [elsewhere](https://ahappyphd.org/tags/productivity), here are 10 productivity "patterns" that we have found work for most of the doctoral students we have talked with:
+
+1. [Sleep more!](https://ahappyphd.org/posts/on-sleep/)
+2. [Capture: Keep a diary/notebook](https://zenhabits.net/tips-for-gtds-ubiquitous-capture/), and [Always Be Capturing (ABC)](https://library.gv.com/a-tip-for-effective-meetings-always-be-capturing-94fabecf38d4)
+3. [Diagnose: Track your key habits and progress metrics](https://ahappyphd.org/posts/progress-loop/)
+4. [Organize: Plan your day (including morning and evening routines)](https://ahappyphd.org/posts/to-do-list-overwhelm/)
+5. [Organize: Have a (productivity) system](https://zenhabits.net/gsd/) (a simple one!)
+6. [Focus: the Pomodoro Technique](https://ahappyphd.org/posts/pomodoro-technique/)
+7. [Focus: limit your “work in progress” (a.k.a. Most Important Tasks)](https://ahappyphd.org/posts/to-do-list-overwhelm/)
+8. [Focus: eliminate distractions and tweak your environment](https://ahappyphd.org/posts/task-conflict/)
+9. [Focus: Timebox and task-batch](https://todoist.com/productivity-methods/time-blocking)
+10. [Reflect: Do regular reviews](https://ahappyphd.org/posts/weekly-review/) (especially, if you journal or self-track)
+
+> **Exercise** (15 min): Look at the productivity patterns above, and reflect whether any of them could have an impact on your particular productivity problem(s) from the previous exercise. Then, read a bit more about the potential patterns you want to implement (to understand its rationale and how to implement it), and make a note (e.g., in a post-it) somewhere visible and meaningful, making the promise to yourself to implement it from now on.
+>
+> ***NB**: You can also do this exercise in a group (as we do in [our doctoral workshops](https://ea-tel.eu/events/doctoral-wellbeing-and-technology-enhanced-learning)), by joining with other colleagues of yours (especially, doctoral students) and discussing the solutions and their match to your most important productivity problems.*
+
+
+
+#### Parting productivity advice
+
+This is it for the doctoral productivity. Of course, much more can be said about this topic, but this is probably the "Pareto principle" version (i.e., the 20% of the advice that will give you 80% of the benefit).
+
+Just one last piece of productivity advice, as a productivity geek for many years: don’t be like this guy I know (*cough-myself-cough!*) that thought for many years:
+
+> "Once I find the right productivity system, hard work will become easy!"
+
+Rather, be like this other one, which became much wiser after trying and failing to find such perfect productivity workflow:
+
+> "I know why I want to do this, so I don’t care if it’s hard!
+>
+> Let’s just organize the work enough, so that I do the best I can."
+
+
+
+***May you be your most productive, researcher self!***
+
+
 
 ### Deep Dive: Mental Health
 
-content copied/adapted from [this post](https://ahappyphd.org/posts/am-i-normal/)
+We have already established that mental health problems like depression, anxiety or stress, are widespread in doctoral education, and they are perceived as an important challenge in doctoral TEL research. But why is this the case? Read on below to find out:
+
+> **Reading** (9 min): To understand common mental health-related symptoms most doctoral students face during the PhD, some of its main underlying mechanisms and what to do about them (if something needs to be done), please read the blog post ["Am I normal? An intro to mental health in the doctorate"](https://ahappyphd.org/posts/am-i-normal/).
 
 #### Exercise: What takes us away from what is important
 
-NEW *text describing the exercise, probably adapt from our webinar slides*
+Now that we have a general layout of the typical mental health problem during a TEL doctorate, and a few basic techniques we can apply to face them, we can again go deeper into our particular challenges, symptoms we experience and how we often react to them in unhelpful ways.
 
-#### Strategies against self-sabotage
+> **Exercise** (10 min): Take a few quiet minutes to reflect and write down the answers to these two questions:
+>
+> * ***How much time** do you spend doing things that take you further away from your priorities (especially, your dissertation -- which probably is one of your current key priorities), or that block you from progressing in that direction?*
+>   * This is often what drives us away from the important stuff, or keeps us blocked, often has to do with spending too much time “in our own head”, tangled in our thoughts, feelings, worries, etc. and arguing with ourselves.
+> * ***What kind of reactions** do you have when facing those difficult emotions/thoughts (symptoms)? What do you often do?*
+>   * E.g., Reading websites, tidying my workspace, responding emails, eating at random times, not sleeping, ...
 
-NEW *text describing the strategies, with links to the relevant posts, probably adapt from our webinar slides*
+The key message to take away from the exercise above is ***not*** that *everything* we do when we face uncomfortable feelings, thoughts or sensations is wrong necessarily. For instance, [taking a break](https://ahappyphd.org/posts/micro-break-mantras/) can be essential to stay productive over long periods of time. However, if *every time* we face a symptom (e.g., thinking "this thesis is useless") we take a break, we may end up not finishing our PhD *ever*. Therefore, we need to **consider our reactions to such symptoms, and decide whether they are bringing us closer or moving us farther from what we think is important** in our lives. And only *we* can define what these important things are!
+
+#### Strategies and tactics against self-sabotage
+
+When we are facing the kind of self-sabotage described above (unhelpful thoughts and behaviors that take us away from what we think is important, like our TEL dissertation), it is important to keep in mind a few general **strategies**:
+
+* Good mental health is strongly related to **healthy lifestyle habits**: sleep, diet, physical exercise...
+* Listen to/**Observe yourself** (e.g., through journaling), to understand what seems to work... not to get momentary relief, but rather to be satisfied with what we did if we reflect at the end of the day.
+* Analyze your observations and always keep in mind: [**“what is important *for you*?”**](https://ahappyphd.org/posts/micro-break-mantras/)
+
+Aside from these general directions, there are more concrete everyday **tactics** that we can use to overcome our unhelpful reactions:
+
+1. Techniques aimed at loosening the “[rumination](https://en.wikipedia.org/wiki/Rumination_(psychology)) muscles” in our minds and developing its “attention muscles”. Typically, this involves **relaxation and mindfulness** practices (see examples [here](https://ggia.berkeley.edu/)).
+2. Simple but powerful techniques **to focus on what’s important**, such as "granny’s rule": Do first what we tend to postpone (e.g., using the [Pomodoro technique](https://ahappyphd.org/posts/pomodoro-technique/)).
+3. If we find that we often face **self-interruption and distraction**, we can try exercises like ["sitting with uncertainty"](https://ahappyphd.org/posts/writing-uncertainty/) (e.g., during paper writing sessions).
+4. If we are prone to rumination cycles in which unhelpful trains of thought course through our minds again and again, we can...
+   1. ... **distance ourselves from our thoughts** by **changing the linguistic conventions of our self-talk** (e.g., changing unhelpful thoughts to “I’m having the feeling/thought that…”). 
+   2. ... put them physically **in our backpockets**: recognize the thought, write it down on a piece of paper, and do not reject it, but rather fold it, put it in your back pocket, and continue doing what you were doing.
 
 #### Exercise: Going towards the important stuff (e.g., your TEL dissertation!)
 
-NEW *text describing the exercise, probably adapt from our webinar slides*
+Now that we know exactly what kind of behaviors and thoughts could become problematic, and some tactics we could use to address them, let's try to put both elements together to get a first, personalized strategy for facing our mental health struggles in the TEL doctoral journey.
+
+> **Exercise** (15 min): Make a copy of [**this whiteboard**](https://jamboard.google.com/d/1hSYG2M6e_5G6P2gOsLJ-np9AkHxcrA045j6N7Yi4j7E/copy) (you will need a Google account to create the copy) and fill it in with answers to the following questions:
+>
+> 1. What are common uncomfortable emotions/sensations you currently face (especially when working on your research tasks)?
+> 2. What kinds of actions you take controlled by those emotions/sensations, which take you away from what you consider important (e.g., finishing your TEL PhD)?
+> 3. What actions/habits could you take *instead* to go more in the direction you consider important? You can choose from the strategies and tactics above, or come up with your own rules, habits and actions that make sense for your context and current circumstances.
+
+#### Parting mental health advice
+
+Again, this is just the "Pareto version" of the mental health advice a doctoral student may get. Don't think about it as a complete guide, but rather as a "first aid kit" that you can use for the everyday emotional wounds and bruises that a PhD often brings.
+
+If these basic tactics do not work for you, please do contact a professional counselor or therapist (universities often have counseling units specialized on supporting students in facing this kind of challenges). This text should not be considered healthcare advice, but rather for informational and educational purposes.
+
+
+
+***May you have a serene doctoral journey!***
+
+
 
 ### Deep Dive: Thesis Appropriation
 
-NEW *text describing the idea of appropriation, probably adapt from our webinar slides*
+Several elements play into “a thesis that makes sense to us”, one of the three key motivational factors that Belgian researchers have found distinguish doctoral students that finish the PhD from those that abandon it[^devos]. These elements include:
 
-#### Appropriating the *Content* (your PhD topic)
+* We feel we have control about where the research goes (perceived autonomy)
+* **We understand the thesis as a whole (vs. a series of random studies) (conceptualization of content or topic of the dissertation)** 
+* **We know how to get to the end (conceptualization of the dissertation process)**
+* We think our research contribution is worth making (perceived usefulness of the outcome)
 
-content copied/adapted from [this post](https://ahappyphd.org/posts/cqoce-diagram/)
+Below, you can find two exercises that other PhD students (including the authors of this chapter when they were students) have found useful to both assess and develop your conceptualization of the *contents* and *process* of your TEL dissertation.
+
+[^devos]: Devos, C., Boudrenghien, G., Van der Linden, N., Azzi, A., Frenay, M., Galand, B., & Klein, O. (2017). Doctoral students’ experiences leading to completion or attrition: A matter of sense, progress and distress. *European Journal of Psychology of Education*, *32*(1), 61–77.
+
+#### Appropriating the *Content* (i.e., your PhD topic)
+
+>  *"What is your doctoral thesis about?"*
+
+This is one of the most common questions a TEL doctoral student receives at conferences, in seminars, in informal chitchat or in occasional visits by external professors. It is also one of the most difficult ones to answer, especially at the beginning. Answering it well, in a reasonable time, requires good knowledge about several key elements of your research, and how they fit together:
+
+* What is the research context: what areas and topics of research (and gaps in the literature) your thesis is connected to.
+* What is your main research question: something that human knowledge about technology-enhanced learning has not found out yet.
+* What is the research contribution: what kinds of answers you plan to find for the research question.
+* What is the evaluation scheme of your dissertation: how do you plan to prove that your contribution is novel, useful, and solves the problem/question you set out to answer.
+
+The following exercise will help you develop this mastery of the contents of your thesis at a high level. 
 
 #### Exercise: Do your own CQOCE diagram
 
-NEW *text describing the exercise*
+> **Exercise** (20-60 min): Please read [this blog post](https://ahappyphd.org/posts/cqoce-diagram/) and create your own CQOCE diagram detailing the research context, main question, objective(s), contribution(s), and evaluation of your PhD thesis. You can do this on pen and paper, or make a copy of [this diagram](https://docs.google.com/drawings/d/1ihQUuuylOxVTxqeqZPEBtXDXcgbIVao-MYjInOaDeTA/copy) (will require a Google login to create your copy).
+
+The resulting one-page summary of your thesis is quite useful for communication with your supervisor(s) as well (as they may be following multiple research threads and may not remember exactly what yours is about, and whether there has been a recent conceptual leap in how *you* understand the research). Additionally, you can use such a diagram in the introduction of your actual dissertation manuscript, to clarify its main elements for the reader. Indeed, some of us still use this kind of tool internally *after the PhD*, when starting a new research project or research line!
+
+It is important to repeat it: this kind of exercise is *iterative*. It is OK if you find some parts difficult, or you do not know what to put in some parts of it. That is already useful information about what things are not clear, which you could discuss with your supervisor(s) or other colleagues. And it is also OK (and quite common, actually), to do multiple different versions of the diagram over time as the dissertation process evolves and you understand better your research field and the exact nature of what you can achieve within the scope of your dissertation (one of the authors of the chapter did about 20 different versions of it!)
 
 #### Appropriating the *Process* of the PhD
 
-content copied/adapted from [this post](https://ahappyphd.org/posts/map-thesis/)
+In our doctoral workshops, students and supervisors that had a good grip on their doctoral process mentioned having a “map of the thesis” in their heads. It is useful then to also externalize this map onto a piece of paper, again for our own understanding and to discuss with your supervisor(s) and colleagues: you may have a different understanding of what is crucially important, and what is just "nice to have". As with any other map one uses to plan a trip, there are several useful elements to account for:
+
+* Major **milestones** until the destination, which define phases or stages in the journey, and provide unequivocal proof that you are going in the right direction.
+* **Obstacles** (internal to you, or external), defining places or times that can be especially tricky to navigate, or personal weaknesses or constraints that we need to carefully consider so that they do not hamper our advance.
+* **Fuel** and how to get it: in this case, these can be everyday actions, habits or indicators that provide more frequent feedback that we are moving, and which keep us going between milestones.
 
 #### Exercise: Do your own Thesis Map
 
-NEW *text describing the exercise*
+> **Exercise** (30 min): Read [this blog post](https://ahappyphd.org/posts/map-thesis/) and create a map of your own doctoral journey, either in pen and paper, or by creating a [copy of this editable thesis map template](https://jamboard.google.com/d/156ACWjwlsA7kAwqcSRc6qNA8EfKgJ08DSo86ueHd2Rc/copy) (it will require a Google login to create the copy). Make sure to add at the 3-4 *most important* elements of each kind:
+>
+> * **Milestones** (yellow post-its): major key points or events, help we know in what part of the journey we are.
+> * **Obstacles** (red post-its): factors, unexpected events, dangers that may make it difficult to advance and hit the different milestones
+> * **Fuel** (green post-its): More frequent, everyday events or habits (e.g., daily, weekly) that help us avoid obstacles and hit the milestones
+>
+> You can draw some of these elements from the exercises in the other deep dives (e.g., main challenges or unhelpful behaviors can be internal obstacles; useful productivity/progress practices can be fuel; etc.)
+>
+> *NB: This exercise can be done individually or in a group, especially with other people that will have a similar journey (e.g., doing similar kinds of research or using the same methodology). However, you will want to ultimately personalize your own version of the map, to account for particularities of your topic, circumstances or personality.*
+
+
+
+***May your journey be fast and enjoyable!***
+
+
 
 ## Putting it all together: towards your next dissertation milestone
 
