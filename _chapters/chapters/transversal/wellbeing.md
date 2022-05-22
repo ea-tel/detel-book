@@ -9,8 +9,15 @@ permalink: /chapter/transversal/wellbeing/
 
 ## The Problem(s)
 
-NEW *personal, narrative vignette?*
+Obtaining a doctoral degree is no unified experience nor a linear path, and each candidate goes through somewhat familiar yet distinctive processes during the PhD. Here are some stories just to point out the diversity. 
 
+The first one belongs to a 5th year PhD student who currently only has one article published among the 3-4 she needs. With a turmoil between her desire to complete to PhD, and the urge to keep her work-study-life balance mastered, each rejected paper frustrates her even more. Her productivity seems to be thriving as she works as much as a senior researcher, while also having finished writing 8 papers already. However, luck and mental wellbeing does not necessarily blossom under the influence of the productivity, just the contrary, the gap between the acknowledged workload and inability to possess doctoral success disappoints and frustrates her to a degree that she has been considering to quit her PhD entirely, at least once every week for this year. 
+
+Being close to burnout and drop out numerous times, she now takes it slow on her routine and priorities. Although there still seems to be struggle with the publications, she takes more certain steps towards completing her PhD with a better time allocation in hand. 
+
+Our next guest story belongs to a PhD graduate who currently undertakes her post-doc degree overseas, and works as a senior researcher at the same time. She started to work as a student assistant after completing her master’s degree, which then turned into a doctoral degree defense as she already published multiple consecutive and interconnected articles as part of her job at the university. She published few more, and wrote a monograph in two weeks to defend and obtain her PhD. Now, “how does that story look simplistic and direct?” you may ask. She had been through the hardships and the confusion of the PhD while working as the assistant at the lab where she felt that she needed to work more than the others. 
+
+These stories all have different elements and influence factors to them, but one thing is for clear: they all involve so much hardwork, time, effort, and growth put into work. Not being able to organize your approach and contain a straight face when encountered with inconvenience are subtle, and are also part of this path. 
 
 A doctoral degree is one of the most challenging (and long!) educational experiences that a human can undergo. It involves working on a single research question, for which human knowledge has no answer yet, during three or more years. In recent years, there has been an increasing awareness that such protracted and complex learning experience can lead, for many doctoral candidates, to *mental health* challenges and/or the *abandoning* of the doctorate.
 
@@ -305,4 +312,4 @@ As a capstone of this wellbeing and productivity mini-course, we would like you 
 
 ## Conclusion
 
-NEW *some closing vignette, ending on a hopeful note?*
+A second year PhD candidate, needless to say that there's been confusion towards deciding the direction to follow and multiple outburst of inspirations that’s been gone with the wind after having the epiphany. Questions of imposter syndrome and being a terrible researcher comes at the minor inconvenience displayed, and the uncertainty of publishablity takes a long time which is a lot of commitment and effort. She found herself questioning whether a PhD is worth it, and whether to proceed with the research. At the end of the day, the degree in itself is not necessarily the end goal but the journey itself is exciting. 
