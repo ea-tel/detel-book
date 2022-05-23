@@ -9,17 +9,15 @@ permalink: /chapter/transversal/wellbeing/
 
 ## The Problem(s)
 
-Obtaining a doctoral degree is no unified experience nor a linear path, and each candidate goes through somewhat familiar yet distinctive processes during the PhD. Here are some stories just to point out the diversity. 
-
-The first one belongs to a 5th year PhD student who currently only has one article published among the 3-4 she needs. With a turmoil between her desire to complete to PhD, and the urge to keep her work-study-life balance mastered, each rejected paper frustrates her even more. Her productivity seems to be thriving as she works as much as a senior researcher, while also having finished writing 8 papers already. However, luck and mental wellbeing does not necessarily blossom under the influence of the productivity, just the contrary, the gap between the acknowledged workload and inability to possess doctoral success disappoints and frustrates her to a degree that she has been considering to quit her PhD entirely, at least once every week for this year. 
-
-Being close to burnout and drop out numerous times, she now takes it slow on her routine and priorities. Although there still seems to be struggle with the publications, she takes more certain steps towards completing her PhD with a better time allocation in hand. 
-
-Our next guest story belongs to a PhD graduate who currently undertakes her post-doc degree overseas, and works as a senior researcher at the same time. She started to work as a student assistant after completing her master’s degree, which then turned into a doctoral degree defense as she already published multiple consecutive and interconnected articles as part of her job at the university. She published few more, and wrote a monograph in two weeks to defend and obtain her PhD. Now, “how does that story look simplistic and direct?” you may ask. She had been through the hardships and the confusion of the PhD while working as the assistant at the lab where she felt that she needed to work more than the others. 
-
-These stories all have different elements and influence factors to them, but one thing is for clear: they all involve so much hardwork, time, effort, and growth put into work. Not being able to organize your approach and contain a straight face when encountered with inconvenience are subtle, and are also part of this path. 
-
 A doctoral degree is one of the most challenging (and long!) educational experiences that a human can undergo. It involves working on a single research question, for which human knowledge has no answer yet, during three or more years. In recent years, there has been an increasing awareness that such protracted and complex learning experience can lead, for many doctoral candidates, to *mental health* challenges and/or the *abandoning* of the doctorate.
+
+Yet, the doctoral journey is not a unified experience nor a linear path, and each candidate goes through somewhat familiar yet distinctive processes during the PhD. Here are some stories just to point out the diversity:
+
+> *Anna, a fifth year PhD student currently only has one article published (of the 3-4 she needs to finish the PhD). With a turmoil between her desire to complete to PhD, and the urge to keep her work-study-life balance, each rejected paper frustrates her even more. Her productivity seems to thrive: she works as much as a senior researcher, and has finished writing 8 papers already. However, luck and mental wellbeing does not necessarily blossom under the influence of such productivity. On the contrary, the gap between the acknowledged workload and her apparent inability to achieve doctoral success through publication of her papers disappoints and frustrates her to such a degree that she has been considering to quit her PhD entirely, at least once every week for this year.*
+
+> *Beth, a PhD graduate who currently undertakes her post-doc overseas, works as a senior researcher at the same time. She started to work as a student assistant after completing her master’s degree, which then turned into a doctoral degree defense as she already published multiple consecutive and interconnected articles as part of her job at the university. She published few more, and wrote a monograph in two weeks to defend and obtain her PhD. Now, “how does that story look simplistic and direct?” you may ask. She had been through the hardships and the confusion of the PhD while working as the assistant at the lab where she felt that she needed to work more than the others.*
+
+These stories all have different elements and influence factors to them, but one thing is clear: they all involve lots of hard work, time, effort, and growth. Not being able to organize your approach and putting a straight face when encountered with problems, challenges or rejections are subtle parts of this path. 
 
 ### Mental health in the doctorate
 
@@ -46,11 +44,11 @@ This TEL-specific data, along with the wealth of research cited in the readings 
 
 ## Motivational Factors to Complete a (TEL) PhD
 
-NEW *another personal vignette?*
+
 
 ### "Progressing serenely in a project that makes sense"
 
-> **Reading** (8 min): To understand how the sentence above summarizes the three key motivational factors distinguishing doctoral students that finish their PhD from those that do not, read the first half of the blog post ["Cultivating the progress loop in your PhD"](https://ahappyphd.org/posts/progress-loop/) (until the section "A small bit of evidence from the field", included).
+> **Reading** (8 min): To understand how this sentence summarizes the three key motivational factors distinguishing doctoral students that finish their PhD from those that do not, read the first half of the blog post ["Cultivating the progress loop in your PhD"](https://ahappyphd.org/posts/progress-loop/) (until the section "A small bit of evidence from the field", included).
 
 #### Exercise: Self-assess your key motivational areas
 
@@ -310,6 +308,12 @@ As a capstone of this wellbeing and productivity mini-course, we would like you 
 > 10. A critical and often overlooked step in making this strategic plan work is to **periodically review** it: **Every day**, at the end of the workday, go over the day's plan (steps #8-9), mark your progress (and celebrate it!) and note undone tasks, note down your metrics (step #7) and make a similar plan (MITs, tasks and appointments) for the next day. Similarly, at the end of **each week**, go over the weekly plan (steps #5-7), notice your progress (yay!) and make the plan for the following week. In each of these reviews, see if you need to adjust the overall strategy, deadlines or milestones: it is seldom the case that our original plan (done with incomplete information) will work until completion! Rather, we often need to adjust dates, or modify the scope or number of tasks, eliminating "nice-to-haves", etc.
 > 11. Once you hit the dissertation milestone, *really* celebrate: take the afternoon off, do something you really like, go out with some friends. Later, do the strategic plan for the next milestone (go again to step #1). Rinse and repeat. The dissertation will be done in no time! :)
 
-## Conclusion
 
-A second year PhD candidate, needless to say that there's been confusion towards deciding the direction to follow and multiple outburst of inspirations that’s been gone with the wind after having the epiphany. Questions of imposter syndrome and being a terrible researcher comes at the minor inconvenience displayed, and the uncertainty of publishablity takes a long time which is a lot of commitment and effort. She found herself questioning whether a PhD is worth it, and whether to proceed with the research. At the end of the day, the degree in itself is not necessarily the end goal but the journey itself is exciting. 
+
+## Epilogues
+
+> *Anna, having been close to burnout and drop out numerous times, now takes it slow on her routine and priorities. Although there still seems to be struggle with the publications, she takes more confident steps towards completing her PhD with a better time allocation in hand.*
+
+
+
+> *Carl, a second year PhD candidate, has experienced confusion in deciding what direction to follow with his research, and multiple outburst of inspiration have been gone with the wind after having an apparent epiphany. Questions of imposter syndrome and being a terrible researcher come at the slightest inconvenience, and the uncertainty of his work's publishability puts into question the long time, commitment and effort that invested in them. He found himself questioning whether a PhD is worth it, and whether to proceed with the research. Yet, at the end of the day, he realizes that the degree in itself is not necessarily the end goal but that the journey is exciting.* 
