@@ -34,9 +34,7 @@ So far, we have established that mental health and the risk of dropout are wides
 
 As it turns out, a recent (still unpublished) survey study of more than 200 doctoral students and researchers in TEL found out that psychological challenges (e.g., anxiety, depression) and work-life balance are the most difficult ones that they face during the PhD. The figure below illustrates the point:
 
-![How easy are different kinds of challenges in a TEL doctorate, from a survey of 200+ dooctoral students and researchers in TEL. The Likert scale goes from 1 (very difficult to face) to 5 (very easy).](C:\Users\Usuario\workspace\detel-book\_chapters\chapters\transversal\detel-survey.png)
-
-
+<img width="744" alt="How easy are different kinds of challenges in a TEL doctorate, from a survey of 200+ dooctoral students and researchers in TEL. The Likert scale goes from 1 (very difficult to face) to 5 (very easy)." src="https://github.com/lprisan/detel-book/raw/master/_chapters/chapters/transversal/detel-survey.png">
 
 This TEL-specific data, along with the wealth of research cited in the readings above, suggest that mental health and (research) productivity are closely intertwined in a TEL doctorate, and are often hard to manage for many doctoral students. If you feel like you suffer from these problems *now*, or you would like to be prepared for the moment when these challenges come (spoiler alert: they *will* probably come at some point the doctorate), read on!
 
