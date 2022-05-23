@@ -22,7 +22,7 @@ According to the Society for Learning Analytics Research (SoLAR), "*learning ana
 Different types of learning analytics are created based on a conceptual framework to understand the design space of LA. The conceptual framework is useful for:
 
   i. Describing a learning analytics solution in terms other LA researchers can understand
-  
+
   ii.Proposing/designing new LA solution ideas that deﬁnes the “design space” of most learning analytics systems/innovations
 
 We can describe an LA innovation in 6 “critical dimensions”:
@@ -86,7 +86,7 @@ LAPills is based on the idea of reusable templates = design + data  gathering + 
 ## Implementing new LA Prototypes:  Languages & Toolkits
 
 These and many of the other LA tools we have seen today have been implemented using a few common languages and toolkits, also used in other data sciences:
- 
+
   - **R** (statistical language for data science) + publishing services like Shiny
   
   - **Python** (general-purpose language with a lot of data science and machine  learning libraries, especially “deep neural networks” stuﬀ)
@@ -98,8 +98,8 @@ These and many of the other LA tools we have seen today have been implemented us
 
 # Researching Learning Analytics: Paradigms
 
-You want to do research in LA, and don't know where to start? Take a look at the free, open [“Handbook of Learning Analytics”] (https://www.solaresearch.org/publications/hla-17/). The book covers the **foundations** (what is LA, computational methods, ethics, and measurement), **techniques** (diﬀerent ways of implementing LA: analysis, design, visualization…), **applications** (where has LA been successfully applied, and to understand what learning constructs), **institutional strategies**, and **systems perspectives** (high-level issues and challenges).
- 
+You want to do research in LA, and don't know where to start? Take a look at the free, open [“Handbook of Learning Analytics”](https://www.solaresearch.org/publications/hla-17/). The book covers the **foundations** (what is LA, computational methods, ethics, and measurement), **techniques** (diﬀerent ways of implementing LA: analysis, design, visualization…), **applications** (where has LA been successfully applied, and to understand what learning constructs), **institutional strategies**, and **systems perspectives** (high-level issues and challenges).
+
 ## Types of LA-like research: Paradigms and communities
 
 There’s many related/similar terms to “Learning Analytics” (LA). Particular sub-types can be listed as *Academic Analytics* (institution as client), *Teaching Analytics* (teacher as subject), etc. Diﬀerent but very related research communities are: Educational Datamining (EDM), AI in
@@ -120,11 +120,11 @@ You can deepen your knowledge of LA by visiting the ["Moodle course"](https://mo
 
 # Further References and Resources
   Baker, R. S., Gašević, D., & Karumbaiah, S. (2021). Four Paradigms in Learning Analytics: Why Paradigm Convergence Matters. Computers and  Education: Artificial Intelligence, 100021. https://doi.org/10.1016/j.caeai.2021.100021
-  
+
   Blikstein, P., & Worsley, M. (2016). Multimodal learning analytics and education data mining: Using computational technologies to measure complex  learning tasks. Journal of Learning Analytics, 3(2), 220-238.
 
   Chejara, P., Prieto, L. P., Ruiz-Calleja, A., Rodríguez-Triana, M. J., Shankar, S. K., & Kasepalu, R. (2021). EFAR-MMLA: An Evaluation Framework to 22  Assess and Report Generalizability of Machine Learning Models in MMLA. Sensors, 21(8), 2863.
-  
+
   Chejara, P., Kasepalu, R., Shankar, S. K., Prieto, L. P., Rodríguez-Triana, M. J., & Ruiz-Calleja, A. (2020). MMLA Approach to Track Collaborative  Behavior in Face-to-Face Blended Settings.
 
   Di Mitri, D., Schneider, J., Specht, M., & Drachsler, H. (2018). From signals to knowledge: A conceptual model for multimodal learning analytics.  Journal of Computer Assisted Learning, 34(4), 338-349.
@@ -133,20 +133,19 @@ You can deepen your knowledge of LA by visiting the ["Moodle course"](https://mo
 for trusted learning analytics. In Proceedings of the 6th International Conference on Learning  Analytics & Knowledge (pp. 89-98). ACM.
 
   Ferguson, R. (2012). Learning analytics: drivers, developments and challenges. International Journal of Technology Enhanced Learning, 4(5/6),  304-317.
-  
+
   Greller, W., & Drachsler, H. (2012). Translating Learning into Numbers: A Generic Framework for Learning Analytics. Journal of Educational  Technology & Society, 15(3), 42-57.
     
   Kasepalu, R., Chejara, P., Prieto, L. P., & Ley, T. (2021). Do Teachers Find Dashboards Trustworthy, Actionable and Useful? A Vignette Study Using  a Logs and Audio Dashboard. Technology, Knowledge and Learning, 1-19.
 
   Lang, C., Siemens, G., Wise, A., & Gasevic, D. (Eds.). (2017). Handbook of learning analytics. New York, NY, USA: SOLAR, Society for Learning  Analytics and Research. https://www.solaresearch.org/publications/hla-17/
-  
+
   Martinez-Maldonado, R., Echeverria, V., Fernandez Nieto, G., & Buckingham Shum, S. (2020, April). From data to insights: a layered storytelling  approach for multimodal learning analytics. In Proceedings of the 2020 chi conference on human factors in computing systems (pp. 1-15).
- 
+
   Samuelsen, J., Chen, W., & Wasson, B. (2019). Integrating multiple data sources for learning analytics—review of literature. Research and Practice  in Technology Enhanced Learning, 14(1), 1-20.
 
   Siemens, G. (2013). Learning analytics: The emergence of a discipline. American Behavioral Scientist, 57(10), 1380-1400.
 
   Shankar, S. K., Rodríguez-Triana, M. J., Ruiz-Calleja, A., Prieto, L. P., Chejara, P., & Martínez-Monés, A. (2020). Multimodal Data Value Chain
-(M-DVC): A Conceptual Tool to Support the Development of Multimodal Learning Analytics Solutions. IEEE Revista Iberoamericana de Tecnologias	18  del Aprendizaje, 15(2), 113-122.
-
+(M-DVC): A Conceptual Tool to Support the Development of Multimodal Learning Analytics Solutions. IEEE Revista Iberoamericana de Tecnologias  del Aprendizaje, 15(2), 113-122.
 
