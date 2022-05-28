@@ -1,3 +1,9 @@
+---
+layout: reading_chapter
+title: Qualitative Research in Technology-Enhanced Learning
+hide: false
+permalink: /chapter/introduction/
+---
 
 ### **Qualitative Research in Technology-Enhanced Learning**
 
