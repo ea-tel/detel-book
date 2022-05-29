@@ -29,5 +29,7 @@ M. [Design-based research (DBR)](/detel-book/chapter/methodologies/design-based-
 ## 4 Transversal Issues
 
 N. [Doctoral Wellbeing and TEL](/detel-book/chapter/transversal/wellbeing/)
+N+1. [Ethical Issues in TEL](/detel-book/chapter/transversal/ethics/)
+N+2. [Supervision Issues in TEL](/detel-book/chapter/transversal/supervision/)
 
 ...
