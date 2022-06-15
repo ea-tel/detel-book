@@ -22,6 +22,7 @@ According to Creswell (2007) Qualitative studies have a baffling number of choic
 
 **Table 1. Qualitative Approaches Mentioned by Authors 
 (Adapted from Creswell, 2007, pp. 7-8)**
+
 | **Authors**              |**Qualitative pproaches**     |**Disciplin/Field**|   
 |--------------------------|------------------------------|-------------------|
 | Lancy (1993)             |Anthropological Perspective   |                   |
@@ -70,13 +71,13 @@ Content analysis is the systematic examination of texts and visuals (e.g. newspa
 
 Social research — including research in education in technology enhanced learning— concerns people’s lives in the social world and therefore it inevitably involves ethical issues. Qualitative research often intrudes more into the human private sphere: it is inherently interested in people’s personal view and often targets sensitive matters. In order to conduct good practice in research some academic societies have formulated their codes of ethics (see, for instance, The American Sociological Association Code of Ethics: https://www.asanet.org/, or The Statement of Ethical Practices of the British Sociological Association: https://britsoc.co.uk/).
 Flick (2018, p. 85) proposes the following basic ethical principles when conducting qualitative research:
-●	**Informed consent** means that no one should be involved in research as a participant without knowing about this and without having the chance to refuse to take part.
-●	**Deception of research participants** (by covert observation or by giving them false information about the purpose of research) should be avoided.
-●	**Participants’ privacy** should be respected and confidentiality should be guaranteed and maintained. 
-●	**Accuracy of the data** and their interpretation should be the leading principle, which means that no omission or fraud with the collection or analysis of data should occur in the research practice.
-●	In relation to the participants, **respect for the person** is seen as essential.
-●	**Beneficence**, which means considering the well-being of the participants.
-●	**Justice**, which addresses the relation between benefits and burdens for research participants. 
+- **Informed consent** means that no one should be involved in research as a participant without knowing about this and without having the chance to refuse to take part.
+- **Deception of research participants** (by covert observation or by giving them false information about the purpose of research) should be avoided.
+- **Participants’ privacy** should be respected and confidentiality should be guaranteed and maintained. 
+- **Accuracy of the data** and their interpretation should be the leading principle, which means that no omission or fraud with the collection or analysis of data should occur in the research practice.
+- In relation to the participants, **respect for the person** is seen as essential.
+- **Beneficence**, which means considering the well-being of the participants.
+- **Justice**, which addresses the relation between benefits and burdens for research participants. 
 
 ## **Data collection methods**
 
@@ -112,16 +113,17 @@ Coding is a way of analysing that can be applied to all sorts of data and is not
 ## **Initial coding**
 
 How shall we begin coding? The codes you develop may be influenced by a number of factors (Lewins & Silver, 2008, p. 83):
-●	Research aims
-●	Methodology and analytic approach
-●	Amount, kinds and sources of data
-●	Level and depth of analysis
-●	Constraints
-●	Research audience
+- Research aims
+- Methodology and analytic approach
+- Amount, kinds and sources of data
+- Level and depth of analysis
+- Constraints
+- Research audience
 
 There are different approaches to coding:
 
 **Table 1. Approaches to coding**
+
 |**Corbin & Strauss (2008)**|**Richards (2005)**|**Layder (1998)**|**Mason (2002)**|**Miles & Huberman (1994)**|**Seidel (1998)**|
 |---------------------------|-------------------|-----------------|----------------|---------------------------|-----------------|
 | Open                      | Descriptive       | Provisional     | Literal        | Descriptive               | Objectivistic   |
@@ -173,11 +175,11 @@ There are several procedural tools for analysing qualitative data. We focus here
 # Analytic induction
 
 Analytic induction is a process in which data are scanned to generate categories of phenomena, relationships between these categories are sought and working typologies and summaries are written on the basis of the data examined. The strategy under this approach involves the following according to Bogdan and Biklen (1997, 72): :
-●	In the early stages of the research a rough definition and explanation of the particular phenomenon is developed. 
-●	This definition and explanation is examined in the light of the data that are being collected during the research. 
-●	 If the definition and/or explanation that have been generated need modification in the light of new data (e.g. if the data do not fit the explanation or definition) then this is undertaken.
-●	A deliberate attempt is made to find cases that may not fit into the explanation or definition. 
-●	The process of redefinition and reformulation is repeated until the explanation is reached that embraces all the data, and until a generalized relationship has been established, which will also embrace the negative cases.
+- In the early stages of the research a rough definition and explanation of the particular phenomenon is developed. 
+- This definition and explanation is examined in the light of the data that are being collected during the research. 
+- If the definition and/or explanation that have been generated need modification in the light of new data (e.g. if the data do not fit the explanation or definition) then this is undertaken.
+- A deliberate attempt is made to find cases that may not fit into the explanation or definition. 
+- The process of redefinition and reformulation is repeated until the explanation is reached that embraces all the data, and until a generalized relationship has been established, which will also embrace the negative cases.
 
 # Constant comparison 
 
@@ -193,14 +195,23 @@ Content analysis is often defined as a process in which “many words of texts a
 Content analysis involves “coding, categorizing (creating meaningful categories into which the units of analysis – words, phrases, sentences etc. – can be placed), comparing (categories and making links between them), and concluding – drawing theoretical conclusions from the text” (Cohen, Manion, Morrison, 2018, 476). Researchers often indicate
 the quantitative nature of content analysis when they note that the researcher needs to count concepts, words or occurrences in documents and report them in
 tabular form. According to Cohen, Manion and Morrison (2018, 476), the whole process of content analysis can be summarized in eleven steps: 
+
 **Step 1**: Define the research questions to be addressed by the content analysis. This step includes identifying one wants from the texts to be content-analysed.
+
 **Step 2**: Define the population from which units of text are to be sampled. The population here refers not only to people but mainly, to text – the domains of the analysis.
+
 **Step 3**: Define the sample to be included. The key issues of sampling apply to the sampling of texts: representativeness, access, size of the sample and generalizability of the results. 
+
 **Step 4**: Define the context of the generation of the document- In this step one will examine, for example: how the material was generated; who was involved; who was present; whether the data are accurately reported; the authenticity and credibility of the documents etc.
+
 **Step 5**: Define the units of analysis- This can be at very many levels, for example, a word, phrase, sentence, paragraph, whole text, people and themes. Krippendorp (2004) suggests five kinds of sampling units: physical (e.g. time, place, size); syntactical (words, grammar, sentences, series etc.); categorical (members of a category have something in common); propositional (delineating particular constructions or propositions); and thematic (putting texts into themes and combinations of categories).  
+
 **Step 6**: Decide the codes to be used in the analysis- Codes can be at different levels of specificity and generality when defining content and concepts. To be faithful to the data, the codes themselves derive from the data responsively rather than being created pre-ordinately. A code is a word or abbreviation sufficiently close to that which it is describing for the researcher to see at a glance what it means.
+
 **Step 7**: Construct the categories for analysis-Categories are the main groupings of constructs or key features of the text, showing links between units of analysis.
+
 **Step 8**: Conduct the coding and categorizing of the data-Once the codes and categories have been decided, the analysis can be undertaken. This concerns the actual ascription of codes and categories to the text. In coding a piece of transcription the researcher goes through the data systematically, typically line by line, and writes a descriptive code by the side of each piece of datum, for example: 
+
 
 | **Text**                                   |**Code**  |
 |------------------------------------------- |----------|
@@ -208,9 +219,13 @@ tabular form. According to Cohen, Manion and Morrison (2018, 476), the whole pro
 | I prefer to teach mixed ability classes    |  MIX     |
 
 One can see that the codes here are abbreviations, enabling the researcher to immediately understand the issue that they denote because they resemble that issue.
+
 **Step 9**: Conduct the data analysis-Once the data have been coded and categorized, the researcher can count the frequency of each code or word in the text, and the number of words in each category. This is the process of retrieval, which may be in multiple modes, for example words, codes, nodes and categories. To ensure reliability, Weber (1990: 21–4) suggests that it is advisable at first to work on small samples of text rather than the whole text, to test out the coding and categorization, and make amendments where necessary. 
+
 **Step 10**: Summarizing-By this stage the investigator will be in a position to write a summary of the main features of the situation that have been researched so far. 
+
 **Step 11**: Making speculative inferences -This is an important stage, for it moves the research from description to inference. 
+
 
 # **Reliability and Validity in Qualitative Research**
 Patton (2001) states that validity and reliability are two factors which any qualitative researcher should be concerned about while designing a study, analysing results and judging the quality of the study. This corresponds to the question that “How can an inquirer persuade his or her audiences that the research findings of an inquiry are worth paying attention to?" (Lincoln & Guba, 1985, p. 290). 
@@ -253,6 +268,7 @@ Reliability and validity are conceptualized as trustworthiness, rigor and qualit
 |	          | - Triangular techniques attempt to map out or explain more fully, the richness and complexity of human behaviour by studying from more than one standpoint and using both quantitative and qualitative data                                                   |
 |	          | - Benefits: enhance confidence on the data, enhance researcher’s confidence 																						  |
 |	          | - Powerful way for demonstrating concurrent validity (particularly in qualitative research)																				          |
+
 				  
 ### **Computer Assisted Qualitative Data Analysis (CAQDAS)**
 
@@ -307,31 +323,57 @@ Lewins and Silver(2008) recognised that while this is the most frequently asked 
 ## **References**
 
 Bogdan, R., & Biklen, S. K. (1997). Qualitative research for education. Boston, MA: Allyn & Bacon.
+
 Clarke, V. & Braun, V. (2013). Successful Qualitative Research: A Practical Guide For Beginners. London: SAGE.
+
 Cohen, L., I. Manion, and K. Morrison. (2018). Research Methods in Education. London: Routledge Falmer.
+
 Corbin, J. & Strauss, A. (2008). Basics of Qualitative Research: Techniques and Procedures for Developing Grounded Theory. Thousand Oaks, CA: SAGE. 
+
 Creswell, J. (2007). Qualitative Inquiry & Research Design. London: SAGE.
+
 Denzin, N.K. & Lincoln, Y. S. (2005). The Sage Handbook of Qualitative Research. Thousand Oaks: Sage. 
+
 Dörney, Z. (2007).  Research Methods in Applied Linguistics. Oxford: Oxford University Press. 
+
 Flick, U. (2018). Designing Qualitative Research. London: SAGE. 
+
 Friese, S. (2018). Qualitative data analysis software: The state of the art. Kwalon, 1. <https://www.tijdschriftkwalon.nl/inhoud/tijdschrift_artikel/KW-21-1-5/Qualitative-data-analysis-software-The-state-of-the-art>.
+
 Golafshani, N. (2003). Understanding reliability and validity in qualitative research. The qualitative report, 8(4), 597-607.
+
 Kalpokaite, N. & Radivojevic, I. (2020). Teaching qualitative data analysis software online: a comparison of face-to-face and e-learning ATLAS.ti courses. International Journal of Research & Method in Education, 43(3), 296-310. <https://doi.org/10.1080/1743727X.2019.1687666> 
+
 Krippendorff, K. (2018). Content analysis: An introduction to its methodology. Thousand Oaks: Sage publications.
+
 Lancy, D. F. (1993). Qualitative research in education: An introduction to the major traditions. New York: Longman. 
+
 Layder, D. (1998). Sociological Practice: Linking Theory and Sociological Research. London: SAGE. 
+
 Lewins, A. & Silver, Ch. (2008). Using Software in Qualitative Research. London: SAGE.
+
 Lincoln, Y. S., & Guba, E. G. (1985). Naturalistic inquiry. Beverly Hills, CA: Sage. 
+
 Marshall, C. & Rossman, G. (2006). Designing Qualitative Research. London: SAGE.
+
 Mason, J. (2002). Qualitative Researching. London: SAGE.
+
 Maxwell, J. (1992). Understanding and validity in qualitative research. Harvard educational review, 62(3), 279-301.
+
 Miles, M. & Huberman, A. (1994). Qualitative Data Analysis: An Expanded Sourcebook. London: SAGE.
+
 Parameswaran, U., Ozawa-Kirk, J., Latendresse, G. (2020). To live (code) or to not: A new method for coding in qualitative research. Qualitative Social Work, 19(4). <https://doi.org/10.1177/1473325019840394> 
+
 Patton, M. Q. (2002). Qualitative evaluation and research methods (3rd ed.). Thousand Oaks, CA: Sage Publications, Inc
+
 Richards, L. (2005). Handling Qualitative Data: A Practical Guide. London: SAGE.
-Richards, T.  (2002). An intellectual history of NUD*IST and NVivo. International Journal of Social Research Methodology, 5(3), 199-214, DOI:10.1080/13645570210146267 
+
+Richards, T.  (2002). An intellectual history of NUD*IST and NVivo. International Journal of Social Research Methodology, 5(3), 199-214, DOI:10.1080/13645570210146267
+
 Saldaña, J. (2011). Fundamentals of Qualitative Research. Oxford: Oxford University Press.
+
 Seidel, J. (1998). The Ethnograph v.5.0: A User’s Guide. London: SAGE. 
+
 Weber, R. P. (1990). Basic content analysis. Thousand Oaks: Sage.
 
 
