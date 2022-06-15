@@ -22,6 +22,7 @@ According to Creswell (2007) Qualitative studies have a baffling number of choic
 
 **Table 1. Qualitative Approaches Mentioned by Authors 
 (Adapted from Creswell, 2007, pp. 7-8)**
+
 | **Authors**              |**Qualitative pproaches**     |**Disciplin/Field**|   
 |--------------------------|------------------------------|-------------------|
 | Lancy (1993)             |Anthropological Perspective   |                   |
@@ -226,16 +227,17 @@ One can see that the codes here are abbreviations, enabling the researcher to im
 
 **Step 11**: Making speculative inferences -This is an important stage, for it moves the research from description to inference. 
 
+
 # **Reliability and Validity in Qualitative Research**
 Patton (2001) states that validity and reliability are two factors which any qualitative researcher should be concerned about while designing a study, analysing results and judging the quality of the study. This corresponds to the question that “How can an inquirer persuade his or her audiences that the research findings of an inquiry are worth paying attention to?" (Lincoln & Guba, 1985, p. 290). 
 Reliability and validity are conceptualized as trustworthiness, rigor and quality in the qualitative paradigm (Golafshani, 2003). Basic notions are summarised below.
 
 **Basic notions** (Cohen, Manion, Morrison, 2018)
 
-|||||
-|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| **Validity**     | In qualitative data validity might be addressed through the honesty, depth, richness and scope of the data achieved, the participants approached, the extent of triangulation and the disinterestedness and objectivity of the researcher.                    |   
-|                 |  -  In qualitative data the subjectivity of respondents, their opinions, attitudes, and perspective together contribute to a degree of bias. Validity then should be seen as a matter of degree rather than absolute state                                      | 
+|||
+|-----|-----|
+|**Validity**     | In qualitative data validity might be addressed through the honesty, depth, richness and scope of the data achieved, the participants approached, the extent of triangulation and the disinterestedness and objectivity of the researcher.                    |   
+|                 | - In qualitative data the subjectivity of respondents, their opinions, attitudes, and perspective together contribute to a degree of bias. Validity then should be seen as a matter of degree rather than absolute state                                      | 
 |                 | - Types of validity: generalizability, replicability and controllability, predictability, the derivation of laws and universal statements of behaviour, context freedom, fragmentation and atomization of research, randomization of samples, observability   |
 |                 | - Maxwell (1992) suggests that ‘understanding’ is a more suitable term than ‘validity’ in qualitative research-it is the meaning that subjects give to the data and inferences drawn from the data that are important                                         |
 |                 | - Five kinds of validity for exploring the notion of ‘understanding’:                                                                                                                                                                                         |                                                                                                                                                        |                                       
@@ -243,7 +245,7 @@ Reliability and validity are conceptualized as trustworthiness, rigor and qualit
 |                 | - interpretive validity (ability of research to catch the essence of situations and events)                                                                                                        							          |
 |                 | - theoretical validity (the extent to which the research explains phenomena) 																						  |
 |                 | - generalizability (the theory is useful in understanding similar situations)																						  |
-|                 | - evaluative validity (application of an evaluative rather than descriptive framework)    																				          |      																					   |                                                                                                
+|                 | - evaluative validity (application of an evaluative rather than descriptive framework)    																				          |      																					   |                                                                                                                                                                       |
 |**Reliability**  | In qualitative data often replaced with terms such as ‘credibility’, neutrality, confirmability, dependability, consistency, applicability, trustworthiness, transferability                                                                                  |             
 |                 | - Replication in qualitative data includes repeating:																									  | 
 |                 | - The status position of the researcher;																										          | 
@@ -268,8 +270,7 @@ Reliability and validity are conceptualized as trustworthiness, rigor and qualit
 |	          | - Benefits: enhance confidence on the data, enhance researcher’s confidence 																						  |
 |	          | - Powerful way for demonstrating concurrent validity (particularly in qualitative research)																				          |
 
-
-				  
+			  
 # **Computer Assisted Qualitative Data Analysis (CAQDAS)**
 
 Computer-assisted qualitative data analysis software offers tools that assist with qualitative research such as transcription analysis, coding and text interpretation, recursive abstraction, content analysis, discourse analysis, grounded theory methodology, among others.
