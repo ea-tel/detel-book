@@ -5,7 +5,7 @@ hide: false
 permalink: /chapter/introduction/qualitative/
 ---
 
-### **Qualitative Research in Technology-Enhanced Learning**
+# **Qualitative Research in Technology-Enhanced Learning**
 
 ## **Introduction** 
 
@@ -51,20 +51,20 @@ According to Creswell (2007) Qualitative studies have a baffling number of choic
 
 Saldaña (2011) acknowledges the diversity of classifications or typologies in qualitative research and provides an overview of five most common approaches in which researchers across multiple disciplines work. 
 
-# Ethnography
+### Ethnography
 Ethnography is the observation and documentation of social life in order to render an account of a group’s culture. Ethnography refers to both the process of long-term fieldwork and the final (most often) written product. Originally the method of anthropologists studying foreign peoples, ethnography is now multidisciplinary in its applications to explore cultures in classrooms, urban streets, organizations, and even cyberspace. 
 
-# Grounded Theory
+### Grounded Theory
 Grounded Theory is a methodology for meticulously analysing qualitative data in order to understand human processes and to construct theory, that is, theory grounded in the data or constructed from the ground up. The originators of the methodology were Anselm Strauss and 
 Barney Glasser, sociologists who in the 1960s studied illness and dying. Grounded theory is an analytic process of constantly comparing small data units, primarily but not exclusively collected from interviews, through a series of cumulative coding cycles to achieve abstraction and a range of dimensions to the emergent categories’ properties. Classic grounded theory works toward achieving a core or central category that conceptually represents what a study is all about. This core or central category becomes the foundation for generating a theory about the process observed. 
 
-# Phenomenology
+### Phenomenology
 Phenomenology is the study of the nature and meaning of things. The roots of this approach lie in philosophy’s early hermeneutic analysis, or the interpretation of texts for core meanings. Today, phenomenology is most often a research approach that focuses on concepts, events, or the lived experiences of humans. Some qualitative research studies take a phenomenological approach when the purpose is to come to an initiative awareness and deep understanding of how humans experience something. There are no specific methods for gathering data to develop a phenomenological analysis; interviews, participant observation, and even literary fiction, provide ample material for review. The primary task is researcher reflection on the data to capture the essence and essentials of the experience that make it what it is.
 
-# Case Study
+### Case Study
 A case study focuses on a single unit for analysis (one person, one group, one event, etc.). It involves the study of an issue explored through one or more cases within a bounded system. The data collection in case study research is typically extensive, drawing on multiple sources of information, such as observations, interviews, documents, and audiovisual materials. The type of analysis of these data can be a holistic analysis of the entire case or an embedded analysis of a specific aspect of the case. Through this data collection, a detailed description of the case emerges. After the description the researcher might focus on a few key issues (or analysis of themes), not for generalising beyond the case, but for understanding the complexity of the case. In the final interpretative phase, the researcher reports the meaning of the case.  
 
-# Content Analysis
+### Content Analysis
 Content analysis is the systematic examination of texts and visuals (e.g. newspapers, magazines, speech transcripts), media (e.g. films, television episodes, Internet sites), and/or material culture (e.g. artifacts, commercial products) to analyse their prominent manifest and latent meaning. A manifest meaning is one that is surface and apparent, and a latent meaning is one that is suggestive, connotative, and subtextual. Some content analysis are both qualitative and quantitative in their design since statistical frequency of occurrence becomes one important measure of salient themes, especially in texts and media.
 
 ## Ethics in Qualitative Research
@@ -83,13 +83,13 @@ Flick (2018, p. 85) proposes the following basic ethical principles when conduct
 
 Qualitative data can come from different sources. This is usually transformed into textual form resulting in hundreds of pages of transcripts and field notes. Marshall and Rossman (2006) suggest four primary methods for gathering information: (1) participating in the setting, (2) observing directly, (3) interviewing in depth, and (4) analysing documents and material culture.
 
-# Participating in the setting
+### Participating in the setting
 Participant observation was developed primarily from cultural anthropology and qualitative sociology. It is an overall approach to inquiry and a data-gathering method which demands first hand involvement in the social world chosen for study. Immersion in the setting permits the researcher to hear, to see, and to begin to experience reality as the participants do. Personal reflections are integral to the emerging analysis of a cultural group. 
 
-# Observation
+### Observation
 Observation entails the systematic noting and recording of events, behaviours, and artifacts in the social setting chosen for study. The observational record is frequently referred to as ‘field notes’. For studies relying on observation, the researcher makes no special effort to have a particular role in the setting. Classroom studies are one example of observation in which the researcher documents and describes actions and interaction that are complex. Observation can range from a highly structured, detailed notation of behaviour structured by checklists to a more holistic description of events and behaviour. 
 
-# In-Depth Interviewing
+### In-Depth Interviewing
 With in-depth interviews the researcher explores a few general topics to help uncover the participant’s views. There are different types of interviews: one-to-one interviews, focus group interviews, and retrospective interviews.
 
 **One-to-one interviews**, also called ‘professional conversation’ has a structure and a purpose to obtain descriptions of the life of the interviewee with respect to interpreting the meaning of a described phenomena. One-to-one interviews can occur in single or multiple sessions, and can be structured, unstructured or semi-structured.
@@ -98,11 +98,11 @@ With in-depth interviews the researcher explores a few general topics to help un
 
 **Retrospective interviews** come under the umbrella term of ‘introspective methods’. The data generated by this methodology is called a ‘verbal report’ or ‘verbal protocol’. The retrospective interviews, as the name suggests, happen after the task/process has been completed. In this case, the relevant information needs to be retrieved from long-term memory and thus the validity of retrospective protocols depends on the time interval between the occurrence of a thought and its verbal report. 
 
-## Review of documents
+### Review of documents
 
 Researchers supplement participant observation, observation and interviewing gathering and analysing documents produced in the course of everyday events or constructed specifically for the research at hand. Logs, announcements, formal policy statements, websites, emails, and so on are all useful in developing an understanding of the setting or group studied. Research journals can also be quite informative. The use of documents often entails a specialised analytic approach: content analysis. 
 
-### **Qualitative Data Analysis (QDA)**
+# **Qualitative Data Analysis (QDA)**
 
 **VIDEO: Introduction to Qualitative Coding** <https://www.youtube.com/watch?v=v8RlbqcR0RI> 
 
@@ -110,7 +110,7 @@ Researchers supplement participant observation, observation and interviewing gat
 
 Coding is a way of analysing that can be applied to all sorts of data and is not focused on a specific method of data collection. Coding is not the only way of analysing data, but it is the most prominent one, if the data results from observations, interviews, or review of documents. Dörney points out that “Most research texts would confirm that regardless of the specific methodology followed, qualitative data analysis invariably starts with coding.” (2007, p. 250). But, he also recognises that this statement is partially true, because usually a considerable amount of analysis has already taken place when we begin the actual coding process. This first stage, often called ‘pre-coding’, involves reading and reading the texts (i.e. transcripts, documents, etc.), reflecting on them, and noting down our thoughts in journal entries and memos. These pre-coding reflections shape our thinking about data and influence the way we will go about coding.
 
-## **Initial coding**
+### **Initial coding**
 
 How shall we begin coding? The codes you develop may be influenced by a number of factors (Lewins & Silver, 2008, p. 83):
 - Research aims
@@ -132,24 +132,24 @@ There are different approaches to coding:
                   
 Codes can be generated inductively or deductively. The inductive approach begins with a set of empirical observations, seeking patterns in those observations, and then theorizing about those patterns, that is, from salient aspects identified in the data. The deductive approach begins with a theory, developing hypotheses from that theory, and then collecting and analyzing data to test those hypotheses, that is, according to predefined areas of interest.
 
-## **Second-level coding**
+### **Second-level coding**
 
 Qualitative analytical methods contain a second-level coding process because in most investigations we want to go beyond a mere descriptive labelling of the relevant data segments. A useful process in second-level coding is to produce a hierarchy of codes, in the form of a tree diagram. 
 
-## **Using a template of codes**
+### **Using a template of codes**
 
 Dörney (2008) describes the use of a template of codes as a variation on the standard coding procedures because its use does not emphasize the emergent nature of the codes but, to the contrari, starts with a template. The first of data analysis involves preparing a code manual and the texts are coded using this predetermined template. The template method can only be used if there is sufficient background information on the topic to be able to define the template categories. 
 
-## **Memoing** 
+### **Memoing** 
 
 Throughout the analytic process researchers are encouraged to write reflective memos and notes. Marshall and Rossman (2006) suggest writing early and throughout the research process but especially during more focused analysis. 
  
-## **Themes**
+### **Themes**
 
 Themes are also an important concept in QDA. Corbin and Strauss (2008) define them as thread or ideas that emerge from a text (i.e. an interview). While analysing one of their memos they explain:
 “These [themes] have already been identified as concepts, but at this time they will be elevated to the status of category/theme not only because they seem to run  throughout the entire interview but also because they seem to be able to pull together some of the lesser concepts” (2008, p. 188)
 
-### Approaches to qualitative data analysis
+# Approaches to qualitative data analysis
 
 Cohen, Manion and Morrison (2018, 461) highlight that “qualitative data analysis involves organizing, accounting for and explaining the data; in short, making sense of data in terms of the participants’ definitions of the situation, noting patterns, themes, categories and regularities”. This section demonstrates several forms of qualitative data analysis and focuses more specifically on content analysis approaches. 
 Several researchers note the need of a qualitative researcher to abide by the issue of “fitness for purpose” (Cohen, Manion & Morrison, 2018, 461), that is the researcher can set off to describe, summarize, interpret, prove, demonstrate etc. It is significant for the researcher to decide the purpose since this decision will determine the kind of analysis performed on the data, whilst this will affect the way the analysis is written up.  The data analysis will also be influenced by the kind of qualitative study that is being undertaken. For example, a case study may be most suitably written chronologically as descriptive narrative, whilst a grounded theory and content analysis will proceed through a systematic series of analyses, including coding and categorization, until theory emerges that explains the phenomena being studied. 
@@ -172,21 +172,22 @@ According to Cohen, Manion and Morrison (2018), the following are considered gen
 
 There are several procedural tools for analysing qualitative data. We focus here on two such tools, analytic induction and constant comparison. 
 
-# Analytic induction
+### Analytic induction
 
-Analytic induction is a process in which data are scanned to generate categories of phenomena, relationships between these categories are sought and working typologies and summaries are written on the basis of the data examined. The strategy under this approach involves the following according to Bogdan and Biklen (1997, 72): :
+Analytic induction is a process in which data are scanned to generate categories of phenomena, relationships between these categories are sought and working typologies and summaries are written on the basis of the data examined. The strategy under this approach involves the following according to Bogdan and Biklen (1997, 72):
+
 - In the early stages of the research a rough definition and explanation of the particular phenomenon is developed. 
 - This definition and explanation is examined in the light of the data that are being collected during the research. 
 - If the definition and/or explanation that have been generated need modification in the light of new data (e.g. if the data do not fit the explanation or definition) then this is undertaken.
 - A deliberate attempt is made to find cases that may not fit into the explanation or definition. 
 - The process of redefinition and reformulation is repeated until the explanation is reached that embraces all the data, and until a generalized relationship has been established, which will also embrace the negative cases.
 
-# Constant comparison 
+### Constant comparison 
 
 In constant comparison the researcher compares newly acquired data with existing data and
 categories and theories that have been devised and which are emerging, in order to achieve a perfect fit between these and the data (Cohen, Manion & Morrison, 2018). 
 
-### **Content analysis** 
+# **Content analysis** 
 
 Content analysis is often defined as a process in which “many words of texts are classified into much fewer categories” (Weber, 1990, 15). Cohen, Manion and Morrison (2018, 475) define content analysis as “a strict and systematic set of procedures for the rigorous analysis, examination and verification of the contents of written data”. 
 
@@ -269,8 +270,8 @@ Reliability and validity are conceptualized as trustworthiness, rigor and qualit
 |	          | - Benefits: enhance confidence on the data, enhance researcher’s confidence 																						  |
 |	          | - Powerful way for demonstrating concurrent validity (particularly in qualitative research)																				          |
 
-				  
-### **Computer Assisted Qualitative Data Analysis (CAQDAS)**
+			  
+# **Computer Assisted Qualitative Data Analysis (CAQDAS)**
 
 Computer-assisted qualitative data analysis software offers tools that assist with qualitative research such as transcription analysis, coding and text interpretation, recursive abstraction, content analysis, discourse analysis, grounded theory methodology, among others.
 
@@ -310,7 +311,7 @@ Lewins and Silver(2008) recognised that while this is the most frequently asked 
 |		   |																														    | ●	Organise and analyse literature and excerpts with MAXqda                       |                                						|
 |	           |																														    | ●	Create literature review with MAXqda                                           |										|
 
-### **Working with NVivo** 
+# **Working with NVivo** 
 **VIDEO: Discover NVivo. The most cited and powerful software for qualitative data analysis** <https://www.youtube.com/watch?v=BHOEQQdEoiQ> 
 [Here](https://docs.google.com/document/d/e/2PACX-1vR6NzMPQtNIAGMxKiGdNHrZ3w9pBpc4VE_eTdJdQY1KMZGRbip0xD-0uYQxvYysu968PFfycRkqWG0f/pub) you will find a glossary with key terms to work with NVivo. 
 
