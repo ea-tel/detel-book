@@ -3,6 +3,11 @@
 ## Introduction
 This chapter present a summary of the methodoloy to conduct a systematic literature review. First, the difference between literature review and systematic literature review is presented. This is followed by a definition of systematic literature review and a glossary of relevant terms. Finally, the phases for conducting a systematic literature review are presented as a guide. 
 
+<div id="treemap-detel"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.4.4/d3.min.js"></script>
+<script type="module" src="/detel-book/assets/js/treemap.js"></script>
+
+
 ## Literature review
 A literature review is a common practice and a central part of academic research. It provides an overview of what is known about a particular topic and a critical evaluation of the existing published work in a selected research area.
 A good literature review is a critical discussion, displaying the writer’s knowledge on relevant theories and approaches and awareness of contrasting arguments. Through the literature review the researcher is able to identify gaps in the literature, the need to fill them with new research and to locate their original work whiting the existing literature. 
