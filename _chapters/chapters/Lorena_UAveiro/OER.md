@@ -3,7 +3,7 @@ layout: page
 title: Creating Open Educational Resources with the H5P tool
 
 hide: true
-permalink: /chapters/Lorena_UAveiro/OER/
+permalink: /chapters/OER/
 ---
 
 # Creating Open Educational Resources with the H5P tool
