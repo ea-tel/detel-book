@@ -71,7 +71,7 @@ If you have structured your chapter into multiple sub-chapters - as this chapter
         3. [The Chapter Design](/detel-book/chapter/templates/main-template/#chapterDesign)
         
         
-You can also link these sub-chapters within your chapters creating cross-references. For example, your are currently reading the content of the [Table of Contents](#tableOfContents) section.
+You can also link these sub-chapters within your chapters creating cross-references. For example, your are currently reading the content of the [Table of Contents](#tableOfContents) section. These references are generated upon deployment and do not work while browsing the repository.
 
 
 ## The Bibliography {#Bibliography}
@@ -97,4 +97,87 @@ Observe, that we cite a reference "GoT", which is defined in the bibliography fi
 ## Chapter Design {#chapterDesign}
 After setting up the core references between your chapter and the table of contents and the bibliography, you are able to enhance the appearance of your chapter with some suggested features.
 
+These include font styles such as ~~striked through text~~, **bold text**, *cursive text*, ***bold and cursive text*** and headings of different sizes.
+ ### Heading 3
+ #### Heading 4
+ ##### Heading 5
+ ###### Heading 6
+ 
+ ---
+ 
+ You can also add listings that can be numbered and nested in each other. Furthermore, task lists can be created and ticked.
+  
+ 1. This is my first numbered item.
+    * This is my first unnumbered item.
+    * This is my second unnumbered item.
+    * This is my third unnumbered item.
+ 2. This is my second numbered item.
+ 3. This is my third numbered item.
 
+- [x] Todo 1
+- [ ] Todo 2
+- [ ] Todo 3
+
+---
+
+Code blocks can be created as follows, it is even possible to specify the language which results in the code being colored accordingly.
+
+```c#
+Console.WriteLine("Hello World!");
+```
+
+```json
+{
+"type": "chapter",
+"title": "The Main Template"
+}
+```
+---
+Tables can be generated [on this site](https://www.tablesgenerator.com/) and improved by defining the text alignment of the individual columns.
+
+| Left Aligned | Center Aligned | Right Aligned |
+| :---         |    :----:      |          ---: |
+| text         | text           | text          |
+
+---
+You can link external resources as well as other chapters as follows.
+
+[External Link](https://stackoverflow.com/questions/44610355/how-to-create-horizontal-line-in-markdown-using-hexo-framework)
+
+`[External Link](https://stackoverflow.com/questions/44610355/how-to-create-horizontal-line-in-markdown-using-hexo-framework)`
+
+[Internal Link](/_chapters/chapters/introduction/preface.md)
+
+`[Internal Link](/_chapters/chapters/introduction/preface.md)`
+
+![External Image](https://t3.ftcdn.net/jpg/03/15/34/90/360_F_315349043_6ohfFyx37AFusCKZtGQtJR0jqUxhb25Y.jpg)
+
+`![External Image](https://t3.ftcdn.net/jpg/03/15/34/90/360_F_315349043_6ohfFyx37AFusCKZtGQtJR0jqUxhb25Y.jpg)`
+
+![Internal Image](/assets/images/Cover.png)
+
+`![Internal Image](/assets/images/Cover.png)`
+
+--- 
+
+These images are very large. Another option of including images lets you set the size in pixels. Aligning text and images either center or right is also possible using the tag `<p align="center"> your text </p>`. This is illustrated in the following.
+
+<p align="center">
+<img src="https://t3.ftcdn.net/jpg/03/15/34/90/360_F_315349043_6ohfFyx37AFusCKZtGQtJR0jqUxhb25Y.jpg" alt="External Image" width="300px">
+ <br>   I want this image to be centered
+</p>
+
+<p align="right">
+And this text should align right.
+</p>
+
+<sup>*Note, that the same approaches can be used for linking videos.*</sup>
+
+---
+Finally, footnotes are possible to[^1] [^bignote].
+
+[^1]: This is a one-line footnote.
+
+[^bignote]: Larger footnotes over multiple lines are also possible.
+
+    As we can see by this example. This line must be indented.
