@@ -30,9 +30,9 @@ You can select one of several defined layouts for your chapter, that predominant
 | `tutorial`            | This template can be used for step-by-step tutorials such as for this chapter. | ![The tutorial icon](/assets/images/Tutorial.png)                        | 
 | `programming-exercise`| This template is used for exercises and tutorials were the reader has to code. | ![The programming exercise icon](/assets/images/ProgrammingExercise.png) |
 
-<sup>*Please refer to [this deployed chapter](https://ea-tel.github.io/detel-book/chapter/transversal/wellbeing/) to see an example for an reading chapter and the corresponding icon on the website.*</sup>
+<sup>*Please refer to [this deployed chapter](https://ea-tel.github.io/detel-book/chapter/transversal/wellbeing/) to see an example for a reading chapter and the corresponding icon on the website.*</sup>
 
-Apart from these layouts, a layout for posts is provided. This layout does not add an icon, yet requires some more attributes in the header that add a data and author to the post and should be used for blog posts only these are found [here in the repository](/_posts). For the layout `post`, please add the following header.
+Apart from these layouts, a layout for posts is provided. This layout does not add an icon, yet requires some more attributes in the header that add a date and author to the post and should be used for blog posts only. These are found [here in the repository](/_posts). For the layout `post`, please add the following header.
 
     ---
     layout: post
@@ -46,12 +46,12 @@ Apart from these layouts, a layout for posts is provided. This layout does not a
 <sup>*Please refer to [this deployed post](https://ea-tel.github.io/detel-book/2022/01/20/welcome.html) to see a blog post on the website.*</sup>
 
 ### Permalink 
-Each chapter should be given a permalink which serves as an identifier for your chapter. Permalinks define the path on which the chapter will be found on the website **and can be different from its path in the repository**. This facilitates structuring your content. This permalink is crutial for linking your chapter in the table of content and should be of the form `/chapter/[topic name]/[chapter title]/` where `[topic name]` should be used to refer to the topic area of your chapter and `[topic name]` is used to identify the chapter based in its title.
+Each chapter should be given a permalink which serves as an identifier for your chapter. Permalinks define the path on which the chapter will be found on the website **and can be different from its path in the repository**. This facilitates structuring your content. This permalink is crutial for linking your chapter in the table of content and should be of the form `/chapter/[topic name]/[chapter title]/` where `[topic name]` should be used to refer to the topic area of your chapter and `[chapter name]` is used to identify the chapter based in its title.
 
 For this template the permalink has been defined to be `permalink: /chapter/templates/main-template/` as it belongs to the subfolder and topic area "Templates" and should be identified as the main template. Observe, that this file is indeed in the subfolder "templates". Although this is not necessary, it proves helpful to structure the chapters in the repository in corresponding subfolders based on the topics that are to be addressed by the DE-TEL book such that navigating the repository is simplified.
 
 ### Linking in the Table of Contents
-For adding a chapter to the table of contents, navigate to [the table of contents file in the repository](/tableOfContents.md) and add a subtopic to the corresponding main topic area as follows based on your permalink. Your chapter will then appear in the table of contents and be a clickable link to your chapter once the website is deployed. 
+For adding a chapter to the table of contents, navigate to [the table of contents file in the repository](/tableOfContents.md) and add a subtopic to the corresponding main topic area based on your permalink as follows. Your chapter will then appear in the table of contents and be a clickable link to your chapter once the website is deployed. 
     
     ## Main Topic 
 
@@ -61,7 +61,7 @@ For adding a chapter to the table of contents, navigate to [the table of content
 <sup>*Note, that this template has been added to the table of contents as well and can be used as an example for future chapters.*</sup>
 
 #### Sub-chapters
-If you have structured your chapter into multiple sub-chapters - as this chapter is - you are able to concretely refer to these sub-chapters as well and add them to the table of contents. This is not necessary by any means, but can allow readers to access certain parts of your chapter quicker if they so desire. This is done by adding a tag to the desired title or subtitle of the section in the shape of (#tag) (see for example the headline of this section `## The Table of Contents {#tableOfContents}`). By referencing this tag, the reader is automatically navigated to it. See the following example provided in the [table of contents file in the repository](/tableOfContents.md) where we reference sub-chapters by adding the tag to the permalink.
+If you have structured your chapter into multiple sub-chapters - as this chapter is - you are able to specifically refer to these sub-chapters as well and add them to the table of contents. This is not necessary by any means, but can allow readers to access certain parts of your chapter quicker if they so desire. This is done by adding a tag to the desired title or subtitle of the section in the shape of (#tag) (see for example the headline of this section `## The Table of Contents {#tableOfContents}`). By referencing this tag, the reader is automatically navigated to it. See the following example provided in the [table of contents file in the repository](/tableOfContents.md) where we reference sub-chapters by adding the tag to the permalink.
 
         ## Templates
 
@@ -71,11 +71,11 @@ If you have structured your chapter into multiple sub-chapters - as this chapter
         3. [The Chapter Design](/detel-book/chapter/templates/main-template/#chapterDesign)
         
         
-You can also link these sub-chapters within your chapters creating cross-references. For example, your are currently reading the content of the [Table of Contents](#tableOfContents) section. These references are generated upon deployment and do not work while browsing the repository.
+You can also link these sub-chapters within your chapters creating cross-references. For example, you are currently reading the content of the [Table of Contents](#tableOfContents) section. These references are generated upon deployment and do not work while browsing the repository.
 
 
 ## The Bibliography {#Bibliography}
-An important feature that you can use in your chapter is citing references that you have documented in a corresponding bibliography file. Doing this, the references will be generated automatically without you having to be concerned with adding and formatting the references in your own chapter similar to citing using latex. In the following, we will provide an example.
+An important feature that you can use in your chapter is citing references that you have documented in a corresponding bibliography file. Doing this, the references will be generated automatically in a similar way to citing using latex, such that you don't have to be concerned about adding and formatting the references in your own chapter. In the following, we will provide an example.
 
 >"Chaos isn't a pit. Chaos is a ladder." {% cite GoT %}
 
@@ -87,7 +87,7 @@ Observe, that we cite a reference "GoT", which is defined in the bibliography fi
         @movie{GoT,
         title =   {Game of Thrones},
         producer= {Benioff, D. and Weiss, D. B.}     
-        director = {Ramin Djawadi},
+        director = {Alik Sakharov},
         year = {2013},
         }
         
@@ -114,9 +114,9 @@ These include font styles such as ~~striked through text~~, **bold text**, *curs
  2. This is my second numbered item.
  3. This is my third numbered item.
 
-- [x] Todo 1
-- [ ] Todo 2
-- [ ] Todo 3
+- [x] ToDo 1
+- [ ] ToDo 2
+- [ ] ToDo 3
 
 ---
 
@@ -160,11 +160,11 @@ These images are very large. Another option of including images lets you set the
 
 <p align="center">
 <img src="https://t3.ftcdn.net/jpg/03/15/34/90/360_F_315349043_6ohfFyx37AFusCKZtGQtJR0jqUxhb25Y.jpg" alt="External Image" width="300px">
- <br>   I want this image to be centered
+ <br>   I want this image to be centered.
 </p>
 
 <p align="right">
-And this text should align right.
+And this text should align to the right.
 </p>
 
 <sup>*Note, that the same approaches can be used for linking videos.*</sup>
