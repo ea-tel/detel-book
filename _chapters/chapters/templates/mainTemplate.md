@@ -51,7 +51,7 @@ Each chapter should be given a permalink which serves as an identifier for your 
 For this template the permalink has been defined to be `permalink: /chapter/templates/main-template/` as it belongs to the subfolder and topic area "Templates" and should be identified as the main template. Observe, that this file is indeed in the subfolder "templates". Although this is not necessary, it proves helpful to structure the chapters in the repository in corresponding subfolders based on the topics that are to be addressed by the DE-TEL book such that navigating the repository is simplified.
 
 ### Linking in the Table of Contents
-For adding a chapter to the table of contents, navigate to [the table of contents file in the repository](/tableOfContents.md) and add a subtopic to the corresponding main topic area as follows based on your permalink. Your chapter will then appear in the table of contents and be a clickable link to your chapter. 
+For adding a chapter to the table of contents, navigate to [the table of contents file in the repository](/tableOfContents.md) and add a subtopic to the corresponding main topic area as follows based on your permalink. Your chapter will then appear in the table of contents and be a clickable link to your chapter once the website is deployed. 
     
     ## Main Topic 
 
@@ -60,3 +60,22 @@ For adding a chapter to the table of contents, navigate to [the table of content
     
 <sup>*Note, that this template has been added to the table of contents as well and can be used as an example for future chapters.*</sup>
 
+
+## The Bibliography
+An important feature that you can use in your chapter is citing references that you have documented in a corresponding bibliography file. Doing this, the references will be generated automatically without you having to be concerned with adding and formatting the references in your own chapter similar to citing using latex. In the following, we will provide an example.
+
+>"Chaos isn't a pit. Chaos is a ladder." {% cite GoT %}
+
+
+<sup>*Note, that the above quote has been created using a ">" in front of the quoted line.*</sup>
+
+Observe, that we cite a reference "GoT", which is defined in the bibliography file [here in the repository](/_bibliography/references.bib) as follows. While this is one example for a type of reference you can make, articles, books etc. can easily be referenced as well using different entry types as illustrated by [this BibTeX guide](https://www.bibtex.com/e/entry-types/). All references defined in this file will be listed under a separate bibliography section on the website as opposed to under your chapter. Note, that `{% cite GoT %}` will compile into `(Benioff, 2013)` once the chapter is deployed. In this case "GoT" is the identifier of the reference which we cite.
+
+        @movie{GoT,
+        title =   {Game of Thrones},
+        producer= {Benioff, D. and Weiss, D. B.}     
+        director = {Ramin Djawadi},
+        year = {2013},
+        }
+        
+<sup>*Please refer to [the deployed website section](https://ea-tel.github.io/detel-book/bibliography.html) to see how the references will be listed.*</sup>
