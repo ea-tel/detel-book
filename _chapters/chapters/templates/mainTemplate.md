@@ -142,21 +142,17 @@ Tables can be generated [on this site](https://www.tablesgenerator.com/) and imp
 ---
 You can link external resources as well as other chapters as follows.
 
-[External Link](https://stackoverflow.com/questions/44610355/how-to-create-horizontal-line-in-markdown-using-hexo-framework)
+[External Link (Resource from outside the project)](https://stackoverflow.com/questions/44610355/how-to-create-horizontal-line-in-markdown-using-hexo-framework)
 
-`[External Link](https://stackoverflow.com/questions/44610355/how-to-create-horizontal-line-in-markdown-using-hexo-framework)`
 
-[Internal Link](/_chapters/chapters/introduction/preface.md)
+[Internal Link (Resource from inside the project)](/_chapters/chapters/introduction/preface.md)
 
-`[Internal Link](/_chapters/chapters/introduction/preface.md)`
 
-![External Image](https://t3.ftcdn.net/jpg/03/15/34/90/360_F_315349043_6ohfFyx37AFusCKZtGQtJR0jqUxhb25Y.jpg)
+![External Image (Resource from outside the project)](https://t3.ftcdn.net/jpg/03/15/34/90/360_F_315349043_6ohfFyx37AFusCKZtGQtJR0jqUxhb25Y.jpg)
 
-`![External Image](https://t3.ftcdn.net/jpg/03/15/34/90/360_F_315349043_6ohfFyx37AFusCKZtGQtJR0jqUxhb25Y.jpg)`
 
-![Internal Image](/assets/images/Cover.png)
+![Internal Image (Resource from inside the project)](/assets/images/Cover.png)
 
-`![Internal Image](/assets/images/Cover.png)`
 
 --- 
 
