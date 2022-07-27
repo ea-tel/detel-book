@@ -19,12 +19,11 @@ In order for this page to be linked in the table of contents, please create a he
     hide: true
     permalink: /chapter/[topic name]/[chapter title]/
     ---
-    {% include autoRelativePath.html %}
     
 <sup>*Note, that the above code-block has been created by indenting the lines by 2 tabs.*</sup>
 
 ### Layout 
-You can select one of several defined layouts for your chapter, that predominantly determine the icon at the start of your chapter. In the following you will find a breakdown on the layouts we would suggest for you and that can be found [here in the repository](/detel-book/_layouts).
+You can select one of several defined layouts for your chapter, that predominantly determine the icon at the start of your chapter. In the following you will find a breakdown on the layouts we would suggest for you and that can be found [here in the repository]([/detel-book/_layouts](https://github.com/ea-tel/detel-book/tree/master/_layouts)).
 
 | Layout type           | Description                                                                    |  Icon                                                                    |
 |---                    |---                                                                             |---                                                                       |
@@ -34,7 +33,7 @@ You can select one of several defined layouts for your chapter, that predominant
 
 <sup>*Please refer to [this deployed chapter](https://ea-tel.github.io/detel-book/chapter/transversal/wellbeing/) to see an example for a reading chapter and the corresponding icon on the website.*</sup>
 
-Apart from these layouts, a layout for posts is provided. This layout does not add an icon, yet requires some more attributes in the header that add a date and author to the post and should be used for blog posts only. These are found [here in the repository](/detel-book/_posts). For the layout `post`, please add the following header.
+Apart from these layouts, a layout for posts is provided. This layout does not add an icon, yet requires some more attributes in the header that add a date and author to the post and should be used for blog posts only. These are found [here in the repository](https://github.com/ea-tel/detel-book/tree/master/_posts). For the layout `post`, please add the following header.
 
     ---
     layout: post
@@ -56,10 +55,10 @@ Each chapter should be given a permalink which serves as an identifier for your 
 For this template the permalink has been defined to be `permalink: /chapter/templates/main-template/` as it belongs to the subfolder and topic area "Templates" and should be identified as the main template. Observe, that this file is indeed in the subfolder "templates". Although this is not necessary, it proves helpful to structure the chapters in the repository in corresponding subfolders based on the topics that are to be addressed by the DE-TEL book such that navigating the repository is simplified.
 
 ### Auto Relative Path
-ToDo
+Observe that we have added the following line below teh file header `{% include autoRelativePath.html %}`. This include allows you to use a short-hand notation for links the lead to internal resources in the 
 
 ### Linking in the Table of Contents
-For adding a chapter to the table of contents, navigate to [the table of contents file in the repository](/detel-book/tableOfContents.md) and add a subtopic to the corresponding main topic area based on your permalink as follows. Your chapter will then appear in the table of contents and be a clickable link to your chapter once the website is deployed. 
+For adding a chapter to the table of contents, navigate to [the table of contents file in the repository](https://github.com/ea-tel/detel-book/tree/master/tableOfContents.md) and add a subtopic to the corresponding main topic area based on your permalink as follows. Your chapter will then appear in the table of contents and be a clickable link to your chapter once the website is deployed. 
     
     ## Main Topic 
 
@@ -69,7 +68,7 @@ For adding a chapter to the table of contents, navigate to [the table of content
 <sup>*Note, that this template has been added to the table of contents as well and can be used as an example for future chapters.*</sup>
 
 #### Sub-chapters
-If you have structured your chapter into multiple sub-chapters - as this chapter is - you are able to specifically refer to these sub-chapters as well and add them to the table of contents. This is not necessary by any means, but can allow readers to access certain parts of your chapter quicker if they so desire. This is done by adding a tag to the desired title or subtitle of the section in the shape of (#tag) (see for example the headline of this section `## The Table of Contents {#tableOfContents}`). By referencing this tag, the reader is automatically navigated to it. See the following example provided in the [table of contents file in the repository](/detel-book/tableOfContents.md) where we reference sub-chapters by adding the tag to the permalink.
+If you have structured your chapter into multiple sub-chapters - as this chapter is - you are able to specifically refer to these sub-chapters as well and add them to the table of contents. This is not necessary by any means, but can allow readers to access certain parts of your chapter quicker if they so desire. This is done by adding a tag to the desired title or subtitle of the section in the shape of (#tag) (see for example the headline of this section `## The Table of Contents {#tableOfContents}`). By referencing this tag, the reader is automatically navigated to it. See the following example provided in the [table of contents file in the repository](https://github.com/ea-tel/detel-book/tree/master/tableOfContents.md) where we reference sub-chapters by adding the tag to the permalink.
 
         ## Templates
 
@@ -90,7 +89,7 @@ An important feature that you can use in your chapter is citing references that 
 
 <sup>*Note, that the above quote has been created using a ">" in front of the quoted line.*</sup>
 
-Observe, that we cite a reference "GoT", which is defined in the bibliography file [here in the repository](/detel-book/_bibliography/references.bib) as follows. While this is one example for a type of reference you can make, articles, books etc. can easily be referenced as well using different entry types as illustrated by [this BibTeX guide](https://www.bibtex.com/e/entry-types/). All references defined in this file will be listed under a separate bibliography section on the website as opposed to under your chapter. Note, that `{% cite GoT %}` will compile into `(Sakharov, 2013)` once the chapter is deployed. In this case "GoT" is the identifier of the reference which we cite.
+Observe, that we cite a reference "GoT", which is defined in the bibliography file [here in the repository](https://github.com/ea-tel/detel-book/tree/master/_bibliography/references.bib) as follows. While this is one example for a type of reference you can make, articles, books etc. can easily be referenced as well using different entry types as illustrated by [this BibTeX guide](https://www.bibtex.com/e/entry-types/). All references defined in this file will be listed under a separate bibliography section on the website as opposed to under your chapter. Note, that `{% cite GoT %}` will compile into `(Sakharov, 2013)` once the chapter is deployed. In this case "GoT" is the identifier of the reference which we cite.
 
         @movie{GoT,
         title =   {Game of Thrones},
@@ -150,9 +149,15 @@ Tables can be generated [on this site](https://www.tablesgenerator.com/) and imp
 ---
 You can link external resources as well as other chapters as follows.
 
-[Link](https://stackoverflow.com/questions/44610355/how-to-create-horizontal-line-in-markdown-using-hexo-framework)
+[Generic Link](https://stackoverflow.com/questions/44610355/how-to-create-horizontal-line-in-markdown-using-hexo-framework)
 
-![Image](https://t3.ftcdn.net/jpg/03/15/34/90/360_F_315349043_6ohfFyx37AFusCKZtGQtJR0jqUxhb25Y.jpg)
+![External Image](https://t3.ftcdn.net/jpg/03/15/34/90/360_F_315349043_6ohfFyx37AFusCKZtGQtJR0jqUxhb25Y.jpg)
+
+![Internal Image](/detel-book/assets/Cover.png)
+
+[Link to another chapter](/detel-book/chapter/transversal/wellbeing/) *
+
+<sup>*Note, that you link to another chapter using its permalink in the form of `/detel-book[permalink]`.*</sup>
 
 
 
