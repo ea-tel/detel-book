@@ -122,6 +122,9 @@ Now you can wait for one of our administrators to check your contribution and ac
 
 While you are waiting for the review, feel free to work on the next set of edits (e.g., your next chapter). You should start new unrelated work (e.g., another chapter) on a new branch and that this new branch must be based on the master branch.
 
+## Template Chapter
+To make creating chapters more accessible and easy for contributors, a template chapter is provided [here](/_chapters/chapters/templates/mainTemplate.md) which can be freely copied and used to create your own chapters. In this template chapter you can find extensive explanations about everything necessary to correctly format your chapter in Markdown and integrate it into the structure of the book.
+
 # Description
 
 

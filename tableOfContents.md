@@ -31,3 +31,12 @@ M. [Design-based research (DBR)](/detel-book/chapter/methodologies/design-based-
 N. [Doctoral Wellbeing and TEL](/detel-book/chapter/transversal/wellbeing/)
 
 ...
+
+## Templates
+
+X. [The Main Template](/detel-book/chapter/templates/main-template/)
+1. [The Table of Contents](/detel-book/chapter/templates/main-template/#tableOfContents)
+2. [The Bibliography](/detel-book/chapter/templates/main-template/#bibliography)
+3. [The Chapter Design](/detel-book/chapter/templates/main-template/#chapterDesign)
+
+...
