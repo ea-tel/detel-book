@@ -1,7 +1,7 @@
 ---
 layout: tutorial
 title: The Main Template
-hide: false
+hide: true
 permalink: /chapter/templates/main-template/
 ---
 
@@ -15,7 +15,7 @@ In order for this page to be linked in the table of contents, please create a he
     ---
     layout: reading_chapter
     title: [The Title of the Chapter]
-    hide: false
+    hide: true
     permalink: /chapter/[topic name]/[chapter title]/
     ---
     
@@ -39,11 +39,14 @@ Apart from these layouts, a layout for posts is provided. This layout does not a
     title: [My Post Title]
     author: [My Name]
     date: [The Date]
-    hide: false
+    hide: true
     permalink: /post/[post title]/
     ---
     
 <sup>*Please refer to [this deployed post](https://ea-tel.github.io/detel-book/2022/01/20/welcome.html) to see a blog post on the website.*</sup>
+
+### Hide
+The parameter hide should always be set to true. This means that it is hidden from the sidebar of the website once built. If set to false, all chapters with this setting will appear in the sidebar and overflow it with links. Thus, this should be avoided. However, the chapter will still be accessible of course by selecting it in the table of contents even if hide is set to true.
 
 ### Permalink 
 Each chapter should be given a permalink which serves as an identifier for your chapter. Permalinks define the path on which the chapter will be found on the website **and can be different from its path in the repository**. This facilitates structuring your content. This permalink is crutial for linking your chapter in the table of content and should be of the form `/chapter/[topic name]/[chapter title]/` where `[topic name]` should be used to refer to the topic area of your chapter and `[chapter title]` is used to identify the chapter based in its title.
