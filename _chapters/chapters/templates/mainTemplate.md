@@ -89,7 +89,7 @@ Observe, that we cite a reference "GoT", which is defined in the bibliography fi
 
         @movie{GoT,
         title =   {Game of Thrones},
-        producer= {Benioff, D. and Weiss, D. B.}     
+        producer= {Benioff, D. and Weiss, D. B.},
         director = {Alik Sakharov},
         year = {2013},
         }
