@@ -55,7 +55,7 @@ Each chapter should be given a permalink which serves as an identifier for your 
 For this template the permalink has been defined to be `permalink: /chapter/templates/main-template/` as it belongs to the subfolder and topic area "Templates" and should be identified as the main template. Observe, that this file is indeed in the subfolder "templates". Although this is not necessary, it proves helpful to structure the chapters in the repository in corresponding subfolders based on the topics that are to be addressed by the DE-TEL book such that navigating the repository is simplified.
 
 ### Auto Relative Path
-Observe that we have added the following line below the file header `{% include autoRelativePath.html %}`. This include allows you to use a short-hand notation for links the lead to internal resources when including it using HMTL syntax instead of Markdown syntax. See the following example for including the same image these two ways. Note, that concrete examples are given at the end in the [Chapter Design](#chapterDesign) section.
+Observe that we have added the following line below the file header `% include autoRelativePath.html %` (inside curly brackets). This include allows you to use a short-hand notation for links the lead to internal resources when including it using HMTL syntax instead of Markdown syntax. See the following example for including the same image these two ways. Note, that concrete examples are given at the end in the [Chapter Design](#chapterDesign) section.
 
 - HTML-Notation: `<img src="pathToRoot/assets/images/Cover.png">` *
 - Markdown-Notation: `![](/detel-book/assets/images/Cover.png)`
