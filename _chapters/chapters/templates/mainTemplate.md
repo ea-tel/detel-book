@@ -112,10 +112,18 @@ Observe, that we cite a reference "GoT", which is defined in the bibliography fi
 After setting up the core references between your chapter and the table of contents and the bibliography, you are able to enhance the appearance of your chapter with some suggested features.
 
 These include font styles such as ~~strikethrough text~~, **bold text**, *cursive text*, ***bold and cursive text*** and headings of different sizes.
- ### Heading 3
- #### Heading 4
- ##### Heading 5
- ###### Heading 6
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
  
  ---
  
