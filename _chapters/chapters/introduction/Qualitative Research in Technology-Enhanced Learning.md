@@ -1,7 +1,7 @@
 ---
 layout: reading_chapter
 title: Qualitative Research in Technology-Enhanced Learning
-hide: false
+hide: true
 permalink: /chapter/introduction/qualitative/
 ---
 

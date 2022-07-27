@@ -7,7 +7,7 @@ permalink: /chapter/templates/main-template/
 {% include autoRelativePath.html %}
 
 # The Main Template
-This chapter will serve as a comprehensive template for future chapters and contains several sections on important Markdown features that you can use, i.e. tables, images, bullet points and references to the bibliography and table of content.
+This chapter will serve as a comprehensive template for future chapters and contains several sections on important Markdown features that you can use, i.e., tables, images, bullet points and references to the bibliography and table of content.
 
 
 ## The Table of Contents {#tableOfContents}
@@ -29,7 +29,7 @@ You can select one of several defined layouts for your chapter, that predominant
 |---                    |---                                                                             |---                                                                       |
 | `reading-chapter`     | This template is used for standard chapters, created for pure reading purposes.| ![The reading chapter icon](/detel-book/assets/images/ReadingChapter.png)           |
 | `tutorial`            | This template can be used for step-by-step tutorials such as for this chapter. | ![The tutorial icon](/detel-book/assets/images/Tutorial.png)                        | 
-| `programming-exercise`| This template is used for exercises and tutorials were the reader has to code. | ![The programming exercise icon](/detel-book/assets/images/ProgrammingExercise.png) |
+| `programming-exercise`| This template is used for exercises and tutorials where the reader has to code. | ![The programming exercise icon](/detel-book/assets/images/ProgrammingExercise.png) |
 
 <sup>*Please refer to [this deployed chapter](https://ea-tel.github.io/detel-book/chapter/transversal/wellbeing/) to see an example for a reading chapter and the corresponding icon on the website.*</sup>
 
@@ -50,7 +50,7 @@ Apart from these layouts, a layout for posts is provided. This layout does not a
 The parameter hide should always be set to true. This means that it is hidden from the sidebar of the website once built. If set to false, all chapters with this setting will appear in the sidebar and overflow it with links. Thus, this should be avoided. However, the chapter will still be accessible of course by selecting it in the table of contents even if hide is set to true.
 
 ### Permalink 
-Each chapter should be given a permalink which serves as an identifier for your chapter. Permalinks define the path on which the chapter will be found on the website **and can be different from its path in the repository**. This facilitates structuring your content. This permalink is crutial for linking your chapter in the table of content and should be of the form `/chapter/[topic name]/[chapter title]/` where `[topic name]` should be used to refer to the topic area of your chapter and `[chapter title]` is used to identify the chapter based in its title.
+Each chapter should be given a permalink which serves as an identifier for your chapter. Permalinks define the path on which the chapter will be found on the website **and can be different from its path in the repository**. This facilitates structuring your content. This permalink is crucial for linking your chapter in the table of content and should be of the form `/chapter/[topic name]/[chapter title]/` where `[topic name]` should be used to refer to the topic area of your chapter and `[chapter title]` is used to identify the chapter based in its title.
 
 For this template the permalink has been defined to be `permalink: /chapter/templates/main-template/` as it belongs to the subfolder and topic area "Templates" and should be identified as the main template. Observe, that this file is indeed in the subfolder "templates". Although this is not necessary, it proves helpful to structure the chapters in the repository in corresponding subfolders based on the topics that are to be addressed by the DE-TEL book such that navigating the repository is simplified.
 
@@ -75,7 +75,7 @@ For adding a chapter to the table of contents, navigate to [the table of content
 <sup>*Note, that this template has been added to the table of contents as well and can be used as an example for future chapters.*</sup>
 
 #### Sub-chapters
-If you have structured your chapter into multiple sub-chapters - as this chapter is - you are able to specifically refer to these sub-chapters as well and add them to the table of contents. This is not necessary by any means, but can allow readers to access certain parts of your chapter quicker if they so desire. This is done by adding a tag to the desired title or subtitle of the section in the shape of (#tag) (see for example the headline of this section `## The Table of Contents {#tableOfContents}`). By referencing this tag, the reader is automatically navigated to it. See the following example provided in the [table of contents file in the repository](https://github.com/ea-tel/detel-book/tree/master/tableOfContents.md) where we reference sub-chapters by adding the tag to the permalink.
+If you have structured your chapter into multiple sub-chapters - as this chapter is - you are able to specifically refer to these sub-chapters as well and add them to the table of contents. This is not necessary by any means but can allow readers to access certain parts of your chapter quicker if they so desire. This is done by adding a tag to the desired title or subtitle of the section in the shape of (#tag) (see for example the headline of this section `## The Table of Contents {#tableOfContents}`). By referencing this tag, the reader is automatically navigated to it. See the following example provided in the [table of contents file in the repository](https://github.com/ea-tel/detel-book/tree/master/tableOfContents.md) where we reference sub-chapters by adding the tag to the permalink.
 
         ## Templates
 
@@ -89,7 +89,7 @@ You can also link these sub-chapters within your chapters creating cross-referen
 
 
 ## The Bibliography {#bibliography}
-An important feature that you can use in your chapter is citing references that you have documented in a corresponding bibliography file. Doing this, the references will be generated automatically in a similar way to citing using latex, such that you don't have to be concerned about adding and formatting the references in your own chapter. In the following, we will provide an example.
+An important feature that you can use in your chapter is citing references that you have documented in a corresponding bibliography file. Doing this, the references will be generated automatically in a similar way to citing using latex, such that you do not have to be concerned about adding and formatting the references in your own chapter. In the following, we will provide an example.
 
 >"Chaos isn't a pit. Chaos is a ladder." {% cite GoT %}
 
@@ -111,7 +111,7 @@ Observe, that we cite a reference "GoT", which is defined in the bibliography fi
 ## Chapter Design {#chapterDesign}
 After setting up the core references between your chapter and the table of contents and the bibliography, you are able to enhance the appearance of your chapter with some suggested features.
 
-These include font styles such as ~~striked through text~~, **bold text**, *cursive text*, ***bold and cursive text*** and headings of different sizes.
+These include font styles such as ~~strikethrough text~~, **bold text**, *cursive text*, ***bold and cursive text*** and headings of different sizes.
  ### Heading 3
  #### Heading 4
  ##### Heading 5
@@ -134,7 +134,7 @@ These include font styles such as ~~striked through text~~, **bold text**, *curs
 
 ---
 
-Code blocks can be created as follows, it is even possible to specify the language which results in the code being colored accordingly.
+Code blocks can be created as follows. It is even possible to specify the language which results in the code being colored accordingly.
 
 ```c#
 Console.WriteLine("Hello World!");
