@@ -57,10 +57,11 @@ For this template the permalink has been defined to be `permalink: /chapter/temp
 ### Auto Relative Path
 Observe that we have added the following line below the file header `{% include autoRelativePath.html %}`. This include allows you to use a short-hand notation for links the lead to internal resources when including it using HMTL syntax instead of Markdown syntax. See the following example for including the same image these two ways. Note, that concrete examples are given at the end in the [Chapter Design](#chapterDesign) section.
 
-- HTML-Notation: `<img src="{{pathToRoot}}/assets/images/Cover.png">`
+- HTML-Notation: `<img src="pathToRoot/assets/images/Cover.png">` *
 - Markdown-Notation: `![](/detel-book/assets/images/Cover.png)`
 
 While the Markdown notation is sufficient to include images, the HTML notation can be more powerful as it allows for captions, image borders etc.
+<sup>*Note, that `pathToRoot` must be enclosed by two pairs of curly brackets to render correctly, which we have removed from the example as it then would automatically be rendered.*</sup>
 
 ### Linking in the Table of Contents
 For adding a chapter to the table of contents, navigate to [the table of contents file in the repository](https://github.com/ea-tel/detel-book/tree/master/tableOfContents.md) and add a subtopic to the corresponding main topic area based on your permalink as follows. Your chapter will then appear in the table of contents and be a clickable link to your chapter once the website is deployed. 
@@ -94,7 +95,7 @@ An important feature that you can use in your chapter is citing references that 
 
 <sup>*Note, that the above quote has been created using a ">" in front of the quoted line.*</sup>
 
-Observe, that we cite a reference "GoT", which is defined in the bibliography file [here in the repository](https://github.com/ea-tel/detel-book/tree/master/_bibliography/references.bib) as follows. While this is one example for a type of reference you can make, articles, books etc. can easily be referenced as well using different entry types as illustrated by [this BibTeX guide](https://www.bibtex.com/e/entry-types/). All references defined in this file will be listed under a separate bibliography section on the website as opposed to under your chapter. Note, that ´{% cite GoT %}´ will compile into `(Sakharov, 2013)` once the chapter is deployed. In this case "GoT" is the identifier of the reference which we cite.
+Observe, that we cite a reference "GoT", which is defined in the bibliography file [here in the repository](https://github.com/ea-tel/detel-book/tree/master/_bibliography/references.bib) as follows. While this is one example for a type of reference you can make, articles, books etc. can easily be referenced as well using different entry types as illustrated by [this BibTeX guide](https://www.bibtex.com/e/entry-types/). All references defined in this file will be listed under a separate bibliography section on the website as opposed to under your chapter. Note, that `% cite GoT %` (inside curly brackets) will compile into `(Sakharov, 2013)` once the chapter is deployed. In this case "GoT" is the identifier of the reference which we cite.
 
         @movie{GoT,
         title =   {Game of Thrones},
