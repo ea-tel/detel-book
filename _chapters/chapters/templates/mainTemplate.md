@@ -94,7 +94,7 @@ An important feature that you can use in your chapter is citing references that 
 
 <sup>*Note, that the above quote has been created using a ">" in front of the quoted line.*</sup>
 
-Observe, that we cite a reference "GoT", which is defined in the bibliography file [here in the repository](https://github.com/ea-tel/detel-book/tree/master/_bibliography/references.bib) as follows. While this is one example for a type of reference you can make, articles, books etc. can easily be referenced as well using different entry types as illustrated by [this BibTeX guide](https://www.bibtex.com/e/entry-types/). All references defined in this file will be listed under a separate bibliography section on the website as opposed to under your chapter. Note, that `<html>{% cite GoT %}` will compile into `(Sakharov, 2013)` once the chapter is deployed. In this case "GoT" is the identifier of the reference which we cite.
+Observe, that we cite a reference "GoT", which is defined in the bibliography file [here in the repository](https://github.com/ea-tel/detel-book/tree/master/_bibliography/references.bib) as follows. While this is one example for a type of reference you can make, articles, books etc. can easily be referenced as well using different entry types as illustrated by [this BibTeX guide](https://www.bibtex.com/e/entry-types/). All references defined in this file will be listed under a separate bibliography section on the website as opposed to under your chapter. Note, that `{{% cite GoT %}}` will compile into `(Sakharov, 2013)` once the chapter is deployed. In this case "GoT" is the identifier of the reference which we cite.
 
         @movie{GoT,
         title =   {Game of Thrones},
