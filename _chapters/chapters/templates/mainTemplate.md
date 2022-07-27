@@ -61,6 +61,7 @@ Observe that we have added the following line below the file header `{% include 
 - Markdown-Notation: `![](/detel-book/assets/images/Cover.png)`
 
 While the Markdown notation is sufficient to include images, the HTML notation can be more powerful as it allows for captions, image borders etc.
+
 <sup>*Note, that `pathToRoot` must be enclosed by two pairs of curly brackets to render correctly, which we have removed from the example as it then would automatically be rendered.*</sup>
 
 ### Linking in the Table of Contents
