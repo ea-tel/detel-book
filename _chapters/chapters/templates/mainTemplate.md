@@ -4,6 +4,7 @@ title: The Main Template
 hide: true
 permalink: /chapter/templates/main-template/
 ---
+{% include autoRelativePath.html %}
 
 # The Main Template
 This chapter will serve as a comprehensive template for future chapters and contains several sections on important Markdown features that you can use, i.e. tables, images, bullet points and references to the bibliography and table of content.
@@ -18,6 +19,7 @@ In order for this page to be linked in the table of contents, please create a he
     hide: true
     permalink: /chapter/[topic name]/[chapter title]/
     ---
+    {% include autoRelativePath.html %}
     
 <sup>*Note, that the above code-block has been created by indenting the lines by 2 tabs.*</sup>
 
@@ -32,12 +34,7 @@ You can select one of several defined layouts for your chapter, that predominant
 
 <sup>*Please refer to [this deployed chapter](https://ea-tel.github.io/detel-book/chapter/transversal/wellbeing/) to see an example for a reading chapter and the corresponding icon on the website.*</sup>
 
-Apart from these layouts, a layout for posts is provided. This layout does not add an icon, yet requires some more attributes in the header that add a date and author to the post and should be used for blog posts only. These are found [here in the 
-
-
-
-
-ory](/detel-book/_posts). For the layout `post`, please add the following header.
+Apart from these layouts, a layout for posts is provided. This layout does not add an icon, yet requires some more attributes in the header that add a date and author to the post and should be used for blog posts only. These are found [here in the repository](/detel-book/_posts). For the layout `post`, please add the following header.
 
     ---
     layout: post
@@ -57,6 +54,9 @@ The parameter hide should always be set to true. This means that it is hidden fr
 Each chapter should be given a permalink which serves as an identifier for your chapter. Permalinks define the path on which the chapter will be found on the website **and can be different from its path in the repository**. This facilitates structuring your content. This permalink is crutial for linking your chapter in the table of content and should be of the form `/chapter/[topic name]/[chapter title]/` where `[topic name]` should be used to refer to the topic area of your chapter and `[chapter title]` is used to identify the chapter based in its title.
 
 For this template the permalink has been defined to be `permalink: /chapter/templates/main-template/` as it belongs to the subfolder and topic area "Templates" and should be identified as the main template. Observe, that this file is indeed in the subfolder "templates". Although this is not necessary, it proves helpful to structure the chapters in the repository in corresponding subfolders based on the topics that are to be addressed by the DE-TEL book such that navigating the repository is simplified.
+
+### Auto Relative Path
+ToDo
 
 ### Linking in the Table of Contents
 For adding a chapter to the table of contents, navigate to [the table of contents file in the repository](/detel-book/tableOfContents.md) and add a subtopic to the corresponding main topic area based on your permalink as follows. Your chapter will then appear in the table of contents and be a clickable link to your chapter once the website is deployed. 
@@ -150,16 +150,11 @@ Tables can be generated [on this site](https://www.tablesgenerator.com/) and imp
 ---
 You can link external resources as well as other chapters as follows.
 
-[External Link (Resource from outside the project)](https://stackoverflow.com/questions/44610355/how-to-create-horizontal-line-in-markdown-using-hexo-framework)
+[Link](https://stackoverflow.com/questions/44610355/how-to-create-horizontal-line-in-markdown-using-hexo-framework)
+
+![Image](https://t3.ftcdn.net/jpg/03/15/34/90/360_F_315349043_6ohfFyx37AFusCKZtGQtJR0jqUxhb25Y.jpg)
 
 
-[Internal Link (Resource from inside the project)](../_chapters/chapters/introduction/preface.md)
-
-
-![External Image (Resource from outside the project)](https://t3.ftcdn.net/jpg/03/15/34/90/360_F_315349043_6ohfFyx37AFusCKZtGQtJR0jqUxhb25Y.jpg)
-
-
-![Internal Image (Resource from inside the project)]({{pathToRoot}}/assets/images/Cover.png)
 
 
 --- 
@@ -168,7 +163,7 @@ These images are very large. Another option of including images lets you set the
 
 <p align="center">
 <img src="{{pathToRoot}}/assets/images/Cover.png" alt="External Image" width="100px">
- <br>   I want this image to be aligned to the left.
+<br>I want this image to be aligned to the left.
 </p>
 
 <p align="right">
