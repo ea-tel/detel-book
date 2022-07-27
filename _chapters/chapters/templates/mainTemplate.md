@@ -23,7 +23,7 @@ In order for this page to be linked in the table of contents, please create a he
 <sup>*Note, that the above code-block has been created by indenting the lines by 2 tabs.*</sup>
 
 ### Layout 
-You can select one of several defined layouts for your chapter, that predominantly determine the icon at the start of your chapter. In the following you will find a breakdown on the layouts we would suggest for you and that can be found [here in the repository]([/detel-book/_layouts](https://github.com/ea-tel/detel-book/tree/master/_layouts)).
+You can select one of several defined layouts for your chapter, that predominantly determine the icon at the start of your chapter. In the following you will find a breakdown on the layouts we would suggest for you and that can be found [here in the repository](https://github.com/ea-tel/detel-book/tree/master/_layouts).
 
 | Layout type           | Description                                                                    |  Icon                                                                    |
 |---                    |---                                                                             |---                                                                       |
@@ -55,7 +55,12 @@ Each chapter should be given a permalink which serves as an identifier for your 
 For this template the permalink has been defined to be `permalink: /chapter/templates/main-template/` as it belongs to the subfolder and topic area "Templates" and should be identified as the main template. Observe, that this file is indeed in the subfolder "templates". Although this is not necessary, it proves helpful to structure the chapters in the repository in corresponding subfolders based on the topics that are to be addressed by the DE-TEL book such that navigating the repository is simplified.
 
 ### Auto Relative Path
-Observe that we have added the following line below teh file header `{% include autoRelativePath.html %}`. This include allows you to use a short-hand notation for links the lead to internal resources in the 
+Observe that we have added the following line below the file header `{% include autoRelativePath.html %}`. This include allows you to use a short-hand notation for links the lead to internal resources when including it using HMTL syntax instead of Markdown syntax. See the following example for including the same image these two ways. Note, that concrete examples are given at the end in the [Chapter Design](#chapterDesign) section.
+
+- HTML-Notation: `<img src="{{pathToRoot}}/assets/images/Cover.png">`
+- Markdown-Notation: `![](/detel-book/assets/images/Cover.png)`
+
+While the Markdown notation is sufficient to include images, the HTML notation can be more powerful as it allows for captions, image borders etc.
 
 ### Linking in the Table of Contents
 For adding a chapter to the table of contents, navigate to [the table of contents file in the repository](https://github.com/ea-tel/detel-book/tree/master/tableOfContents.md) and add a subtopic to the corresponding main topic area based on your permalink as follows. Your chapter will then appear in the table of contents and be a clickable link to your chapter once the website is deployed. 
@@ -147,27 +152,26 @@ Tables can be generated [on this site](https://www.tablesgenerator.com/) and imp
 | text         | text           | text          |
 
 ---
-You can link external resources as well as other chapters as follows.
+You can link external resources as well as other chapters as follows. Note, that you link to another chapter using its permalink in the form of `/detel-book[permalink]`.
 
 [Generic Link](https://stackoverflow.com/questions/44610355/how-to-create-horizontal-line-in-markdown-using-hexo-framework)
 
 ![External Image](https://t3.ftcdn.net/jpg/03/15/34/90/360_F_315349043_6ohfFyx37AFusCKZtGQtJR0jqUxhb25Y.jpg)
 
-![Internal Image](/detel-book/assets/Cover.png)
+![Internal Image](/detel-book/assets/images/Cover.png)
 
-[Link to another chapter](/detel-book/chapter/transversal/wellbeing/) *
+[Link to another chapter](/detel-book/chapter/transversal/wellbeing/) 
 
-<sup>*Note, that you link to another chapter using its permalink in the form of `/detel-book[permalink]`.*</sup>
 
 
 
 
 --- 
 
-These images are very large. Another option of including images lets you set the size in pixels. Aligning text and images either center or right is also possible using the tag `<p align="center"> your text </p>`. This is illustrated in the following.
+These images are very large. Another option of including images using HTML lets you set the size in pixels among other things. Aligning text and images either center or right is also possible using the tag `<p align="center"> your text </p>`. This is illustrated in the following.
 
 <p align="center">
-<img src="{{pathToRoot}}/assets/images/Cover.png" alt="External Image" width="100px">
+<img src="{{pathToRoot}}/assets/images/Cover.png" alt="Internal Image" width="200px">
 <br>I want this image to be aligned to the left.
 </p>
 
@@ -175,10 +179,17 @@ These images are very large. Another option of including images lets you set the
 And this text should align to the right.
 </p>
 
-<p align="cleft">
+<p align="left">
 <img src="https://t3.ftcdn.net/jpg/03/15/34/90/360_F_315349043_6ohfFyx37AFusCKZtGQtJR0jqUxhb25Y.jpg" alt="External Image" width="300px">
- <br>   I want this image to be centered.
+<br>I want this image to be centered.
 </p>
+
+To add figure captions, encapsulate images in `<figure>` and add the caption as seen in the following example.
+
+    <figure>
+        <img src="{{pathToRoot}}/assets/images/Cover.png" alt="Internal Image" width="200px">
+        <figcaption>The Cover.</figcaption>
+    </figure>
 
 <sup>*Note, that the same approaches can be used for linking videos.*</sup>
 
