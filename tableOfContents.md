@@ -14,5 +14,4 @@ order: 3
 
 2. [My New Chapter](/detel-book/chapter/myChapter/)
 
-3. [Design-based Research in TEL: an introduction](/detel-book/chapters/Lorena_UAveiro/DBR/)
-4. [Creating Open Educational Resources with the H5P tool](/detel-book/chapters/Lorena_UAveiro/OER/)
+
