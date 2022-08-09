@@ -22,14 +22,16 @@ order: 3
 
 ## 3 TEL Methodologies
 
-M. [Design-based research (DBR)](/detel-book/chapter/methodologies/design-based-research/)
+4. [Design-based Research in TEL&#58; an introduction](/detel-book/chapter/methodologies/design-based-research/)
+
 
 ...
 
 ## 4 Transversal Issues
 
-N. [Doctoral Wellbeing and TEL](/detel-book/chapter/transversal/wellbeing/)
+5. [Doctoral Wellbeing and TEL](/detel-book/chapter/transversal/wellbeing/)
 
+6. [Creating Open Educational Resources with the H5P tool](/detel-book/chapters/Lorena_UAveiro/OER/)
 ...
 
 ## Templates
