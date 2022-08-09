@@ -3,7 +3,7 @@ layout: page
 title: An introduction to Design-based Research in TEL
 
 hide: true
-permalink: /chapters/DBR/
+permalink: /chapters/methodologies/design-based-research/
 ---
 
 
