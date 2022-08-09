@@ -4,7 +4,7 @@
 
 Welcome to the editing environment for the DE-TEL Book.
 
-# HowTo Run Locally
+# How To Run Locally
 
 ## Prepare Development Environment
 
@@ -23,7 +23,7 @@ It should return the installed version of Ruby.
 
 On Windows, you can find an entry called "Start Command Prompt with Ruby" in your start menu after the installation. It makes sure that Ruby is accessible by that command prompt. If the default command prompt cannot find Ruby, you can keep using this special command prompt.
 
-__Step 3.__ Clone this DETEL book repository. If needed, use instructions of [how to clone a github repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). Remember the folder where the local version of the repository is stored on your machine.
+__Step 3.__ Clone this DETEL book repository. If needed, use instructions of [how to clone a GitHub repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). Remember the folder where the local version of the repository is stored on your machine.
 
 
 __Step 4.__ In the terminal/command line, navigate to the folder with the local version of the DETEL book repository. To navigate to the correct folder, use following command:
@@ -40,7 +40,7 @@ When you open Command Prompt, you see a line similar to this:
 You can type these commands to navigate:
     
     C:\Users\username>cd Documents
-    C:\Users\username\Documents>cd Github
+    C:\Users\username\Documents>cd GitHub
     C:\Users\username\Documents\GitHub>cd detel-book
 
 Now you are in this directory:
@@ -55,12 +55,15 @@ __Step 5.__ Install bundler
 
 Run the following command:
 
-
     gem install bundler
+
+*NB: In Windows 10, you probably are better off installing a particular version of bundler*
+
+    gem install bundler:2.1.4
 
 __Step 6.__ Use bundler to pull Jekyll
 
-Run the following commands:
+Run the following commands (make sure you run them from the /detel-book folder, as per Step 4 above):
 
     bundle install
     
@@ -83,7 +86,7 @@ Now when you have the writing environment setup locally, you can start creating 
 
 __Step 1.__ In GitBash, navigate to the folder with the local version of the DETEL book repository.
 
-You should  notice that Gitbash displayed the name of your current branch in brachets after the name of the directory. It is (master) by default.
+You should notice that Gitbash displayed the name of your current branch in parentheses after the name of the directory. It is (master) by default.
 
 __Step 2.__ Create a new branch
 
@@ -93,7 +96,7 @@ You should now notice that GitBash has switched to your new branch.
 
 __Step 3.__ Edit!
 
-Now you can create, edit or delete any content of the book. For example, you if you want to create a new chapter, you can create a new file and start editing it. You can use any text editr, like a Notepad app, to edit the file. However, we recommend that you install and use [VS Code](https://code.visualstudio.com/) app. This app is free and has several convenient tools in addition to editing the text itself.
+Now, you can create, edit or delete any content of the book. For example, you if you want to create a new chapter, you can create a new file and start editing it. You can use any text editor, like a Notepad app, to edit the file. However, we recommend that you install and use [VS Code](https://code.visualstudio.com/) app. This app is free and has several convenient tools in addition to editing the text itself.
 
 The content of the book is written in Markdown, a simple markup language. To get started with Markdown, check this [starting guide](https://www.markdownguide.org/getting-started/) and this [cheat sheet](https://www.markdownguide.org/cheat-sheet/).
 
@@ -118,6 +121,9 @@ __Step 5.__ Wait for review
 Now you can wait for one of our administrators to check your contribution and accept or reject it. As soon as it is accepted, the contents of your commit will appear online on the public website. 
 
 While you are waiting for the review, feel free to work on the next set of edits (e.g., your next chapter). You should start new unrelated work (e.g., another chapter) on a new branch and that this new branch must be based on the master branch.
+
+## Template Chapter
+To make creating chapters more accessible and easier for contributors, a template chapter is provided [here](/_chapters/chapters/templates/mainTemplate.md) which can be freely copied and used to create your own chapters. In this template chapter you can find extensive explanations about everything necessary to correctly format your chapter in Markdown and integrate it into the structure of the book.
 
 # Description
 
@@ -144,7 +150,7 @@ Agile teams are responsible for the generation of chapters and act as product ow
 * Testers will thoroughly try out the final versions of the book.
 
 The book uses Git for version management and a GitHub organization for the creation, hosting, and delivery of the book contents to guarantee agile development.
-We use the GitHub-based issue tracking system for the communication between the community members, such as the the authors and the reviewers.
+We use the GitHub-based issue tracking system for the communication between the community members, such as the authors and the reviewers.
 Based on this content sharing and version management platform we use the static site generator Jekyll for rendering the content of the Git repository into a Web site.
 With every commit, a new version of the Web site is created automatically.
 Formatting of the content is done using a simple markdown language.
