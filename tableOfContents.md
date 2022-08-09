@@ -31,7 +31,7 @@ order: 3
 
 5. [Doctoral Wellbeing and TEL](/detel-book/chapter/transversal/wellbeing/)
 
-6. [Creating Open Educational Resources with the H5P tool](/detel-book/chapters/Lorena_UAveiro/OER/)
+6. [Creating Open Educational Resources with the H5P tool](/detel-book/chapter/transversal/сreating-oer-with-the-H5P-tool/)
 ...
 
 ## Templates
