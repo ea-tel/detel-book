@@ -40,3 +40,4 @@ X. [The Main Template](/detel-book/chapter/templates/main-template/)
 3. [The Chapter Design](/detel-book/chapter/templates/main-template/#chapterDesign)
 
 ...
+
