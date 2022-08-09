@@ -1,7 +1,20 @@
-# Systematic Literature Review
+---
+layout: page 
+title: Systematic Literature Review
+hide: true 
+permalink: /chapter/research-methods/systematic-literature-review
+---
 
 ## Introduction
 This chapter present a summary of the methodoloy to conduct a systematic literature review. First, the difference between literature review and systematic literature review is presented. This is followed by a definition of systematic literature review and a glossary of relevant terms. Finally, the phases for conducting a systematic literature review are presented as a guide. 
+
+Below is an interactive widget with the learning goals of this chapter. This tool allows the reader to visualize not only the learning goals but also his or her own estimation (in percent) of the achievement. 
+
+
+<div id="treemap-detel"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.4.4/d3.min.js"></script>
+<script type="module" src="/detel-book/assets/js/treemap.js"></script>
+
 
 ## Literature review
 A literature review is a common practice and a central part of academic research. It provides an overview of what is known about a particular topic and a critical evaluation of the existing published work in a selected research area.
