@@ -3,7 +3,7 @@ layout: page
 title: Creating Open Educational Resources with the H5P tool
 
 hide: true
-permalink: /chapter/transversal/сreating-oer-with-the-H5P-tool/
+permalink: /chapter/transversal/creating-oer-with-the-H5P-tool/
 ---
 
 # Creating Open Educational Resources with the H5P tool
