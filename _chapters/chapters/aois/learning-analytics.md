@@ -11,10 +11,10 @@ permalink: /chapter/aois/learning-analytics/
 ## Expected outcomes
 
 After reading this chapter and doing the proposed exercises, we hope you will:
-* … be able to deﬁne learning analytics (LA) in your own words.
+* … be able to define learning analytics (LA) in your own words.
 * … understand what kinds of learning analytics solutions are possible  (i.e., what is the design space of LA)
-* … understand the potential beneﬁts and risks that LA technologies can bring, for educational research and practice
-* … become acquainted with multiple LA tools, as well as underlying  technologies and learning resources where you can deepen your knowledge of this research ﬁeld and its practice
+* … understand the potential benefits and risks that LA technologies can bring, for educational research and practice
+* … become acquainted with multiple LA tools, as well as underlying  technologies and learning resources where you can deepen your knowledge of this research field and its practice
 
 
 
@@ -61,7 +61,7 @@ Aside from the "static view" of a system that the six dimensions above provide, 
 
 <img width="744" alt="Two learning analytics processes, by Siemens (2013, left) and Shankar et al. (2020, right)" src="https://user-images.githubusercontent.com/105489417/169746662-d3d3b1bc-f844-449b-b21f-bca76e156c6f.png">
 
-## Beneﬁts of Learning Analytics
+## Benefits of Learning Analytics
 
 Learning analytics has become a popular research field because LA solutions have multiple specific benefits, which we could group in two broad categories:
 
@@ -71,7 +71,7 @@ In the educational sciences, gathering data (e.g., interviews, questionnaires, e
 
 In contrast, if people use digital tools for learning, machines can automatically gather **detailed, ongoing data about the learning process**, e.g., from platform logs (actions, clicks, taps), intermediate artifacts (think, GoogleDocs and its revision  history). Such data can give a greater insight into the learning process and how the final outcomes are reached. Moreover, machines can even analyze the (large volumen of) data for us, using big data techniques, machine learning, and datamining, therefore providing **faster insights**.
 
-Even in cases where learners do not use technology for learning, we can apply learning analytics to the physical world through sensors (e.g., cameras, microphones, eye-trackers, movement trackers, etc.), which can then be analyzed using what has been termed "multimodal learning analytics", an emergent sub-ﬁeld of LA[^blikstein][^dimitri].
+Even in cases where learners do not use technology for learning, we can apply learning analytics to the physical world through sensors (e.g., cameras, microphones, eye-trackers, movement trackers, etc.), which can then be analyzed using what has been termed "multimodal learning analytics", an emergent sub-field of LA[^blikstein][^dimitri].
 
 ### A novel method for educational researchers
 
@@ -85,7 +85,7 @@ In the same way that learning analytics can provide specific benefits, it should
 
 Applying learning analytics in a new context is still **technically complex**, as only very basic analytics are available in mainstream platforms like Moodle or Blackboard. If we want to go further and apply LA to multiple different platforms or data sources, we may need to resort to (less-tested, more experimental) research prototypes. Make sure you have some technical support around when attempting this, or that you collaborate with experts in the technical side of this interdisciplinary field, to help you overcome any technical, prototype-related issues.
 
-For instance, a classic, yet unsolved technical problem in LA is that of **interoperability**. Think about your latest courses: most probably you were using multiple platforms (e.g., Moodle and Google Slides). Even if these different systems are able to gather data about what happens in the learning process... can these systems talk to each other? Can the instructor get a **uniﬁed** view of the process? Although there have been some initial solutions proposed, like the xAPI standard and generic infrastructures for LA, the problem is far from being solved in a general sense.
+For instance, a classic, yet unsolved technical problem in LA is that of **interoperability**. Think about your latest courses: most probably you were using multiple platforms (e.g., Moodle and Google Slides). Even if these different systems are able to gather data about what happens in the learning process... can these systems talk to each other? Can the instructor get a **unified** view of the process? Although there have been some initial solutions proposed, like the xAPI standard and generic infrastructures for LA, the problem is far from being solved in a general sense.
 
 ### Educational challenges
 
@@ -96,7 +96,7 @@ In LA research there is a strong emphasis on **theory/pedagogical grounding of a
 
 ## Ethical challenges
 
-As in other ﬁelds where analytics and big data are applied, LA can have ethical implications. These implications include: the need for respecting privacy, users' agency, avoiding  risks, and biases. In the LA ﬁeld, researchers are also trying to police themselves and the use, practice and implementation of LA. As a result of such monitoring, for instance, the **DELICATE** framework emerged[^drachsler]. You can use this framework (pictured below) as a checklist to analyze different ethical aspects that to take into consideration when implementing LA in an educational setting:
+As in other fields where analytics and big data are applied, LA can have ethical implications. These implications include: the need for respecting privacy, users' agency, avoiding  risks, and biases. In the LA field, researchers are also trying to police themselves and the use, practice and implementation of LA. As a result of such monitoring, for instance, the **DELICATE** framework emerged[^drachsler]. You can use this framework (pictured below) as a checklist to analyze different ethical aspects that to take into consideration when implementing LA in an educational setting:
 
 
 <img width="262" alt="The DELICATE ethical framework for learning analytics" src="https://user-images.githubusercontent.com/105489417/169748539-338d7873-3ac5-4061-8fe1-736154cb6cf4.png">
@@ -118,7 +118,7 @@ The CoTrack prototype is available at [https://www.cotrack.website/en-gb/](https
 
 ### Tool example: Enabling recurrent, fast-loop questionnaire analytics for teachers and learners with LAPills
 
-Learning analytics are still too complex for everyday classroom use. For most teachers, it only makes sense to use LA if you are teaching a fully online, probably large-scale course (as there the benefits of increased awareness will clearly outweigh the cost of implementing this new technology). Still, analytics offered by most platforms are generic, and do not give useful information for the particular context of a teacher's lesson. LAPills tries to be the simplest LA platform to help a teacher see the beneﬁts at a low cost/effort[^prieto].
+Learning analytics are still too complex for everyday classroom use. For most teachers, it only makes sense to use LA if you are teaching a fully online, probably large-scale course (as there the benefits of increased awareness will clearly outweigh the cost of implementing this new technology). Still, analytics offered by most platforms are generic, and do not give useful information for the particular context of a teacher's lesson. LAPills tries to be the simplest LA platform to help a teacher see the benefits at a low cost/effort[^prieto].
 
 LAPills is based on the idea of having reusable templates for a tiny LA solution, which includes the learning design (i.e., the sequence of learning activities in the lesson), the means to gather data along the sequence of activities (in the form of questionnaires) and customized analytics that are contextualized for the particular lesson.
 
@@ -152,9 +152,9 @@ In this sense, we could define broad, non-exclusive paradigms within LA and rela
 
 ## Summary and further resources
 
-Learning analytics is all about using new sources of data and analytics techniques to understand and improve learning. LA is an interdisciplinary ﬁeld, with strong technical content, but also a strong pedagogical/theoretical grounding. Many stakeholders are involved in the design, evaluation and ongoing implementation of LA solutions (students, teachers, developers, administrators, leaders…). Given this human complexity in implementing and deploying LA, it tends to be a lengthy process that requires lots of dialogue.
+Learning analytics is all about using new sources of data and analytics techniques to understand and improve learning. LA is an interdisciplinary field, with strong technical content, but also a strong pedagogical/theoretical grounding. Many stakeholders are involved in the design, evaluation and ongoing implementation of LA solutions (students, teachers, developers, administrators, leaders…). Given this human complexity in implementing and deploying LA, it tends to be a lengthy process that requires lots of dialogue.
 
-The good news is that LA is still a young ﬁeld, so there is lots of space for you to put your "research footprint" on as a novice researcher. New techniques, ways of conceptualizing, contexts of application… the list is endless!
+The good news is that LA is still a young field, so there is lots of space for you to put your "research footprint" on as a novice researcher. New techniques, ways of conceptualizing, contexts of application… the list is endless!
 
 You can deepen your knowledge of LA by visiting any of the following educational resources:
 
