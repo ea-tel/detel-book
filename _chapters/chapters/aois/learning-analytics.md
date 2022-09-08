@@ -195,5 +195,4 @@ You can deepen your knowledge of LA by visiting any of the following educational
 
 [^siemens]: Siemens, G. (2013). Learning analytics: The emergence of a discipline. American Behavioral Scientist, 57(10), 1380-1400.
 
-[^shankar]: Shankar, S. K., Rodríguez-Triana, M. J., Ruiz-Calleja, A., Prieto, L. P., Chejara, P., & Martínez-Monés, A. (2020). Multimodal Data Value Chain
-(M-DVC): A Conceptual Tool to Support the Development of Multimodal Learning Analytics Solutions. IEEE Revista Iberoamericana de Tecnologias  del Aprendizaje, 15(2), 113-122.
+[^shankar]: Shankar, S. K., Rodríguez-Triana, M. J., Ruiz-Calleja, A., Prieto, L. P., Chejara, P., & Martínez-Monés, A. (2020). Multimodal Data Value Chain (M-DVC): A Conceptual Tool to Support the Development of Multimodal Learning Analytics Solutions. IEEE Revista Iberoamericana de Tecnologias  del Aprendizaje, 15(2), 113-122.
