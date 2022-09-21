@@ -32,6 +32,8 @@ order: 3
 6. [Doctoral Wellbeing and TEL](/detel-book/chapter/transversal/wellbeing/)
 
 7. [Creating Open Educational Resources with the H5P tool](/detel-book/chapter/transversal/creating-oer-with-the-H5P-tool/)
+
+8. [Ethical Issues in TEL](/detel-book/chapter/transversal/ethics/) 
 ...
 
 ## Templates
@@ -42,4 +44,3 @@ X. [The Main Template](/detel-book/chapter/templates/main-template/)
 3. [The Chapter Design](/detel-book/chapter/templates/main-template/#chapterDesign)
 
 ...
-
