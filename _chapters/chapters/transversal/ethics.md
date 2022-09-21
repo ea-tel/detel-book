@@ -82,7 +82,7 @@ Including the demographic information will give an estimated idea of who you are
 
 It is important to become aware of how one’s characteristics may bias, influence, or limit the inquiry and what steps have been taken to limit their influence. The statement can also assist others in contextualising your research as well as give you credibility to study the topic you have chosen.
 
-> Exercise: self-declaration approach
+> **Exercise: self-declaration approach**
 >
 > To start shaping your subjectivity statement, you can start with outlining your **self-declaration approach**, which involves, first, reflecting on goodness in research and then positioning ourselves in the research continuum and contemplating different dimensions of goodness in research.
 >
