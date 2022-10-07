@@ -23,7 +23,9 @@ order: 3
 ## 3 TEL Methodologies
 
 [Design-based Research in TEL&#58; an introduction](/detel-book/chapter/methodologies/design-based-research/)
+
 [Systematic Literature Review](/detel-book/chapter/methodologies/systematic-literature-review/)
+
 [Qualitative Research in Technology-Enhanced Learning](/chapter/methodologies/qualitative-research-in-tel/)
 
 ...
@@ -38,8 +40,11 @@ order: 3
 ## Templates
 
 [The Main Template](/detel-book/chapter/templates/main-template/)
+
 [The Table of Contents](/detel-book/chapter/templates/main-template/#tableOfContents)
+
 [The Bibliography](/detel-book/chapter/templates/main-template/#bibliography)
+
 [The Chapter Design](/detel-book/chapter/templates/main-template/#chapterDesign)
 
 ...
