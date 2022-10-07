@@ -2,7 +2,7 @@
 layout: reading_chapter
 title: Qualitative Research in Technology-Enhanced Learning
 hide: true
-permalink: /chapter/introduction/qualitative/
+permalink: /chapter/methodologies/qualitative-research-in-tel/
 ---
 
 # **Qualitative Research in Technology-Enhanced Learning**
@@ -23,7 +23,7 @@ According to Creswell (2007) Qualitative studies have a baffling number of choic
 **Table 1. Qualitative Approaches Mentioned by Authors 
 (Adapted from Creswell, 2007, pp. 7-8)**
 
-| **Authors**              |**Qualitative pproaches**     |**Disciplin/Field**|   
+| **Authors**              |**Qualitative approaches**     |**Disciplin/Field**|   
 |--------------------------|------------------------------|-------------------|
 | Lancy (1993)             |Anthropological Perspective   |                   |
 |                          |Sociological Perspectives     |                   |
