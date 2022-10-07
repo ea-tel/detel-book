@@ -26,7 +26,7 @@ order: 3
 
 [Systematic Literature Review](/detel-book/chapter/methodologies/systematic-literature-review/)
 
-[Qualitative Research in Technology-Enhanced Learning](/chapter/methodologies/qualitative-research-in-tel/)
+[Qualitative Research in Technology-Enhanced Learning](/detel-book/chapter/methodologies/qualitative-research-in-tel/)
 
 ...
 
