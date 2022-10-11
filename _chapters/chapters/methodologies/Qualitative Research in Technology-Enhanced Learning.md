@@ -289,6 +289,12 @@ Computer-assisted qualitative data analysis software offers tools that assist wi
 **VIDEO: What Qualitative Data Analysis software can and can’t do for you – an intro video** 
 <https://www.youtube.com/watch?v=tLKfaCiHVic> 
 
+**VIDEO: Qualitative Research in Technology-Enhanced Learning (part 2)**
+
+In this video, we describe how Computer Assisted Qualitative Data Analysis CAQDAS can support Qualitative Data Analysis. We demonstrate basic features of NVivo, focusing on how it can be used for entering and coding data mainly yielded from interviews, pdf, surveys, websites, among others.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5sR80NW9Hq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## **What does computer software offer qualitative researchers?**
 
 CAQDAS software do not do any real analysis for us; rather, they have been designed to help researchers with the mechanisation of the clerical aspects of data management, in other words, CAQDAS replace the traditional tools of qualitative data analysis (paper, pen, scissors) with tools of the digital age. The purpose of software is not to provide you with a methodological or analytic framework but rather to support you in certain tasks, such as planning and managing your project, writing analytic memos, marking and commenting on data, searching for string words or phrases, developing a coding schema, coding, recoding, organising data, hyperlinking, mapping, and generating output.
