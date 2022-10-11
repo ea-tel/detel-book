@@ -7,6 +7,13 @@ permalink: /chapter/methodologies/qualitative-research-in-tel/
 
 # **Qualitative Research in Technology-Enhanced Learning**
 
+Authors:
+Anna Nicolaou, Cyprus University of Technology
+Antigoni Parmaxi, Cyprus University of Technology
+Laia Albo, Universitat Pompeu Fabra
+Maria Victoria Soule, Cyprus University of Technology
+
+
 ## **Introduction** 
 
 This Qualitative Research chapter will mainly introduce the reader to Qualitative Research and Computer Assisted Qualitative Data Analysis (CAQDAS) through the use of NVivo, a software program used for qualitative and mixed-methods research. The chapter consists of 
