@@ -8,9 +8,13 @@ permalink: /chapter/methodologies/qualitative-research-in-tel/
 # **Qualitative Research in Technology-Enhanced Learning**
 
 Authors:
+
 Anna Nicolaou, Cyprus University of Technology
+
 Antigoni Parmaxi, Cyprus University of Technology
+
 Laia Albo, Universitat Pompeu Fabra
+
 Maria Victoria Soule, Cyprus University of Technology
 
 
