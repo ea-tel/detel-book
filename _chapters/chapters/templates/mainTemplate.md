@@ -1,6 +1,7 @@
 ---
 layout: tutorial
 title: The Main Template
+author: Julian Staab, Emilie Hastrup-Kiil
 hide: true
 permalink: /chapter/templates/main-template/
 ---
