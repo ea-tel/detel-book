@@ -1,6 +1,7 @@
 ---
 layout: reading_chapter
 title: Qualitative Research in Technology-Enhanced Learning
+author:
 hide: true
 permalink: /chapter/methodologies/qualitative-research-in-tel/
 ---

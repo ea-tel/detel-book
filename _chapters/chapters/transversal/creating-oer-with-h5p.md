@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Creating Open Educational Resources with the H5P tool
-
+author:
 hide: true
 permalink: /chapter/transversal/creating-oer-with-the-H5P-tool/
 ---

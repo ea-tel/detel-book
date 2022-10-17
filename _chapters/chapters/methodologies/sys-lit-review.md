@@ -1,6 +1,7 @@
 ---
 layout: page 
 title: Systematic Literature Review
+author:
 hide: true 
 permalink: /chapter/methodologies/systematic-literature-review/
 ---
