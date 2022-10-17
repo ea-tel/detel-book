@@ -1,7 +1,7 @@
 ---
 layout: reading_chapter
 title: A Gentle Introduction to Learning Analytics
-author:
+authors:
 hide: true
 permalink: /chapter/aois/learning-analytics/
 ---

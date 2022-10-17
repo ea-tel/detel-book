@@ -11,7 +11,7 @@ layout: default
 			<header>
 				<h2><img src="/detel-book/assets/images/Tutorial.png" style="align:right; width: 13%; height: 13%; vertical-align:middle">&nbsp;&nbsp;{{- page.title -}}</h2>
 				{%- if page.subtitle -%}<p>{{- page.subtitle -}}</p>{%- endif -%}
-				<p>{% if page.author %}{{ page.author }}{% endif %}</p>
+				<p>{% if page.authors %}	<hr style="border-width: 80%;"><auth>Authors: </auth><i>{{ page.authors }}{% endif %}</i></p>
 			</header>
 	    {{- content -}}
 	</article>

@@ -1,7 +1,7 @@
 ---
 layout: tutorial
 title: The Main Template
-author: Julian Staab, Emilie Hastrup-Kiil
+authors: Julian Staab, Emilie Hastrup-Kiil (RWTH Aachen University)
 hide: true
 permalink: /chapter/templates/main-template/
 ---

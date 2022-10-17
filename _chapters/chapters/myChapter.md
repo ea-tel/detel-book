@@ -1,7 +1,7 @@
 ---
 layout: page
 title: myChapter
-
+authors:
 hide: true
 permalink: /chapter/myChapter/
 ---

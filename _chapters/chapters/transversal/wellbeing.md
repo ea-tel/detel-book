@@ -1,7 +1,7 @@
 ---
 layout: reading_chapter
 title: Completing a Happy TEL PhD&#58; Wellbeing in TEL Doctorates
-author:
+authors:
 hide: true
 permalink: /chapter/transversal/wellbeing/
 ---
