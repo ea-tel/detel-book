@@ -17,6 +17,7 @@ In order for this page to be linked in the table of contents, please create a he
     ---
     layout: reading_chapter
     title: [The Title of the Chapter]
+    authors: [Author names]
     hide: true
     permalink: /chapter/[topic name]/[chapter title]/
     ---
@@ -34,7 +35,7 @@ You can select one of several defined layouts for your chapter, that predominant
 
 <sup>*Please refer to [this deployed chapter](https://ea-tel.github.io/detel-book/chapter/transversal/wellbeing/) to see an example for a reading chapter and the corresponding icon on the website.*</sup>
 
-Apart from these layouts, a layout for posts is provided. This layout does not add an icon, yet requires some more attributes in the header that add a date and author to the post and should be used for blog posts only. These are found [here in the repository](https://github.com/ea-tel/detel-book/tree/master/_posts). For the layout `post`, please add the following header.
+Most layouts allow to provide the corresponding authors. These will be listed just below the main title of the page. Apart from this, a layout for posts is provided as well. This layout does not add an icon, yet requires some more attributes in the header that add a date and also an author to the post and should be used for blog posts only. These are found [here in the repository](https://github.com/ea-tel/detel-book/tree/master/_posts). For the layout `post`, please add the following header.
 
     ---
     layout: post
