@@ -6,9 +6,7 @@ hide: true
 permalink: /chapter/methodologies/qualitative-research-in-tel/
 ---
 
-## **Introduction** 
-
-This Qualitative Research chapter will mainly introduce the reader to Qualitative Research and Computer Assisted Qualitative Data Analysis (CAQDAS) through the use of NVivo, a software program used for qualitative and mixed-methods research. The chapter consists of 
+**Abstract:** This Qualitative Research chapter will mainly introduce the reader to Qualitative Research and Computer Assisted Qualitative Data Analysis (CAQDAS) through the use of NVivo, a software program used for qualitative and mixed-methods research. The chapter consists of 
 two main parts. Part one starts with a general theoretical introduction on Qualitative Research, where a brief introduction to Qualitative Research theory is provided, as well as key considerations of Qualitative Data Analysis (QDA). The second part focus on how CAQDAS can support QDA. Here the reader is also guided on how to work with NVivo enter and code qualitative data with NVivo to enter and code raw data, organise coding, or cases, write memos and explore data. 
 
 ## **Qualitative Research**
@@ -103,11 +101,17 @@ Researchers supplement participant observation, observation and interviewing gat
 
 # **Qualitative Data Analysis (QDA)**
 
-**VIDEO: Introduction to Qualitative Coding** <https://www.youtube.com/watch?v=v8RlbqcR0RI> 
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/3gJMkTYZsKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*In this video by [EATEL](https://www.youtube.com/c/EATELeu), we provide a brief introduction to Qualitative Research theory and key considerations of Qualitative Data Analysis.*
 
 ## **Coding**
 
 Coding is a way of analysing that can be applied to all sorts of data and is not focused on a specific method of data collection. Coding is not the only way of analysing data, but it is the most prominent one, if the data results from observations, interviews, or review of documents. Dörney points out that “Most research texts would confirm that regardless of the specific methodology followed, qualitative data analysis invariably starts with coding.” (2007, p. 250). But, he also recognises that this statement is partially true, because usually a considerable amount of analysis has already taken place when we begin the actual coding process. This first stage, often called ‘pre-coding’, involves reading and reading the texts (i.e. transcripts, documents, etc.), reflecting on them, and noting down our thoughts in journal entries and memos. These pre-coding reflections shape our thinking about data and influence the way we will go about coding.
+
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/v8RlbqcR0RI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*In this video by [DelveTool](https://www.youtube.com/c/DelveTool), an introduction to Qualitative Coding is presented.*
 
 ### **Initial coding**
 
@@ -155,11 +159,11 @@ Several researchers note the need of a qualitative researcher to abide by the is
 
 ## Five ways of organising and presenting data analysis (Cohen, Manion & Morrison, 2018)
 
-1)	**By groups**: this way recommends organizing and presenting data by respondents, in response to particular issues. This method is often used when a single-instrument approach is adopted. 
-2)	**By individuals**: this way the total responses of a single participant are presented, and then the analysis moves on to the next individual. In this method, the researcher often has to proceed to a second level of analysis in order to look for themes, shared responses, patterns in order to summarize the data. 
-3)	**By issue**: in this way data are organized and presented depending on their relevance to a particular issue. This way is characterized as economical, yet it misses the wholeness and integrity of each individual respondent, whilst data can become decontextualized. 
-4)	**By research question**: all the relevant data from various data streams are collated to provide a collective answer to a research question. 
-5)	**By instrument**: in this way the findings of each instrument are presented. While this approach retains fidelity to the coherence of the instrument and enables the reader to see clearly which data derive from which instrument, one has to observe that the instrument is often only a means to an end, and that further analysis will be required to analyse the content of the responses – by issue and by people. 
+1. **By groups**: this way recommends organizing and presenting data by respondents, in response to particular issues. This method is often used when a single-instrument approach is adopted.
+2.	**By individuals**: this way the total responses of a single participant are presented, and then the analysis moves on to the next individual. In this method, the researcher often has to proceed to a second level of analysis in order to look for themes, shared responses, patterns in order to summarize the data.
+3.	**By issue**: in this way data are organized and presented depending on their relevance to a particular issue. This way is characterized as economical, yet it misses the wholeness and integrity of each individual respondent, whilst data can become decontextualized.
+4.	**By research question**: all the relevant data from various data streams are collated to provide a collective answer to a research question.
+5.	**By instrument**: in this way the findings of each instrument are presented. While this approach retains fidelity to the coherence of the instrument and enables the reader to see clearly which data derive from which instrument, one has to observe that the instrument is often only a means to an end, and that further analysis will be required to analyse the content of the responses – by issue and by people. 
 
 According to Cohen, Manion and Morrison (2018), the following are considered generalized **stages of analysis**: 
 1.	Generating natural units of meaning 
@@ -233,91 +237,137 @@ Reliability and validity are conceptualized as trustworthiness, rigor and qualit
 
 **Basic notions** (Cohen, Manion, Morrison, 2018)
 
-|||
-|-----|-----|
-|**Validity**     | In qualitative data validity might be addressed through the honesty, depth, richness and scope of the data achieved, the participants approached, the extent of triangulation and the disinterestedness and objectivity of the researcher.                    |   
-|                 | - In qualitative data the subjectivity of respondents, their opinions, attitudes, and perspective together contribute to a degree of bias. Validity then should be seen as a matter of degree rather than absolute state                                      | 
-|                 | - Types of validity: generalizability, replicability and controllability, predictability, the derivation of laws and universal statements of behaviour, context freedom, fragmentation and atomization of research, randomization of samples, observability   |
-|                 | - Maxwell (1992) suggests that ‘understanding’ is a more suitable term than ‘validity’ in qualitative research-it is the meaning that subjects give to the data and inferences drawn from the data that are important                                         |
-|                 | - Five kinds of validity for exploring the notion of ‘understanding’:                                                                                                                                                                                         |                                                                                                                                                        |                                       
-|                 | - descriptive validity (accuracy of the account, that is not made up, selective or distorted)                                                                                                                                                                 |
-|                 | - interpretive validity (ability of research to catch the essence of situations and events)                                                                                                        							          |
-|                 | - theoretical validity (the extent to which the research explains phenomena) 																						  |
-|                 | - generalizability (the theory is useful in understanding similar situations)																						  |
-|                 | - evaluative validity (application of an evaluative rather than descriptive framework)    																				          |      																					   |                                                                                                                                                                       |
-|**Reliability**  | In qualitative data often replaced with terms such as ‘credibility’, neutrality, confirmability, dependability, consistency, applicability, trustworthiness, transferability                                                                                  |             
-|                 | - Replication in qualitative data includes repeating:																									  | 
-|                 | - The status position of the researcher;																										          | 
-|                 | - The choice of informants/respondents;																										          | 
-|                 | - The social situations and conditions;																										          | 
-|                 | - The analytic constructs used;																											          | 
-|                 | - The methods of data collection and analysis;																										  | 
-|                 | - To address reliability:																												          | 
-|                 | - Stability of observations (same researcher making similar observations in different time) 																				  | 
-|                 | - Parallel forms (same observations if the researcher looked at different phenomena) 																					  | 
-|                 | - Inter-rater reliability (another observer would have observed the same phenomena and analysed them in the same way)                                                                                                                                         | 
-|                 | - Respondent validation.																												          | 
-|**Credibility**  |  Can be achieved through: 																												          |
-|	          | - prolonged engagement in the field																											          |
-|	          | - persistent observation 																												          |
-|	          | - triangulation of methods, sources, investigators and theories 																							          |
-|	          | - peer debriefing 																													          |	
-|	          | - negative case analysis																												          |
-|	          | - member checking 																													          |	
-|**Triangulation**|  Use of two or more methods of data collection in the study of some aspect of human behaviour                                                                                                                                                                 |
-|	          | - Triangular techniques attempt to map out or explain more fully, the richness and complexity of human behaviour by studying from more than one standpoint and using both quantitative and qualitative data                                                   |
-|	          | - Benefits: enhance confidence on the data, enhance researcher’s confidence 																						  |
-|	          | - Powerful way for demonstrating concurrent validity (particularly in qualitative research)																				          |
+## Validity
+
+In qualitative data validity might be addressed through the honesty, depth, richness and scope of the data achieved, the participants approached, the extent of triangulation and the disinterestedness and objectivity of the researcher.
+- In qualitative data the subjectivity of respondents, their opinions, attitudes, and perspective together contribute to a degree of bias. Validity then should be seen as a matter of degree rather than absolute state.
+- Types of validity: generalizability, replicability and controllability, predictability, the derivation of laws and universal statements of behaviour, context freedom, fragmentation and atomization of research, randomization of samples, observability
+
+Maxwell (1992) suggests that ‘understanding’ is a more suitable term than ‘validity’ in qualitative research-it is the meaning that subjects give to the data and inferences drawn from the data that are important. Five kinds of validity for exploring the notion of ‘understanding’:
+- descriptive validity (accuracy of the account, that is not made up, selective or distorted)
+- interpretive validity (ability of research to catch the essence of situations and events)
+- theoretical validity (the extent to which the research explains phenomena)
+- generalizability (the theory is useful in understanding similar situations)
+- evaluative validity (application of an evaluative rather than descriptive framework)        
+
+
+
+## Reliability
+
+In qualitative data often replaced with terms such as ‘credibility’, neutrality, confirmability, dependability, consistency, applicability, trustworthiness, transferability.
+
+Replication in qualitative data includes repeating:
+- The status position of the researcher
+- The choice of informants/respondents
+- The social situations and conditions
+- The analytic constructs used
+- The methods of data collection and analysis
+
+To address reliability:
+- Stability of observations (same researcher making similar observations in different time)
+- Parallel forms (same observations if the researcher looked at different phenomena)
+- Inter-rater reliability (another observer would have observed the same phenomena and analysed them in the same way)
+- Respondent validation.
+
+## Credibility
+
+Can be achieved through:
+- prolonged engagement in the field
+- persistent observation
+- triangulation of methods, sources, investigators and theories
+- peer debriefing
+- negative case analysis
+- member checking
+
+## Triangulation
+Use of two or more methods of data collection in the study of some aspect of human behaviour.
+Triangular techniques attempt to map out or explain more fully, the richness and complexity of human behaviour by studying from more than one standpoint and using both quantitative and qualitative data.
+- Benefits: enhance confidence on the data, enhance researcher’s confidence
+- Powerful way for demonstrating concurrent validity (particularly in qualitative research)
 
 			  
 # **Computer Assisted Qualitative Data Analysis (CAQDAS)**
 
 Computer-assisted qualitative data analysis software offers tools that assist with qualitative research such as transcription analysis, coding and text interpretation, recursive abstraction, content analysis, discourse analysis, grounded theory methodology, among others.
 
-**VIDEO: What Qualitative Data Analysis software can and can’t do for you – an intro video** 
-<https://www.youtube.com/watch?v=tLKfaCiHVic> 
+<iframe width="1120px" height="630px" src="https://www.youtube.com/embed/5sR80NW9Hq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**VIDEO: Qualitative Research in Technology-Enhanced Learning (part 2)**
-
-In this video, we describe how Computer Assisted Qualitative Data Analysis CAQDAS can support Qualitative Data Analysis. We demonstrate basic features of NVivo, focusing on how it can be used for entering and coding data mainly yielded from interviews, pdf, surveys, websites, among others.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5sR80NW9Hq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*In this video by [EATEL](https://www.youtube.com/c/EATELeu), we describe how Computer Assisted Qualitative Data Analysis CAQDAS can support Qualitative Data Analysis. We demonstrate basic features of NVivo, focusing on how it can be used for entering and coding data mainly yielded from interviews, pdf, surveys, websites, among others.*
 
 ## **What does computer software offer qualitative researchers?**
 
 CAQDAS software do not do any real analysis for us; rather, they have been designed to help researchers with the mechanisation of the clerical aspects of data management, in other words, CAQDAS replace the traditional tools of qualitative data analysis (paper, pen, scissors) with tools of the digital age. The purpose of software is not to provide you with a methodological or analytic framework but rather to support you in certain tasks, such as planning and managing your project, writing analytic memos, marking and commenting on data, searching for string words or phrases, developing a coding schema, coding, recoding, organising data, hyperlinking, mapping, and generating output.
 
+<iframe width="1120px" height="630px" src="https://www.youtube.com/embed/tLKfaCiHVic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*This is a brief intro video on what qualitative data analysis software can do, and what it can't do. It explores the functionality of qualitative data analysis software by distinguishing four main functions: Organization of Data, Annotation of Data, Searching of Data, and Display of Data. For more information on Qualitative Data Analysis Software and Qualitative Methods, visit [squaremethodology](http://squaremethodology.com/).*
+
 ## **Which is the ‘best’ CAQDAS package?**
 
-Lewins and Silver(2008) recognised that while this is the most frequently asked question, it is impossible to be answered. They highlight that all software have tools in common but also their own distinctive features. Currently CAQDAS software development is at an expansion stage, with a number of packages competing for the highly lucrative dominant position. Table 2 displays the most frequently mentioned software in the literature. 
+Lewins and Silver(2008) recognised that while this is the most frequently asked question, it is impossible to be answered. They highlight that all software have tools in common but also their own distinctive features. Currently CAQDAS software development is at an expansion stage, with a number of packages competing for the highly lucrative dominant position. Table 2 displays the most frequently mentioned software in the literature.
 
-**Table 1. Four CAQDAS packages**
-|**Software name** |**About the software**                                                                                                                                                                                                                          | **Features**                                                                     |  **Link**                                                                      |
-|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| **NVivo**        | NVivo was originally developed as NUD*IST by Tom Richards and Lyn Richards as a scroll mode Mac package at La Trobe University, Melbourne. Subsequently QSR International was formed which now develops and supports all QSR software products.| ●	Import and analyse images, videos, emails, webdata                             |<https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home>|
-|		   |																														    | ●	Relationship coding                                                            |										|
-|		   |																														    | ●	Charts, word clouds, word trees, explore and comparison diagrams               |										|
-|		   | 																														    | ●	Import articles from reference management software                             |									        |
-|		   |																														    | ●	Review coding with coding stripes and highlights                               | 										|
-|		   |																														    | ●	Matrix coding, coding word frequency, text search and coding comparison queries|										|																																      
-| **ATLAS.ti**     |  ATLAS.ti was developed at the Technical University of Berlin as an interdisciplinary collaborative project between the psychology department, computer scientists and future users (1989-92).                                                 | ●	Unicode throughout							       |<https://atlasti.com/>							        |
-|		   |																														    | ●	Undo/redo (100steps)							       |										|
-|		   |																														    | ●	Direct import from Twitter, Endnote, Evernote                                  |										|
-|		   |																														    | ●	Powerful visual query editor for creating and modifying SmartCodes             |										|
-|                  |   																													            | ●	Full project search with dynamic fade-in/fade-out hit categories               |										|
-|		   |																														    | ●	Network groups								       |										|
-|		   | 																														    | ●	Memo comments								       |										| 																														    
-|		   |																														    | ●	Multiple documents						               |									        |
-|**HyperRESEARCH** |HyperRESEARCH was first developed in 1990 by Sharlene Hesse, Scott Kinder and Paul Dupuis in Boston, Massachusetts. From 1991 HyperRESEARCH has been developed by ResearchWare who continue to develop and support the software.           	    | ●	Importer tool takes your survey from a spreadsheet                             |<http://www.researchware.com/>                        				|
-|		   |																														    | ●	Automatically builds a complete study       				       |										|
-|		   |																														    | ●	Easy to use								       |										|
-|		   |																										                                    | ●	Runs on multiple technological platforms                                       |										|
-|**MAXqda**        |MAXqda is the latest in a software stream originally developed by Udo Kuckartz in order to manage political discourse data on the environment. 												    | ●	Work with bibliographic data from reference management programmes              |<https://www.maxqda.com/>                                                         |                                                     
-|		   |																														    | ●	Organise and analyse literature and excerpts with MAXqda                       |                                						|
-|	           |																														    | ●	Create literature review with MAXqda                                           |										|
+### **NVivo**
+
+![NVivo logo](NVivo-logo.png)
+
+[NVivo](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home) was originally developed as NUD*IST by Tom Richards and Lyn Richards as a scroll mode Mac package at La Trobe University, Melbourne. Subsequently QSR International was formed which now develops and supports all QSR software products.
+
+**Features**
+- Import and analyse images, videos, emails, webdata
+- Relationship coding	 
+- Charts, word clouds, word trees, explore and comparison diagrams	 
+- Import articles from reference management software	 
+- Review coding with coding stripes and highlights	 
+- Matrix coding, coding word frequency, text search and coding comparison queries
+
+
+### **ATLAS.ti**
+
+![ATLAS.ti logo](ATLASti-logo.png)
+
+[ATLAS.ti](https://atlasti.com/) was developed at the Technical University of Berlin as an interdisciplinary collaborative project between the psychology department, computer scientists and future users (1989-92).
+
+**Features**
+- Unicode throughout
+- Undo/redo (100steps)	 
+- Direct import from Twitter, Endnote, Evernote	 
+- Powerful visual query editor for creating and modifying SmartCodes	 
+- Full project search with dynamic fade-in/fade-out hit categories	 
+- Network groups	 
+- Memo comments	 
+- Multiple documents
+
+### **HyperRESEARCH**
+
+![HyperRESEARCH logo](HyperRESEARCH-logo.png)
+
+[HyperRESEARCH](http://www.researchware.com/) was first developed in 1990 by Sharlene Hesse, Scott Kinder and Paul Dupuis in Boston, Massachusetts. From 1991 HyperRESEARCH has been developed by ResearchWare who continue to develop and support the software.
+
+**Features**
+- Importer tool takes your survey from a spreadsheet
+- Automatically builds a complete study	 
+- Easy to use	 
+- Runs on multiple technological platforms
+
+### **MAXqda**
+
+![MAXqda logo](MAXqda-logo.png)
+
+[MAXqda](https://www.maxqda.com/) is the latest in a software stream originally developed by Udo Kuckartz in order to manage political discourse data on the environment.
+
+**Features**
+- Work with bibliographic data from reference management programmes
+- Organise and analyse literature and excerpts	 
+- Create literature review	 
+
+
 
 # **Working with NVivo** 
-**VIDEO: Discover NVivo. The most cited and powerful software for qualitative data analysis** <https://www.youtube.com/watch?v=BHOEQQdEoiQ> 
+
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/BHOEQQdEoiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*In this video by [NVivobyQSR](https://www.youtube.com/c/NVivobyQSR), you will see a brief introduction to NVivo.*
+
 [Here](https://docs.google.com/document/d/e/2PACX-1vR6NzMPQtNIAGMxKiGdNHrZ3w9pBpc4VE_eTdJdQY1KMZGRbip0xD-0uYQxvYysu968PFfycRkqWG0f/pub) you will find a glossary with key terms to work with NVivo. 
 
 ## **Instructions to install NVivo** 
