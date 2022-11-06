@@ -1,7 +1,7 @@
 ---
 layout: reading_chapter
 title: A Gentle Introduction to Learning Analytics
-authors:
+authors: <br>Luis P. Prieto, Tallinn University, Estonia
 hide: true
 permalink: /chapter/aois/learning-analytics/
 ---
