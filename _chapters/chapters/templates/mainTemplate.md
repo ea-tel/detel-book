@@ -7,8 +7,7 @@ permalink: /chapter/templates/main-template/
 ---
 {% include autoRelativePath.html %}
 
-# The Main Template
-This chapter will serve as a comprehensive template for future chapters and contains several sections on important Markdown features that you can use, i.e., tables, images, bullet points and references to the bibliography and table of content.
+**Abstract:** This chapter will serve as a comprehensive template for future chapters and contains several sections on important Markdown features that you can use, i.e., tables, images, bullet points and references to the bibliography and table of content.
 
 
 ## The Table of Contents {#tableOfContents}

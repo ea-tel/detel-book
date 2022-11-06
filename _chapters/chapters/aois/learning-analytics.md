@@ -7,7 +7,7 @@ permalink: /chapter/aois/learning-analytics/
 ---
 
 
-**Purpose/Abstract:** This chapter provides an overview of learning analytics as a research field, for doctoral students who may not have a technical background. After describing learning analytics and its typical purposes, you will learn about example learning analytics tools and the settings you could use them in. Aside from this beginner-friendly introduction, the chapter provides additional resources later exploration.
+**Abstract:** This chapter provides an overview of learning analytics as a research field, for doctoral students who may not have a technical background. After describing learning analytics and its typical purposes, you will learn about example learning analytics tools and the settings you could use them in. Aside from this beginner-friendly introduction, the chapter provides additional resources later exploration.
 
 ## Expected outcomes
 

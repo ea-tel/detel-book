@@ -1,7 +1,7 @@
 ---
-layout: page 
+layout: reading_chapter 
 title: Systematic Literature Review
-authors:
+authors: <br>Md Saifuddin Khalid, Technical University of Denmark <br>Analia Cicchinelli, Graz University of Technology, Austria <br>Antigoni Parmaxi, Cyprus University of Technology <br>Yagmur Cisem Yilmaz, Tallin University, Estonia <br>Maria Vitoria Soule, Cyprus University of Technology
 hide: true 
 permalink: /chapter/methodologies/systematic-literature-review/
 ---
