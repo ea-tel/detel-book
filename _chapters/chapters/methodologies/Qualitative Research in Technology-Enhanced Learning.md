@@ -1,11 +1,15 @@
 ---
 layout: reading_chapter
 title: Qualitative Research in Technology-Enhanced Learning
+authors: <br>Anna Nicolaou, Cyprus University of Technology<br> Antigoni Parmaxi, Cyprus University of Technology<br> Laia Albo, Universitat Pompeu Fabra<br> Maria Victoria Soule, Cyprus University of Technology
+
 hide: true
-permalink: /chapter/introduction/qualitative/
+permalink: /chapter/methodologies/qualitative-research-in-tel/
 ---
 
 # **Qualitative Research in Technology-Enhanced Learning**
+
+
 
 ## **Introduction** 
 
@@ -23,7 +27,7 @@ According to Creswell (2007) Qualitative studies have a baffling number of choic
 **Table 1. Qualitative Approaches Mentioned by Authors 
 (Adapted from Creswell, 2007, pp. 7-8)**
 
-| **Authors**              |**Qualitative pproaches**     |**Disciplin/Field**|   
+| **Authors**              |**Qualitative approaches**     |**Disciplin/Field**|   
 |--------------------------|------------------------------|-------------------|
 | Lancy (1993)             |Anthropological Perspective   |                   |
 |                          |Sociological Perspectives     |                   |
@@ -277,6 +281,12 @@ Computer-assisted qualitative data analysis software offers tools that assist wi
 
 **VIDEO: What Qualitative Data Analysis software can and can’t do for you – an intro video** 
 <https://www.youtube.com/watch?v=tLKfaCiHVic> 
+
+**VIDEO: Qualitative Research in Technology-Enhanced Learning (part 2)**
+
+In this video, we describe how Computer Assisted Qualitative Data Analysis CAQDAS can support Qualitative Data Analysis. We demonstrate basic features of NVivo, focusing on how it can be used for entering and coding data mainly yielded from interviews, pdf, surveys, websites, among others.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5sR80NW9Hq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **What does computer software offer qualitative researchers?**
 

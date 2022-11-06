@@ -1,8 +1,9 @@
 ---
 layout: page 
 title: Systematic Literature Review
+authors:
 hide: true 
-permalink: /chapter/methodologies/systematic-literature-review
+permalink: /chapter/methodologies/systematic-literature-review/
 ---
 
 ## Introduction
