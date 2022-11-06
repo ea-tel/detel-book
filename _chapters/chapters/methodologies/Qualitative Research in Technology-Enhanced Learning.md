@@ -306,9 +306,8 @@ CAQDAS software do not do any real analysis for us; rather, they have been desig
 
 Lewins and Silver(2008) recognised that while this is the most frequently asked question, it is impossible to be answered. They highlight that all software have tools in common but also their own distinctive features. Currently CAQDAS software development is at an expansion stage, with a number of packages competing for the highly lucrative dominant position. Table 2 displays the most frequently mentioned software in the literature.
 
-### **NVivo**
-
-![NVivo logo](NVivo-logo.png)
+<br>
+![NVivo logo](/detel-book/assets/images/NVivo-logo.png)
 
 [NVivo](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home) was originally developed as NUD*IST by Tom Richards and Lyn Richards as a scroll mode Mac package at La Trobe University, Melbourne. Subsequently QSR International was formed which now develops and supports all QSR software products.
 
@@ -320,10 +319,8 @@ Lewins and Silver(2008) recognised that while this is the most frequently asked 
 - Review coding with coding stripes and highlights	 
 - Matrix coding, coding word frequency, text search and coding comparison queries
 
-
-### **ATLAS.ti**
-
-![ATLAS.ti logo](ATLASti-logo.png)
+<br>
+![ATLAS.ti logo](/detel-book/assets/images/ATLASti-logo.png)
 
 [ATLAS.ti](https://atlasti.com/) was developed at the Technical University of Berlin as an interdisciplinary collaborative project between the psychology department, computer scientists and future users (1989-92).
 
@@ -337,9 +334,8 @@ Lewins and Silver(2008) recognised that while this is the most frequently asked 
 - Memo comments	 
 - Multiple documents
 
-### **HyperRESEARCH**
-
-![HyperRESEARCH logo](HyperRESEARCH-logo.png)
+<br>
+![HyperRESEARCH logo](/detel-book/assets/images/HyperRESEARCH-logo.png)
 
 [HyperRESEARCH](http://www.researchware.com/) was first developed in 1990 by Sharlene Hesse, Scott Kinder and Paul Dupuis in Boston, Massachusetts. From 1991 HyperRESEARCH has been developed by ResearchWare who continue to develop and support the software.
 
@@ -349,9 +345,8 @@ Lewins and Silver(2008) recognised that while this is the most frequently asked 
 - Easy to use	 
 - Runs on multiple technological platforms
 
-### **MAXqda**
-
-![MAXqda logo](MAXqda-logo.png)
+<br>
+![MAXqda logo](/detel-book/assets/images/MAXqda-logo.png)
 
 [MAXqda](https://www.maxqda.com/) is the latest in a software stream originally developed by Udo Kuckartz in order to manage political discourse data on the environment.
 
