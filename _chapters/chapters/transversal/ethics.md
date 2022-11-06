@@ -1,7 +1,7 @@
 ---
 layout: reading_chapter
 title: Ethical Issues in TEL
-author: Anu Tammeleht, Yagmur Cisem Yilmaz and Luis P. Prieto
+authors:<br>Anu Tammeleht, University of Tartu <br>Yagmur Cisem Yilmaz, Tallinn University <br>Luis P. Prieto, Tallinn University
 hide: true
 permalink: /chapter/transversal/ethics/
 ---
