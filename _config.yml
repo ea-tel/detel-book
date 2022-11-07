@@ -56,6 +56,9 @@ slack_url:
 dribbble_url:
 feed_url: https://ea-tel.eu/detel-book/feed.xml
 
+# Social Tags
+og_image: assets/images/Cover.png
+
 # Google Analytics Tracking ID goes here:
 google_analytics:
 
