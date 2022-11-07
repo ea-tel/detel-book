@@ -307,7 +307,7 @@ CAQDAS software do not do any real analysis for us; rather, they have been desig
 Lewins and Silver(2008) recognised that while this is the most frequently asked question, it is impossible to be answered. They highlight that all software have tools in common but also their own distinctive features. Currently CAQDAS software development is at an expansion stage, with a number of packages competing for the highly lucrative dominant position. Table 2 displays the most frequently mentioned software in the literature.
 
 <br>
-![NVivo logo](/detel-book/assets/images/NVivo-logo.png)
+![NVivo logo](/detel-book/assets/images/NVivo-Logo.png)
 
 [NVivo](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home) was originally developed as NUD*IST by Tom Richards and Lyn Richards as a scroll mode Mac package at La Trobe University, Melbourne. Subsequently QSR International was formed which now develops and supports all QSR software products.
 
