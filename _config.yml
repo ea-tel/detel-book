@@ -33,8 +33,7 @@
 title: The DE-TEL Book
 subtitle: Doctoral Education for Technology Enhanced Learning
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the demo site for a Jekyll theme version of
-  HTML5 UP's sleek, responsive site template Prologue.
+  The Open book on Doctoral Education in Technology Enhanced Learning (DETEL book) is an open educational resource for doctoral candidates working in the field of Technology-Enhanced Learning or TEL (also known as Educational Technology, Digitl Education, Learning Engineering) and related fields.
 author: Ralf Klamma
 email: klamma@dbis.rwth-aachen.de
 avatar: assets/images/avatar.png
@@ -56,6 +55,9 @@ pinterest_url:
 slack_url:
 dribbble_url:
 feed_url: https://ea-tel.eu/detel-book/feed.xml
+
+# Social Tags
+og_image: assets/images/Cover.png
 
 # Google Analytics Tracking ID goes here:
 google_analytics:
