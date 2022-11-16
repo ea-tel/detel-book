@@ -58,6 +58,14 @@ feed_url: https://ea-tel.eu/detel-book/feed.xml
 
 # Social Tags
 og_image: assets/images/Cover.png
+image: assets/images/Cover.png
+
+twitter:
+  username: eateleu
+  site: https://twitter.com/eateleu
+
+facebook:
+ publisher: https://www.facebook.com/eatel.eu
 
 # Google Analytics Tracking ID goes here:
 google_analytics:
