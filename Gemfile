@@ -8,4 +8,5 @@ gem "kramdown-parser-gfm"
 #gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jekyll-scholar'
 gem 'jekyll-redirect-from'
+gem 'jekyll-seo-tag'
 gemspec

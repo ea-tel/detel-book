@@ -59,6 +59,7 @@ feed_url: https://ea-tel.eu/detel-book/feed.xml
 # Social Tags
 og_image: assets/images/Cover.png
 image: assets/images/Cover.png
+logo: assets/images/Cover.png
 
 twitter:
   username: eateleu
@@ -90,3 +91,4 @@ scholar:
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-seo-tag
