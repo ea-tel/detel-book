@@ -36,7 +36,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Open book on Doctoral Education in Technology Enhanced Learning (DETEL book) is an open educational resource for doctoral candidates working in the field of Technology-Enhanced Learning or TEL (also known as Educational Technology, Digitl Education, Learning Engineering) and related fields.
 author: Ralf Klamma
 email: klamma@dbis.rwth-aachen.de
-avatar: /assets/images/avatar.png
+avatar: /assets/images/Cover.png
+sidebar_logo: /assets/images/avatar.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/detel-book" # the subpath of your site, e.g. /blog
