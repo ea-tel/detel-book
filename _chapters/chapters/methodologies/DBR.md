@@ -1,16 +1,10 @@
 ---
-layout: page
+layout: reading_chapter
 title: An introduction to Design-based Research in TEL
-
+authors: <br>Lorena Sousa, University of Aveiro, Portugal <br>Luís Pedro, University of Aveiro, Portugal <br>Carlos Santos, University of Aveiro, Portugal
 hide: true
 permalink: /chapter/methodologies/design-based-research/
 ---
-
-
-# An introduction to Design-based Research in TEL
-Authors: Lorena Sousa (lorena@ua.pt), Luís Pedro, and Carlos Santos
-
-University of Aveiro, Portugal
 
 ## 1. Introduction
 

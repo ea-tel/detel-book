@@ -7,6 +7,14 @@ Jekyll integration by Chris Bobbe | chrisbobbe.github.io
 -->
 <html>
 	{%- include head.html -%}
+	{% include social-metatags.html %}
+	<head>
+		<!-- {% raw %} -->
+			```liquid
+			{% seo %}
+			```
+	  	<!-- {% endraw %} -->
+	</head>
 	<body>
 		{{- content -}}
 		{%- include footer.html -%}
