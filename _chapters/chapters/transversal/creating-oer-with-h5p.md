@@ -17,7 +17,7 @@ The main goals of this chapter are to introduce some key concepts of OER, presen
 
 ## OER Definitions
  
-#### [OECD (Organization for Economic Co-operation and Development) {% cite OECD %}
+#### OECD (Organization for Economic Co-operation and Development) {% cite OECD %}
 “The definition of OER currently most often used is “digitised materials offered freely and openly for educators, students and self-learners to use and reuse for teaching, learning and research”. OER includes learning content, software tools to develop, use and distribute content, and implementation resources such as open licences.”
 		
 #### [UNESCO](https://webarchive.unesco.org/20160807000909/http://www.unesco.org/new/en/communication-and-information/events/calendar-of-events/events-websites/world-open-educational-resources-congress)
@@ -105,7 +105,7 @@ At the bottom of the page, there is a button (Figure 5) that permits the users t
 In short, OER are materials in any medium, legally and technically available to educators and learners in a format that facilitates its reuse and adaptation. The open licenses are legal statements that give users permission to interact with the resource through the 5R activities. In a complementary way, the ALMS framework discusses the aspects that materials should have in order to be technically open. One example of a tool that facilitates this technical openness is the H5P tool. With this tool, users can retain, reuse and adapt the content according to their context. 
 
  
-[^1] Alternatively: https://h5p.com/
+[^1]: Alternatively: https://h5p.com/
 
 
 

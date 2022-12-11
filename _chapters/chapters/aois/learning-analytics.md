@@ -39,13 +39,13 @@ The key overarching question that learning analytics research explores thus is: 
 
 According to the [Society for Learning Analytics Research (SoLAR)](https://www.solaresearch.org/about/what-is-learning-analytics/), "learning analytics is **the measurement, collection, analysis and  reporting of data about learners and their contexts, for purposes of  understanding and optimising learning and the environments in which it occurs**".
 
-One may wonder how this definition is different from the whole field of educational research. The key difference is that LA solutions tend to make use of **preexisting, machine-readable data**, and apply **computational techniques** (e.g., machine learning) to handle the resulting ‘big data’, something that would not be practicable manually{% cite ferguson %}.
+One may wonder how this definition is different from the whole field of educational research. The key difference is that LA solutions tend to make use of **preexisting, machine-readable data**, and apply **computational techniques** (e.g., machine learning) to handle the resulting ‘big data’, something that would not be practicable manually {% cite ferguson %}.
 
 ## Benefits and Challenges of LA
 
 ### Understanding the design space of LA solutions
 
-According to the definitions above, we could design many kinds of learning analytics solutions. Greller & Drachsler proposed a conceptual framework that can help us both **describe** existing LA systems (in terms other LA researchers can easily understand) and even **generate** ideas for new ones{% cite greller %}.
+According to the definitions above, we could design many kinds of learning analytics solutions. Greller & Drachsler proposed a conceptual framework that can help us both **describe** existing LA systems (in terms other LA researchers can easily understand) and even **generate** ideas for new ones {% cite greller %}.
 
 According to this framework, we can describe an LA innovation along six “critical dimensions”:
 
@@ -58,9 +58,9 @@ According to this framework, we can describe an LA innovation along six “criti
 
 ## Learning Analytics Processes
 
-Aside from the "static view" of a system that the six dimensions above provide, it is also important to understand the (dynamic) **processes** that the functioning or development of an LA solution entail. You can see a couple of examples below{% cite siemens %},{% cite shankar %}:
+Aside from the "static view" of a system that the six dimensions above provide, it is also important to understand the (dynamic) **processes** that the functioning or development of an LA solution entail. You can see a couple of examples below:
 
-<img width="744" alt="Two learning analytics processes, by Siemens (2013, left) and Shankar et al. (2020, right)" src="https://user-images.githubusercontent.com/105489417/169746662-d3d3b1bc-f844-449b-b21f-bca76e156c6f.png">
+<img width="744" alt="Two learning analytics processes, by Siemens {% cite siemens %} (2013, left) and Shankar et al. {% cite shankar %}(2020, right)" src="https://user-images.githubusercontent.com/105489417/169746662-d3d3b1bc-f844-449b-b21f-bca76e156c6f.png">
 
 ## Benefits of Learning Analytics
 
@@ -72,7 +72,7 @@ In the educational sciences, gathering data (e.g., interviews, questionnaires, e
 
 In contrast, if people use digital tools for learning, machines can automatically gather **detailed, ongoing data about the learning process**, e.g., from platform logs (actions, clicks, taps), intermediate artifacts (think, GoogleDocs and its revision  history). Such data can give a greater insight into the learning process and how the final outcomes are reached. Moreover, machines can even analyze the (large volumen of) data for us, using big data techniques, machine learning, and datamining, therefore providing **faster insights**.
 
-Even in cases where learners do not use technology for learning, we can apply learning analytics to the physical world through sensors (e.g., cameras, microphones, eye-trackers, movement trackers, etc.), which can then be analyzed using what has been termed "multimodal learning analytics", an emergent sub-field of LA {% cite blikstein %}{% cite dimitri %}.
+Even in cases where learners do not use technology for learning, we can apply learning analytics to the physical world through sensors (e.g., cameras, microphones, eye-trackers, movement trackers, etc.), which can then be analyzed using what has been termed "multimodal learning analytics", an emergent sub-field of LA {% cite blikstein %} {% cite dimitri %}.
 
 ### A novel method for educational researchers
 
@@ -92,7 +92,7 @@ For instance, a classic, yet unsolved technical problem in LA is that of **inter
 
 **Interpreting** the data output by learning analytics solutions is also a challenge. Learning processes are known to be highly contextual, and individual differences matter a lot. Even in "purely online" experiences, learning still happens in the physical world. When looking at the outputs of an LA system, we need to consider: Can some **extraneous aspect** be causing this data? (short answer: probably yes!). For example, a temporary lack of activity from a learner in the system can indicate that they are thinking hard about the answer... but it could also be because the student was interrupted by someone else in the room. Hence, beware of over-simplistic interpretations and extrapolations from a single source of (digital) data, with no knowledge of the physical context.
 
-In LA research there is a strong emphasis on **theory/pedagogical grounding of analyses**. The results of LA should still make sense when seen from the point of view of some learning/pedagogical theory. As a consequence, particular analysis approaches have been devised to understand learning under certain pedagogies like collaborative learning{% cite chejara2020 %}, inquiry learning, or knowledge building.
+In LA research there is a strong emphasis on **theory/pedagogical grounding of analyses**. The results of LA should still make sense when seen from the point of view of some learning/pedagogical theory. As a consequence, particular analysis approaches have been devised to understand learning under certain pedagogies like collaborative learning {% cite chejara2020 %}, inquiry learning, or knowledge building.
 
 
 ## Ethical challenges
@@ -111,7 +111,7 @@ With all the knowledge we have accummulated throughout the previous sections, le
 
 Small-group collaboration is a very common learning arrangement, both in face-to-face courses and online. Good collaboration, however, has multiple components which are quite difficult to track even for experienced teachers: sharing knowledge, mutual understanding, argumentation, etc.
 
-CoTrack is a web-based tool that looks like a mix between Google Docs (it features a shared text editor) and Zoom (it has videoconferencing features). It aims to support teachers to manage classrooms of small groups working together by shifting from just "mirroring the data" to "guiding" the teacher to intervene effectively{% cite chejara2020 %},{% cite chejara2021 %},{% cite kasepalu %}. To do so, it uses audio, video and log data to try to estimate whether the group is having a "good collaboration".
+CoTrack is a web-based tool that looks like a mix between Google Docs (it features a shared text editor) and Zoom (it has videoconferencing features). It aims to support teachers to manage classrooms of small groups working together by shifting from just "mirroring the data" to "guiding" the teacher to intervene effectively {% cite chejara2020 %} {% cite chejara2021 %} {% cite kasepalu %}. To do so, it uses audio, video and log data to try to estimate whether the group is having a "good collaboration".
 
 The CoTrack prototype is available at [https://www.cotrack.website/en-gb/](https://www.cotrack.website/en-gb/).
 
