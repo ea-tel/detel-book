@@ -16,11 +16,11 @@ The objective of this chapter is to…:
 This chapter is organized in three main parts. In the first part, some definitions and other DBR terminologies that might be used as synonyms are presented. Also, there will be an introduction to the structure of the research question in order to help you elaborate yours. In the second part, some models for conducting DBR are introduced, as well as their phases - which are analysis, development and evaluation -, and characteristics. In the third part, a repertoire of activities that may be developed in each phase is suggested. During the chapter, you will have access to other references and be informed about further reading recommendations.  
 
 ## 2. DBR Definitions
-Two possible purposes of DBR can be identified, and depending on the purpose of the research they may be distinguished between development studies and validation studies (Plomp, 2013).
+Two possible purposes of DBR can be identified, and depending on the purpose of the research they may be distinguished between development studies and validation studies {% cite Plomp2013 %}
 * **Development studies**: to develop a research-based intervention as a solution for complex problems in educational practice. 
 * **Validation studies**: to develop or validate theories about processes of learning and teaching.
 
-However, regardless of the purpose, Plomp (2013, p.11) affirms that DBR “encompasses the systematic study of designing, developing and evaluating educational interventions”. These interventions can be programs, learning processes, learning environments, teaching-learning materials, products or systems.
+However, regardless of the purpose, {% cite Plomp2013 %} affirms that DBR “encompasses the systematic study of designing, developing and evaluating educational interventions”. These interventions can be programs, learning processes, learning environments, teaching-learning materials, products or systems.
 
 The Design-Based Research Collective (2003, p.5) states that “educational research is often divorced from the problems and issues of everyday practice – a split that resulted in a credibility gap and creates a need for new research approaches that speak directly to problems of practice and that lead to the development of ‘usable knowledge’.”
 
@@ -33,7 +33,7 @@ Reeves (2006, p. 57) argues that “there is an urgent need for a better approac
 ### 2.1 Terminology
 There are a lot of terms related to DBR. Some of them are synonyms, others may vary according to their goals and characteristics. Examples are _Design Research in Education_ or _Educational Design Research_. _Education_ and _Educational_ were incorporated in the term to denote the area in question and avoid confusion with DBR from other fields. 
 
-In addition to these examples, other members of this family are (Plomp, 2013; Reeves, 2006):
+In addition to these examples, other members of this family are {% cite Plomp2013 %} (Reeves, 2006):
 * design experiments
 * design studies
 * development or developmental research 
