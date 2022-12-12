@@ -6,17 +6,17 @@ hide: true
 permalink: /chapter/transversal/wellbeing/
 ---
 
-**Abstract**: This chapter lays out one of the key transversal challenges that doctoral students in TEL face, according to a recent survey: experiencing low wellbeing in the form of anxiety, stress or depression (sometimes leading to dropping out of the doctoral studies). From the myriad of factors that research has found relate to these closely intertwined problems, we focus on those you have *some degree of control* about. Three key motivational factors distinguish doctoral students that finish their theses from those that do not: a sustained sense of *progress*, manageable levels of *mental distress*, and being able to *appropriate*  your thesis project. The chapter proposes "deep dives" into each of these motivational factors, and proposes different tips and exercises to foster them. Finally, we close the chapter with a guide to strategize your progress towards your next dissertation milestone, which you can use again and again until you complete finalize your PhD.
+**Abstract**: This chapter lays out one of the key transversal challenges that doctoral students in TEL face, according to a recent survey: experiencing low wellbeing in the form of anxiety, stress or depression (sometimes leading to dropping out of the doctoral studies). From the myriad of factors that research has found relate to these closely intertwined problems, we focus on those you have *some degree of control* about. Three key motivational factors distinguish doctoral students that finish their theses from those that do not: a sustained sense of *progress*, manageable levels of *mental distress*, and being able to *appropriate*  your thesis project. The chapter proposes "deep dives" into each of these motivational factors, and proposes different tips and exercises to foster them. Finally, we close the chapter with a guide to strategize your progress towards your next dissertation milestone, which you can use again and again until you finalize your PhD.
 
 ## The Problem(s)
 
-A doctoral degree is one of the most challenging (and long!) educational experiences that a human can undergo. It involves working on a single research question, for which human knowledge has no answer yet, during three or more years. In recent years, there has been an increasing awareness that such protracted and complex learning experience can lead, for many doctoral candidates, to *mental health* challenges and/or the *abandoning* of the doctorate.
+A doctoral degree is one of the most challenging (and long!) educational experiences that a human can undergo. It involves working on a single research question, for which human knowledge has no answer yet, during three or more years. In recent years, there has been an increasing awareness that such a protracted and complex learning experience can lead, for many doctoral candidates, to *mental health* challenges and/or the *abandoning* of the doctorate.
 
 Yet, the doctoral journey is not a unified experience nor a linear path, and each candidate goes through somewhat familiar yet distinctive processes during the PhD. Here are some stories just to point out the diversity:
 
-> *Anna, a fifth year PhD student currently only has one article published (of the 3-4 she needs to finish the PhD). With a turmoil between her desire to complete to PhD, and the urge to keep her work-study-life balance, each rejected paper frustrates her even more. Her productivity seems to thrive: she works as much as a senior researcher, and has finished writing 8 papers already. However, luck and mental wellbeing does not necessarily blossom under the influence of such productivity. On the contrary, the gap between the acknowledged workload and her apparent inability to achieve doctoral success through publication of her papers disappoints and frustrates her to such a degree that she has been considering to quit her PhD entirely, at least once every week for this year.*
+> *Anna, a fifth year PhD student, currently only has one article published (of the 3-4 she needs to finish the PhD). With a turmoil between her desire to complete her PhD, and the urge to keep her work-study-life balance, each rejected paper frustrates her even more. Her productivity seems to thrive: she works as much as a senior researcher, and has finished writing 8 papers already. However, luck and mental wellbeing does not necessarily blossom under the influence of such productivity. On the contrary, the gap between the acknowledged workload and her apparent inability to achieve doctoral success through publication of her papers disappoints and frustrates her to such a degree that she has been considering to quit her PhD entirely, at least once every week for this year.*
 
-> *Beth, a PhD graduate who currently undertakes her post-doc overseas, works as a senior researcher at the same time. She started to work as a student assistant after completing her master’s degree, which then turned into a doctoral degree defense as she already published multiple consecutive and interconnected articles as part of her job at the university. She published few more, and wrote a monograph in two weeks to defend and obtain her PhD. Now, “how does that story look simplistic and direct?” you may ask. She had been through the hardships and the confusion of the PhD while working as the assistant at the lab where she felt that she needed to work more than the others.*
+> *Beth, a PhD graduate who currently undertakes her post-doc overseas, works as a senior researcher at the same time. She started to work as a student assistant after completing her master’s degree, which then turned into a doctoral degree defense, as she already published multiple consecutive and interconnected articles as part of her job at the university. She published a few more, and wrote a monograph in two weeks to defend and obtain her PhD. Now, “how does that story look simplistic and direct?” you may ask. She had been through the hardships and the confusion of the PhD while working as the assistant at the lab where she felt that she needed to work more than the others.*
 
 These stories all have different elements and influence factors to them, but one thing is clear: they all involve lots of hard work, time, effort, and growth. Not being able to organize your approach and putting a straight face when encountered with problems, challenges or rejections are subtle parts of this path. 
 
@@ -26,7 +26,7 @@ These stories all have different elements and influence factors to them, but one
 
 ### Dropout in the doctorate
 
->  **Reading** (12 min): To understand how bad is the problem of high dropout rates in doctoral education, and some factors known to be related to doctoral dropouts, read the blog post ["Who drops out of the Ph.D.?"](https://ahappyphd.org/posts/drop-out-phd/).
+>  **Reading** (12 min): To understand how bad the problem of high dropout rates in doctoral education is, and some factors known to be related to the doctoral dropouts, read the blog post ["Who drops out of the Ph.D.?"](https://ahappyphd.org/posts/drop-out-phd/).
 
 
 ### What about a *TEL* doctorate specifically?
@@ -37,7 +37,7 @@ As it turns out, a recent (still unpublished) survey study of more than 200 doct
 
 <img width="744" alt="How easy are different kinds of challenges in a TEL doctorate, from a survey of 200+ dooctoral students and researchers in TEL. The Likert scale goes from 1 (very difficult to face) to 5 (very easy)." src="https://github.com/ea-tel/detel-book/raw/master/_chapters/chapters/transversal/detel-survey.png">
 
-This TEL-specific data, along with the wealth of research cited in the readings above, suggest that mental health and (research) productivity are closely intertwined in a TEL doctorate, and are often hard to manage for many doctoral students. If you feel like you suffer from these problems *now*, or you would like to be prepared for the moment when these challenges come (spoiler alert: they *will* probably come at some point the doctorate), read on!
+This TEL-specific data, along with the wealth of research cited in the readings above, suggest that mental health and (research) productivity are closely intertwined in a TEL doctorate, and are often hard to manage for many doctoral students. If you feel like you suffer from these problems *now*, or you would like to be prepared for the moment when these challenges come (spoiler alert: they *will* probably come at some point during the doctorate), read on!
 
 
 
@@ -83,7 +83,7 @@ When talking with (TEL and otherwise) doctoral students about their productivity
 
 - “My productivity is derailed by other people/interruptions/unexpected things happening”
 
-If you have every thought along these lines during your PhD work, know that **you are not alone**: Many TEL doctoral students have experienced more than one of these throughout their PhD, and many more will. Now that we have dispelled some of the "impostor syndrome" that these thoughts often bring (no, it is not that you are particularly unfit to do a PhD!), let's look at some solutions.
+If you have ever thought along these lines during your PhD work, know that **you are not alone**: Many TEL doctoral students have experienced more than one of these throughout their PhD, and many more will. Now that we have dispelled some of the "impostor syndrome" that these thoughts often bring (no, it is not that you are particularly unfit to do a PhD!), let's look at some solutions.
 
 #### General practices to foster a sense of progress
 
@@ -112,7 +112,7 @@ If you implement these rules consistently, you will already be ahead of many of 
 
 
 
-#### A catalogue of productivity techniques to address your challenges
+#### A catalog of productivity techniques to address your challenges
 
 Now that you know the exact productivity problem(s) you're facing, it is time to get more granular on what kind of productivity advice would fit your particular situation. While there is a wealth of doctoral-specific productivity advice [elsewhere](https://ahappyphd.org/tags/productivity), here are 10 productivity "patterns" that we have found work for most of the doctoral students we have talked with:
 
@@ -187,7 +187,7 @@ Aside from these general directions, there are more concrete everyday **tactics*
 3. If we find that we often face **self-interruption and distraction**, we can try exercises like ["sitting with uncertainty"](https://ahappyphd.org/posts/writing-uncertainty/) (e.g., during paper writing sessions).
 4. If we are prone to rumination cycles in which unhelpful trains of thought course through our minds again and again, we can...
    1. ... **distance ourselves from our thoughts** by **changing the linguistic conventions of our self-talk** (e.g., changing unhelpful thoughts to “I’m having the feeling/thought that…”). 
-   2. ... put them physically **in our backpockets**: recognize the thought, write it down on a piece of paper, and do not reject it, but rather fold it, put it in your back pocket, and continue doing what you were doing.
+   2. ... put them physically **in our back pockets**: recognize the thought, write it down on a piece of paper, and do not reject it, but rather fold it, put it in your back pocket, and continue doing what you were doing.
 
 #### Exercise: Going towards the important stuff (e.g., your TEL dissertation!)
 
@@ -241,7 +241,7 @@ The following exercise will help you develop this mastery of the contents of you
 
 The resulting one-page summary of your thesis is quite useful for communication with your supervisor(s) as well (as they may be following multiple research threads and may not remember exactly what yours is about, and whether there has been a recent conceptual leap in how *you* understand the research). Additionally, you can use such a diagram in the introduction of your actual dissertation manuscript, to clarify its main elements for the reader. Indeed, some of us still use this kind of tool internally *after the PhD*, when starting a new research project or research line!
 
-It is important to repeat it: this kind of exercise is *iterative*. It is OK if you find some parts difficult, or you do not know what to put in some parts of it. That is already useful information about what things are not clear, which you could discuss with your supervisor(s) or other colleagues. And it is also OK (and quite common, actually), to do multiple different versions of the diagram over time as the dissertation process evolves and you understand better your research field and the exact nature of what you can achieve within the scope of your dissertation (one of the authors of the chapter did about 20 different versions of it!)
+It is important to repeat it: this kind of exercise is *iterative*. It is OK if you find some parts difficult, or you do not know what to put in some parts of it. That is already useful information about what things are not clear, which you could discuss with your supervisor(s) or other colleagues. And it is also OK (and quite common, actually) to do multiple different versions of the diagram over time as the dissertation process evolves and you understand better your research field and the exact nature of what you can achieve within the scope of your dissertation (one of the authors of the chapter did about 20 different versions of it!)
 
 #### Appropriating the *Process* of the PhD
 
@@ -259,7 +259,7 @@ In our doctoral workshops, students and supervisors that had a good grip on thei
 > * **Obstacles** (red post-its): factors, unexpected events, dangers that may make it difficult to advance and hit the different milestones
 > * **Fuel** (green post-its): More frequent, everyday events or habits (e.g., daily, weekly) that help us avoid obstacles and hit the milestones
 >
-> You can draw some of these elements from the exercises in the other deep dives (e.g., main challenges or unhelpful behaviors can be internal obstacles; useful productivity/progress practices can be fuel; etc.)
+> You can draw some of these elements from the exercises in the other deep dives (e.g., main challenges or unhelpful behaviors can be internal obstacles; useful productivity/progress practices can be fuelling; etc.)
 >
 > *NB: This exercise can be done individually or in a group, especially with other people that will have a similar journey (e.g., doing similar kinds of research or using the same methodology). However, you will want to ultimately personalize your own version of the map, to account for particularities of your topic, circumstances or personality.*
 
@@ -313,4 +313,4 @@ As a capstone of this wellbeing and productivity mini-course, we would like you 
 
 
 
-> *Carl, a second year PhD candidate, has experienced confusion in deciding what direction to follow with his research, and multiple outburst of inspiration have been gone with the wind after having an apparent epiphany. Questions of imposter syndrome and being a terrible researcher come at the slightest inconvenience, and the uncertainty of his work's publishability puts into question the long time, commitment and effort that invested in them. He found himself questioning whether a PhD is worth it, and whether to proceed with the research. Yet, at the end of the day, he realizes that the degree in itself is not necessarily the end goal but that the journey is exciting.* 
+> *Carl, a second year PhD candidate, has experienced confusion in deciding what direction to follow with his research, and multiple outburst of inspiration have been gone with the wind after having an apparent epiphany. Questions of imposter syndrome and being a terrible researcher come at the slightest inconvenience, and the uncertainty of his work's publishability puts into question the long time, commitment and effort that invested in them. He found himself questioning whether a PhD is worth it, and whether to proceed with the research. Yet, at the end of the day, he realizes that the degree in itself is not necessarily the end goal, but that the journey is exciting.* 
