@@ -48,18 +48,18 @@ According to [Wiley](http://opencontent.org/definition), content is open not onl
 
 While traditional “all rights reserved” copyright is automatic and restricts access, open licences allow the authors to concede specific permissions on how they want their property to be used. Although there are other open licences such as the Open Publication Licence and GNU Free Documentation Licence, the most frequently used licences are the Creative Commons (CC) {% cite Aaron %}, {% cite Wiley %}.
 
-CC licences offer a “some rights reserved” approach that grants the public permission to use the resources in a more flexible way, under a spectrum of concessions that answer the question of how these resources can be utilized {% cite Bissell %}. These licences consist of four components, Attribution (BY), Share Alike (SA), Non-commercial (NC), and No Derivatives Works (ND), and are defined as follows (Figure 1):
+CC licences offer a “some rights reserved” approach that grants the public permission to use the resources in a more flexible way, under a spectrum of concessions that answer the question of how these resources can be utilized {% cite Bissell %}. These licences consist of four components, Attribution (BY), Share Alike (SA), Non-commercial (NC), and No Derivatives Works (ND), and are defined as follows (Figure 1) as taken from [the CC website](https://creativecommons.org/licences/?lang=en):
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168425826-64025832-94a7-4ea8-a9a3-ec829c3d7d7f.JPG" alt="Internal Image"">
-    <figcaption>Figure 1 - Creative Commons components as documented on [the CC website](https://creativecommons.org/licences/?lang=en).</figcaption>
+    <figcaption>Figure 1 - Creative Commons components.</figcaption>
 </figure>
 
-When combined, these components can generate six different licence types, which are listed below from most to least permissive in Figure 2:
+When combined, these components can generate six different licence types, which are listed below from most to least permissive in Figure 2 taken from [the CC website](https://creativecommons.org/about/cclicences/):
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168425870-76d3b602-a305-493f-9dfa-5498988c1147.JPG" alt="Internal Image"">
-    <figcaption>Figure 2 - Creative Commons licence types as documented on [the CC website](https://creativecommons.org/about/cclicences/).</figcaption>
+    <figcaption>Figure 2 - Creative Commons licence types.</figcaption>
 </figure>
 
 The less restrictive is the licence, the better it can benefit both the creators and the users {% cite Bissell %}. There is also the “no copyright reserved” option in the CC components, known as CC0, that “allows creators to give up their copyright and put their works into the worldwide public domain” as taken from [the CC website](https://creativecommons.org/licences/?lang=en). However, the most popular licences for OER encompass BY, BY-SA, and BY-NC-SA {% cite Wiley %}. As the NoDerivatives component does not permit individuals to make changes or adaptations to the resources, and revising and remixing are activities that belong to OER definition, the licences containing the NoDerivatives element are not included in the discussion of OER {% cite Wiley %}.
@@ -88,6 +88,7 @@ Figure 3 shows an example of the content type called drag the words, where it is
     <figcaption>Figure 3 - Example of the content type called drag the words (source: Sousa et al.).</figcaption>
 </figure>
 
+
 Figure 3 illustrates a part of the page about the Characteristics of design-based research. On the left-hand side of the image, it is possible to visualize the contents of this interactive book. The numbers in the top right-hand corner of the image indicate the actual page and the total pages of the book, respectively. 
 
 At the end of the interactive book, there is a report displaying the learner’s progress throughout the book (Figure 4). There is the total score, which is the number of points scored by the learner from his/her correct answers to the interactive questions; the book progress, which is the percentage of the visualized pages and the performed interactions with the content (it is not possible to get 100% of book progress only visualizing the pages); and the interactions progress, which is the percentage of the content that the learner interacted with. Still on this last page, there is also a summary below this report that shows the details of the interactions from each page.
@@ -97,6 +98,7 @@ At the end of the interactive book, there is a report displaying the learner’s
     <figcaption>Figure 4 - Summary of an interactive book (source: Sousa et al.).</figcaption>
 </figure>
 
+
 According to the [H5P website](https://h5p.org/integrations), there are three types of H5P integrations. The first one is to create and store the content on H5P.com, and access it through a direct link or embed the content in any platform that supports embedded content (iframes). The second possibility is via LTI integration with existing publishing systems, like Canvas, Brightspace, Blackboard, and Moodle. And the third one is via H5P plugins made for WordPress, Moodle, and Drupal, for example.
 
 At the bottom of the page, there is a button (Figure 5) that permits the users to reuse the material. It is possible to download the content, upload it to the users’ own account, and make whatever alterations or adaptations they need. In other words, with the H5P tool, the users can engage in the 5R activities that were proposed by [David Wiley](http://opencontent.org/definition/). 
@@ -105,6 +107,7 @@ At the bottom of the page, there is a button (Figure 5) that permits the users t
     <img src="https://user-images.githubusercontent.com/100372892/168426072-0f675316-1178-4638-84a6-60c81101c318.JPG" alt="Internal Image">
     <figcaption>Figure 5 - H5P Reuse button.</figcaption>
 </figure>
+
 
 ## Conclusions
 In short, OER are materials in any medium, legally and technically, available to educators and learners in a format that facilitates its reuse and adaptation. The open licences are legal statements that give users permission to interact with the resource through the 5R activities. In a complementary way, the ALMS framework discusses the aspects that materials should have in order to be technically open. One example of a tool that facilitates this technical openness is the H5P tool. With this tool, users can retain, reuse and adapt the content according to their context. 
