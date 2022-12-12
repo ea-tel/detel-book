@@ -51,14 +51,14 @@ While traditional “all rights reserved” copyright is automatic and restricts
 CC licences offer a “some rights reserved” approach that grants the public permission to use the resources in a more flexible way, under a spectrum of concessions that answer the question of how these resources can be utilized {% cite Bissell %}. These licences consist of four components, Attribution (BY), Share Alike (SA), Non-commercial (NC), and No Derivatives Works (ND), and are defined as follows (Figure 1) as taken from [the CC website](https://creativecommons.org/licences/?lang=en):
 
 <figure>
-    <img src="https://user-images.githubusercontent.com/100372892/168425826-64025832-94a7-4ea8-a9a3-ec829c3d7d7f.JPG" alt="Internal Image"">
+    <img src="https://user-images.githubusercontent.com/100372892/168425826-64025832-94a7-4ea8-a9a3-ec829c3d7d7f.JPG" alt="Creative Commons components">
     <figcaption>Figure 1 - Creative Commons components.</figcaption>
 </figure>
 
 When combined, these components can generate six different licence types, which are listed below from most to least permissive in Figure 2 taken from [the CC website](https://creativecommons.org/about/cclicences/):
 
 <figure>
-    <img src="https://user-images.githubusercontent.com/100372892/168425870-76d3b602-a305-493f-9dfa-5498988c1147.JPG" alt="Internal Image"">
+    <img src="https://user-images.githubusercontent.com/100372892/168425870-76d3b602-a305-493f-9dfa-5498988c1147.JPG" alt="Creative Commons licence types">
     <figcaption>Figure 2 - Creative Commons licence types.</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Sousa et al. {% cite Sousa %} developed an OER [prototype about Design-based Res
 Figure 3 shows an example of the content type called drag the words, where it is possible to create text-based drag and drop tasks. In this activity, learners are asked to drag the characteristics of design-based research and drop them into the correct explanation. Then, they can check their answers to see how many responses they got right and, based on the right answers, a score is generated. They can also choose between retrying the task or visualizing its solution. Figure 3, for instance, presents the solution with the correct responses.
 
 <figure>
-    <img src="https://user-images.githubusercontent.com/100372892/168425976-1adaedf7-cede-4e71-8436-632bac0814f3.JPG" alt="Internal Image">
+    <img src="https://user-images.githubusercontent.com/100372892/168425976-1adaedf7-cede-4e71-8436-632bac0814f3.JPG" alt="Example of the content type called drag the words">
     <figcaption>Figure 3 - Example of the content type called drag the words (source: Sousa et al.).</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Figure 3 illustrates a part of the page about the Characteristics of design-base
 At the end of the interactive book, there is a report displaying the learner’s progress throughout the book (Figure 4). There is the total score, which is the number of points scored by the learner from his/her correct answers to the interactive questions; the book progress, which is the percentage of the visualized pages and the performed interactions with the content (it is not possible to get 100% of book progress only visualizing the pages); and the interactions progress, which is the percentage of the content that the learner interacted with. Still on this last page, there is also a summary below this report that shows the details of the interactions from each page.
 
 <figure>
-    <img src="https://user-images.githubusercontent.com/100372892/168426050-a2b1c9c7-945b-4652-882b-3e457a22ceaf.JPG" alt="Internal Image">
+    <img src="https://user-images.githubusercontent.com/100372892/168426050-a2b1c9c7-945b-4652-882b-3e457a22ceaf.JPG" alt="Summary of an interactive book">
     <figcaption>Figure 4 - Summary of an interactive book (source: Sousa et al.).</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ According to the [H5P website](https://h5p.org/integrations), there are three ty
 At the bottom of the page, there is a button (Figure 5) that permits the users to reuse the material. It is possible to download the content, upload it to the users’ own account, and make whatever alterations or adaptations they need. In other words, with the H5P tool, the users can engage in the 5R activities that were proposed by [David Wiley](http://opencontent.org/definition/). 
 
 <figure>
-    <img src="https://user-images.githubusercontent.com/100372892/168426072-0f675316-1178-4638-84a6-60c81101c318.JPG" alt="Internal Image">
+    <img src="https://user-images.githubusercontent.com/100372892/168426072-0f675316-1178-4638-84a6-60c81101c318.JPG" alt="H5P Reuse button">
     <figcaption>Figure 5 - H5P Reuse button.</figcaption>
 </figure>
 
