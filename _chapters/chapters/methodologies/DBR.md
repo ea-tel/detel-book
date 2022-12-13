@@ -44,7 +44,7 @@ In addition to these examples, other members of this family are (Plomp, 2013; Re
 
 #### Reading recommendations:
 If you want to have a general and introductory idea about DBR, check the links below:
-* _What is design-based research?_, by University of Georgia (2006) [link](http://dbr.coe.uga.edu/explain01.htm)
+* _What is design-based research?_, by University of Georgia (2006) [link](http://dbr.coe.uga.edu/explain01.html)
 * _7 things you should know about Educational Design Research_, by EDUCAUSE (2012) [link](https://library.educause.edu/resources/2012/8/7-things-you-should-know-about-educational-design-research)
 * _Design-based research_, by Dr. Michele Jacobsen (2014) [link](https://www.edcan.ca/articles/design-based-research/)
 
@@ -89,7 +89,7 @@ Here we have some examples of research question structures that might help you w
 Examples of research questions using the structure above are:
 
 * _What are the characteristics of an intervention for promoting academic research writing which will best support graduates in education in the proposal stage of their research?_ (Dowse & Howie, 2013)
-* _What are the characteristics of micro-scale chemistry curriculum materials so that they contribute to the implementation of effective practical work in chemistry teaching in Tanzania schools?_ (Mafumiko, Voogt, & van den Akker, 2013)
+* _What are the characteristics of microscale chemistry curriculum materials so that they contribute to the implementation of effective practical work in chemistry teaching in Tanzania schools?_ (Mafumiko, Voogt, & van den Akker, 2013)
 * _What are the characteristics of a digital resource for teaching and learning mathematics in secondary schools?_ 
 * _What are the characteristics of an online course aimed at enhancing second language acquisition in higher education?_ 
 
@@ -98,9 +98,10 @@ Examples of research questions using the structure above are:
 ## 6. Cycles and phases
 Whatever the purpose of DBR - development studies (to develop research-based solutions for complex problems in educational practice) or validation studies (to develop or validate theories about processes of learning and teaching) -, the research process always incorporates systematic educational design processes, as illustrated below:
 
-![DBR_cycle1_plomp](https://user-images.githubusercontent.com/100372892/168300519-02c8b414-e406-4b3b-a36f-d7d58674c83c.JPG)
-
-_Interactions of systematic design cycles (Plomp, 2013)_
+<figure>
+    <img src="https://user-images.githubusercontent.com/100372892/168300519-02c8b414-e406-4b3b-a36f-d7d58674c83c.JPG" alt="DBR_cycle1_plomp">
+    <figcaption>Interactions of systematic design cycles (Plomp, 2013)</figcaption>
+</figure>
 
 Like all systematic educational and instructional design processes - it is cyclical or iterative. It incorporates cycles of analysis, design, evaluation and revision activities until a balance between the intended ideas and realization has been achieved. This process can be illustrated in several ways, depending on how authors have visualized it. 
 
@@ -109,18 +110,20 @@ Let’s see another example.
 ### Reeves’ model
 Reeves (2006) presented a model that highlights four main phases of DBR:
 
-![DBR_cycle2_reeves](https://user-images.githubusercontent.com/100372892/168300774-4f1ac346-65d5-4169-bf69-7f2039d893c2.jpg)
-
-_Refinement of problems, solutions, methods, and design principles (Reeves, 2006)_
+<figure>
+    <img src="https://user-images.githubusercontent.com/100372892/168300774-4f1ac346-65d5-4169-bf69-7f2039d893c2.jpg" alt="DBR_cycle2_reeves">
+    <figcaption>Refinement of problems, solutions, methods, and design principles (Reeves, 2006)</figcaption>
+</figure>
 
 The arrows represent the iterative characteristic of the process.
 
 ### McKenney’s model
 This model below was the research design used by Susan McKenney in her thesis.
 
-![DBR_cycle3_mckenney](https://user-images.githubusercontent.com/100372892/168300861-f95ae655-e244-4396-9390-079c6ef0893a.JPG)
-
-_Display of the cascade-sea study (McKenney, 2001)_
+<figure>
+    <img src="https://user-images.githubusercontent.com/100372892/168300861-f95ae655-e244-4396-9390-079c6ef0893a.JPG" alt="DBR_cycle3_mckenney">
+    <figcaption>Display of the cascade-sea study (McKenney, 2001)</figcaption>
+</figure>
 
 It has three main phases: needs & context analysis; design, development & formative evaluation; and semi-summative evaluation.
 
@@ -137,9 +140,10 @@ According to the scale, each cycle lasted about six months.
 ### McKenney and Reeves’ model
 Based on their survey and analysis of existing models and frameworks for DBR, McKenney and Reeves created the _generic model for conducting design research in education_:
 
-![DBR_cycle4_mckenneyreeves](https://user-images.githubusercontent.com/100372892/168300939-a48e62ed-dd34-4ef4-943c-fbf4c7b29a80.JPG)
-
-_Generic model for conducting design research in education (McKenney & Reeves, 2012)_
+<figure>
+    <img src="https://user-images.githubusercontent.com/100372892/168300939-a48e62ed-dd34-4ef4-943c-fbf4c7b29a80.JPG" alt="DBR_cycle4_mckenneyreeves">
+    <figcaption>Generic model for conducting design research in education (McKenney & Reeves, 2012)</figcaption>
+</figure>
 
 This model shows the core elements of a flexible process that features the three main stages: analysis/exploration, design/construction, and evaluation/reflection. 
 
@@ -153,7 +157,7 @@ Authors may vary in the details of how they portray DBR, but they all agree that
 * **Preliminary research** consists of needs and context analysis, review of the literature and of projects addressing questions similar to the ones in your study, and development of a conceptual framework.
 * The **development or prototyping phase** consists of an iterative process where prototypes are going to be tried out and revised on the basis of formative evaluations. It aims at improving and refining the intervention. 
 * In the **assessment phase**, a semi-summative evaluation is carried out to conclude whether the solution meets the predetermined specifications and whether it is effective. It often results in recommendations for improving the intervention, that is why this evaluation is called semi-summative.
-*Throughout all these activities, the researcher conducts a **systematic reflection and documentation** to produce the theories as the scientific result of the research, besides the intervention that is more practical.
+* Throughout all these activities, the researcher conducts a **systematic reflection and documentation** to produce the theories as the scientific result of the research, besides the intervention that is more practical.
 
 #### Reading recommendations:
 For a deeper discussion of the DBR cycles and phases, check the references.
@@ -166,7 +170,7 @@ Another recommendation is the book _Educational Design Research_, chapter 4:
 
 
 ## 7. Main activities in each phase
-There are no one-size-fits-all steps for tackling different challenges in the context of DBR. There are, however, processes and activities which are often useful. We are going to briefly present you a repertoire so that you can select and use the most fitting approaches for your study.
+There are no one-size-fits-all steps for tackling different challenges in the context of DBR. There are, however, processes and activities which are often useful. We are going to briefly present to you a repertoire so that you can select and use the most fitting approaches for your study.
 
 Analysis/exploration | Design/construction | Evaluation/reflection
 ---|---|---
@@ -174,7 +178,7 @@ preliminary field-based investigation; context analysis and needs assessment; li
 
 
 #### Reading recommendation: 
-To deepen your knowledge on the main activities and outputs of each phase, please check _Part II Core processes_ from the book _Conducting Educational Design Research_, by McKenney and Reeves (2012). This part of the book is divided in four chapters:
+To deepen your knowledge on the main activities and outputs of each phase, please check _Part II Core processes_ from the book _Conducting Educational Design Research_, by McKenney and Reeves (2012). This part of the book is divided into four chapters:
 * **Chapter 4**: Analysis and exploration
 * **Chapter 5**: Design and construction
 * **Chapter 6**: Evaluation and reflection
@@ -186,16 +190,17 @@ DBR authors also agree on a number of characteristics represented in this type o
 * **iterative**: the research process incorporates cycles of analysis, design, development, evaluation, and revision, as demonstrated in the models presented before.
 * **interventionist**: the research aims at designing an intervention in a real world setting in order to positively impact practice. These interventions include educational products, processes, programs or policies, for example. Its intention is to make a real change on the ground.
 * **collaborative**: the research involves active participation and collaboration among researchers and practitioners in the various stages and activities of the research. The intervention needs to be relevant and practical for the educational context, and this collaboration increases the probability for a successful implementation. 
-* **process oriented**: the focus is on understanding and improving interventions. The products of DBR are shaped by the participants, literature, and especially field testing. The interventions are adjusted based on the empirical data, which are collected in real world settings during the process.
+* **process oriented**: the focus is on understanding and improving interventions. The products of DBR are shaped by the participants, literature, and especially field-testing. The interventions are adjusted based on the empirical data, which are collected in real world settings during the process.
 * **utility oriented**: the quality of a design is measured by its practical use in real contexts to check if the intervention is really useful.
-theory oriented: scientific understanding is used to frame not only the research, but also to shape the design of the intervention / the solution to the real problem. The results also contribute to theoretical understanding and theory building.
+* **theory oriented**: scientific understanding is used to frame not only the research, but also to shape the design of the intervention / the solution to the real problem. The results also contribute to theoretical understanding and theory building.
 
 ### Generic Design Research Model
 In his _Generic Design Research Model_, Wademan (2005) pictures the features and characteristics of DBR. His model illustrates that the successive approximation of practical products or results (referred to as ‘interventions’) is working side by side with the successive approximation of theory (referred to as ‘design principles’).
 
-![DBR_cycle6_model](https://user-images.githubusercontent.com/100372892/168301054-283da1b7-6c40-4c7b-96d4-f840b0995d2c.JPG)
-
-_Generic design research model (Wademan, 2005)_
+<figure>
+    <img src="https://user-images.githubusercontent.com/100372892/168301054-283da1b7-6c40-4c7b-96d4-f840b0995d2c.JPG" alt="DBR_cycle6_model">
+    <figcaption>Generic design research model (Wademan, 2005)</figcaption>
+</figure>
 
 #### Reading recommendations:
 For a deeper discussion of the DBR characteristics, check the references.
@@ -207,7 +212,7 @@ We also recommend the book _Conducting Educational Design Research_, by Susan Mc
 ## 9. Further readings
 
 ### 9.1 Introductory resources
-- What is Design-based Research? (University of Georgia) [link](http://dbr.coe.uga.edu/explain01.htm)  
+- What is Design-based Research? (University of Georgia) [link](http://dbr.coe.uga.edu/explain01.html)  
 - Design-based research (EduTech Wiki) [link](http://edutechwiki.unige.ch/en/Design-based_research)
 - Design-Based Research Webliography (University of Georgia) [link](http://dbr.coe.uga.edu/FAQ.html)  
 - Design-Based Research (University of Calgary, by Michele Jacobsen) [link](https://www.edcan.ca/articles/design-based-research/) 
@@ -223,14 +228,14 @@ We also recommend the book _Conducting Educational Design Research_, by Susan Mc
 ### 9.3 Scholarly reading
 - Design-Based Research: Putting a Stake in the Ground [link](https://sashabarab.org/wp-content/uploads/2015/03/dbr-jls.pdf), from Sasha Barab of Indiana University and Kurt Squire of the University of Wisconsin
 - Design-Based Research and Technology-Enhanced Learning Environments [link](https://www.researchgate.net/publication/225626676_Design-based_research_and_technology-enhanced_learning_environments_Educational_Technology_Research_and_Development_534_5-23), from Feng Wang and Michael Hannafin of the University of Georgia
-- Design-Based Research Methods for Studying Learning in Context: Introduction [link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.488.5019&rep=rep1&type=pdf), from William Sandoval of the University of California and Philip Bell of the University of Washington
+- Design-Based Research Methods for Studying Learning in Context: Introduction [link](https://www.researchgate.net/publication/261669878_Design-Based_Research_Methods_for_Studying_Learning_in_Context_Introduction), from William Sandoval of the University of California and Philip Bell of the University of Washington
 - On the theoretical breadth of design-based research in education [link](http://faculty.washington.edu/pbell/EPDBR_Bell.pdf), from Philip Bell of the University of Washington
 - Using a Design-Based Research Study to Identify Principles for Training Instructors to Teach Online [link](https://www.irrodl.org/index.php/irrodl/article/view/1626/2710), from Julie Shattuck of Frederick Community College and Terry Anderson of Athabasca University
 - Publishing and perishing: The critical importance of educational design research [link](https://ajet.org.au/index.php/AJET/article/view/982/255), from Thomas Reeves of the University of Georgia, Susan McKenney of the University of Twente, and Jan Herrington of Murdoch University
 - Design-Based Research and Educational Technology: Rethinking Technology and the Research Agenda [link](https://www.researchgate.net/publication/220374789_Design-Based_Research_and_Educational_Technology_Rethinking_Technology_and_the_Research_Agenda), from Tel Amiel of the State University of Campinas and Thomas Reeves of the University of Georgia
-- The Practice of Design-Based Research: Uncovering the Interplay Between Design, Research, and the Real-World Context [link](http://treeves.coe.uga.edu/EDIT9990/Joseph2004.pdf), from Diana Joseph of the University of Chicago
+- The Practice of Design-Based Research: Uncovering the Interplay Between Design, Research, and the Real-World Context [link](https://www.researchgate.net/publication/220041502_The_Practice_of_Design-Based_Research_Uncovering_the_Interplay_Between_Design_Research_and_the_Real-World_Context), from Diana Joseph of the University of Chicago
 - Research Approaches for Innovation and Change [link](https://link.springer.com/book/10.1007/978-90-481-8933-5), from Methodological Choice and Design (Part II)
-- Design research: A socially responsible approach to instructional technology research in higher education [link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.110.652&rep=rep1&type=pdf), from Thomas Reeves of the University of Georgia, Jan Herrington of the University of Willongong, and Ron Oliver of Edith Cowan University
+- Design research: A socially responsible approach to instructional technology research in higher education [link](https://www.researchgate.net/publication/49278226_Design_research_A_socially_responsible_approach_to_instructional_technology_research_in_higher_education), from Thomas Reeves of the University of Georgia, Jan Herrington of the University of Willongong, and Ron Oliver of Edith Cowan University
 
 ### 9.4 Practical examples
 - Design-based Research Strategies for Studying Situated Learning in a Multi-user Virtual Environment [link](https://www.researchgate.net/publication/228952614_Design-based_research_strategies_for_studying_situated_learning_in_a_multi-user_virtual_environment), from Chris Dede, Brian Nelson, Diane Ketelhut, Jody Clarke, and Cassie Bowman of Harvard University
