@@ -60,7 +60,7 @@ According to this framework, we can describe an LA innovation along six “criti
 
 Aside from the "static view" of a system that the six dimensions above provide, it is also important to understand the (dynamic) **processes** that the functioning or development of an LA solution entail. You can see a couple of examples below[^siemens],[^shankar]:
 
-<img width="744" alt="Two learning analytics processes, by Siemens (2013, left) and Shankar et al. (2020, right)" src="https://user-images.githubusercontent.com/105489417/169746662-d3d3b1bc-f844-449b-b21f-bca76e156c6f.png">
+<img width="1250" alt="Two learning analytics processes, by Siemens (2013, left) and Shankar et al. (2020, right)" src="https://user-images.githubusercontent.com/105489417/169746662-d3d3b1bc-f844-449b-b21f-bca76e156c6f.png">
 
 ## Benefits of Learning Analytics
 
@@ -100,7 +100,7 @@ In LA research there is a strong emphasis on **theory/pedagogical grounding of a
 As in other fields where analytics and big data are applied, LA can have ethical implications. These implications include: the need for respecting privacy, users' agency, avoiding  risks, and biases. In the LA field, researchers are also trying to police themselves and the use, practice and implementation of LA. As a result of such monitoring, for instance, the **DELICATE** framework emerged[^drachsler]. You can use this framework (pictured below) as a checklist to analyze different ethical aspects that to take into consideration when implementing LA in an educational setting:
 
 
-<img width="262" alt="The DELICATE ethical framework for learning analytics" src="https://user-images.githubusercontent.com/105489417/169748539-338d7873-3ac5-4061-8fe1-736154cb6cf4.png">
+<img width="500" alt="The DELICATE ethical framework for learning analytics" src="https://user-images.githubusercontent.com/105489417/169748539-338d7873-3ac5-4061-8fe1-736154cb6cf4.png">
 
 
 ## Learning analytics tools and toolkits
