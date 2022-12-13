@@ -8,7 +8,7 @@ permalink: /chapter/methodologies/design-based-research/
 
 ## 1. Introduction
 
-The objective of this chapter is to…: 
+The objective of this chapter is to: 
 * … introduce Design-Based Research (DBR) as a research method, including some definitions, other terminologies, and the structure of the research question;
 * … present different models for conducting DBR, their phases (analysis, development and evaluation) and characteristics;
 * … suggest a repertoire of activities that may be developed in each phase. 
@@ -78,8 +78,7 @@ Textbooks on research methodology usually do not present and discuss design rese
 
 * _Design research_: to design and develop an intervention (such as programs, teaching-learning strategies and materials, products and systems) as a solution to a complex educational problem as well as to advance our knowledge about the characteristics of these interventions and the processes to design and develop them, or alternatively to design and develop educational interventions (about for example, learning processes, learning environments and the like) with the purpose to develop or validate theories.
  
-#### Reflective activity
-Think of a general problem faced by practitioners in the Education and Technology-enhanced Learning field. Try to formulate a research question to this problem. Write your research question and contextualize the problem briefly. What is its research function? What is its research design? 
+> **Reflective activity**: Think of a general problem faced by practitioners in the Education and Technology-enhanced Learning field. Try to formulate a research question to this problem. Write your research question and contextualize the problem briefly. What is its research function? What is its research design? 
 
 
 ## 5. The overall research question in DBR
@@ -94,8 +93,7 @@ Examples of research questions using the structure above are:
 * _What are the characteristics of a digital resource for teaching and learning mathematics in secondary schools?_ 
 * _What are the characteristics of an online course aimed at enhancing second language acquisition in higher education?_ 
 
-#### Reflective activity
-Now, if you are thinking of conducting a Design-Based Research, try to formulate your research question using the structure presented above. 
+> **Reflective activity**: Now, if you are thinking of conducting a Design-Based Research, try to formulate your research question using the structure presented above. 
 
 ## 6. Cycles and phases
 Whatever the purpose of DBR - development studies (to develop research-based solutions for complex problems in educational practice) or validation studies (to develop or validate theories about processes of learning and teaching) -, the research process always incorporates systematic educational design processes, as illustrated below:
