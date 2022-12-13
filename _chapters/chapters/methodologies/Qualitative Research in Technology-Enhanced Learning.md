@@ -1,7 +1,7 @@
 ---
 layout: reading_chapter
 title: Qualitative Research in Technology-Enhanced Learning
-authors: <br>Maria Victoria Soule, Cyprus University of Technology<br>Anna Nicolaou, Cyprus University of Technology<br>Antigoni Parmaxi, Cyprus University of Technology<br>Laia Albo, Universitat Pompeu Fabra
+authors: Maria Victoria Soule, Cyprus University of Technology<br>Anna Nicolaou, Cyprus University of Technology<br>Antigoni Parmaxi, Cyprus University of Technology<br>Laia Albo, Universitat Pompeu Fabra
 hide: true
 permalink: /chapter/methodologies/qualitative-research-in-tel/
 ---
