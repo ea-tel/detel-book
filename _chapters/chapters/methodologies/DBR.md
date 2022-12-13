@@ -89,8 +89,8 @@ Here we have some examples of research question structures that might help you w
 
 Examples of research questions using the structure above are:
 
-* _What are the characteristics of an intervention for promoting academic research writing which will best support graduates in education in the proposal stage of their research?_ (Dowse & Howie, 2013)
-* _What are the characteristics of micro-scale chemistry curriculum materials so that they contribute to the implementation of effective practical work in chemistry teaching in Tanzania schools?_ (Mafumiko, Voogt, & van den Akker, 2013)
+* _What are the characteristics of an intervention for promoting academic research writing which will best support graduates in education in the proposal stage of their research?_ {% cite Dowse %}
+* _What are the characteristics of micro-scale chemistry curriculum materials so that they contribute to the implementation of effective practical work in chemistry teaching in Tanzania schools?_ {% cite Mafumiko %}
 * _What are the characteristics of a digital resource for teaching and learning mathematics in secondary schools?_ 
 * _What are the characteristics of an online course aimed at enhancing second language acquisition in higher education?_ 
 
@@ -181,7 +181,7 @@ To deepen your knowledge on the main activities and outputs of each phase, pleas
  
 
 ## 8. DBR characteristics
-DBR authors also agree on a number of characteristics represented in this type of research {% Akker1999 %}, {% Akker2006 %}, {% cite Kelly %}, {% cite Nieveen1999}, {% cite Plomp %}:
+DBR authors also agree on a number of characteristics represented in this type of research {% cite Akker1999 %}, {% cite Akker2006 %}, {% cite Kelly %}, {% cite Nieveen1999}, {% cite Plomp %}:
 * **iterative**: the research process incorporates cycles of analysis, design, development, evaluation, and revision, as demonstrated in the models presented before.
 * **interventionist**: the research aims at designing an intervention in a real world setting in order to positively impact practice. These interventions include educational products, processes, programs or policies, for example. Its intention is to make a real change on the ground.
 * **collaborative**: the research involves active participation and collaboration among researchers and practitioners in the various stages and activities of the research. The intervention needs to be relevant and practical for the educational context, and this collaboration increases the probability for a successful implementation. 
