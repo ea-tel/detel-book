@@ -78,7 +78,7 @@ Flick {% cite Flick %} proposes the following basic ethical principles when cond
 
 ## **Data collection methods**
 
-Qualitative data can come from different sources. This is usually transformed into textual form resulting in hundreds of pages of transcripts and field notes. Marshall and Rossman (2006) suggest four primary methods for gathering information: (1) participating in the setting, (2) observing directly, (3) interviewing in depth, and (4) analysing documents and material culture.
+Qualitative data can come from different sources. This is usually transformed into textual form resulting in hundreds of pages of transcripts and field notes. Marshall and Rossman {% cite Marshall %} suggest four primary methods for gathering information: (1) participating in the setting, (2) observing directly, (3) interviewing in depth, and (4) analysing documents and material culture.
 
 ### Participating in the setting
 Participant observation was developed primarily from cultural anthropology and qualitative sociology. It is an overall approach to inquiry and a data-gathering method which demands first hand involvement in the social world chosen for study. Immersion in the setting permits the researcher to hear, to see, and to begin to experience reality as the participants do. Personal reflections are integral to the emerging analysis of a cultural group. 
@@ -115,7 +115,7 @@ Coding is a way of analysing that can be applied to all sorts of data and is not
 
 ### **Initial coding**
 
-How shall we begin coding? The codes you develop may be influenced by a number of factors (Lewins & Silver, 2008, p. 83):
+How shall we begin coding? The codes you develop may be influenced by a number of factors {% cite Silver %}:
 - Research aims
 - Methodology and analytic approach
 - Amount, kinds and sources of data
@@ -127,11 +127,11 @@ There are different approaches to coding:
 
 **Table 1. Approaches to coding**
 
-|**Corbin & Strauss {% cite Corbin %}	    **|**Richards (2005)**|**Layder (1998)**|**Mason (2002)**|**Miles & Huberman (1994)**|**Seidel (1998)**|
-|-----------------------------------------------|-------------------|-----------------|----------------|---------------------------|-----------------|
-| Open                      				| Descriptive       | Provisional     | Literal        | Descriptive               | Objectivistic   |
-| Axial                     				| Topic             | Core            | Interpretive   | Interpreting              | Heuristic       |
-| Selective                 				| Analytical        | Satelite code   | Reflexive      | Pattern coding            |                 |
+|**Corbin & Strauss {% cite Corbin %}**		|**Richards {% cite Richards2005 %} **	|**Layder {% cite Layder %}**	|**Mason {% cite Mason %}**	|**Miles & Huberman {% cite Miles %}**	|**Seidel {% cite Seidel %}**		|
+|-----------------------------------------------|-----------------------------------------|-----------------------------|-----------------------------|-----------------------------------------|-----------------------------------|
+| Open                      				| Descriptive       				| Provisional     		| Literal        			| Descriptive               			| Objectivistic   		    	|
+| Axial                     				| Topic             				| Core            		| Interpretive   			| Interpreting              			| Heuristic       			|
+| Selective                 				| Analytical        				| Satelite code   		| Reflexive      			| Pattern coding            			|                 			|
                   
 Codes can be generated inductively or deductively. The inductive approach begins with a set of empirical observations, seeking patterns in those observations, and then theorizing about those patterns, that is, from salient aspects identified in the data. The deductive approach begins with a theory, developing hypotheses from that theory, and then collecting and analyzing data to test those hypotheses, that is, according to predefined areas of interest.
 
@@ -145,11 +145,11 @@ Dörney {% cite Dörnyei %} describes the use of a template of codes as a variat
 
 ### **Memoing** 
 
-Throughout the analytic process researchers are encouraged to write reflective memos and notes. Marshall and Rossman (2006) suggest writing early and throughout the research process but especially during more focused analysis. 
+Throughout the analytic process researchers are encouraged to write reflective memos and notes. Marshall and Rossman {% cite Marshall %} suggest writing early and throughout the research process but especially during more focused analysis. 
  
 ### **Themes**
 
-Themes are also an important concept in QDA. Corbin and Strauss ({% cite Corbin %} define them as thread or ideas that emerge from a text (i.e. an interview). While analysing one of their memos they explain:
+Themes are also an important concept in QDA. Corbin and Strauss {% cite Corbin %} define them as thread or ideas that emerge from a text (i.e. an interview). While analysing one of their memos they explain:
 “These [themes] have already been identified as concepts, but at this time they will be elevated to the status of category/theme not only because they seem to run  throughout the entire interview but also because they seem to be able to pull together some of the lesser concepts” {% cite Corbin %}
 
 # Approaches to qualitative data analysis
@@ -192,7 +192,7 @@ categories and theories that have been devised and which are emerging, in order 
 
 # **Content analysis** 
 
-Content analysis is often defined as a process in which “many words of texts are classified into much fewer categories” (Weber, 1990, 15). Cohen, Manion and Morrison {% cite Cohen %} define content analysis as “a strict and systematic set of procedures for the rigorous analysis, examination and verification of the contents of written data”. 
+Content analysis is often defined as a process in which “many words of texts are classified into much fewer categories” {% cite Weber %}. Cohen, Manion and Morrison {% cite Cohen %} define content analysis as “a strict and systematic set of procedures for the rigorous analysis, examination and verification of the contents of written data”. 
 
 ## **How does content analysis work?** 
 
@@ -208,7 +208,7 @@ tabular form. According to Cohen, Manion and Morrison {% cite Cohen %}, the whol
 
 **Step 4**: Define the context of the generation of the document- In this step one will examine, for example: how the material was generated; who was involved; who was present; whether the data are accurately reported; the authenticity and credibility of the documents etc.
 
-**Step 5**: Define the units of analysis- This can be at very many levels, for example, a word, phrase, sentence, paragraph, whole text, people and themes. Krippendorp (2004) suggests five kinds of sampling units: physical (e.g. time, place, size); syntactical (words, grammar, sentences, series etc.); categorical (members of a category have something in common); propositional (delineating particular constructions or propositions); and thematic (putting texts into themes and combinations of categories).  
+**Step 5**: Define the units of analysis- This can be at very many levels, for example, a word, phrase, sentence, paragraph, whole text, people and themes. Krippendorff {% cite Krippendorff %} suggests five kinds of sampling units: physical (e.g. time, place, size); syntactical (words, grammar, sentences, series etc.); categorical (members of a category have something in common); propositional (delineating particular constructions or propositions); and thematic (putting texts into themes and combinations of categories).  
 
 **Step 6**: Decide the codes to be used in the analysis- Codes can be at different levels of specificity and generality when defining content and concepts. To be faithful to the data, the codes themselves derive from the data responsively rather than being created pre-ordinately. A code is a word or abbreviation sufficiently close to that which it is describing for the researcher to see at a glance what it means.
 
@@ -224,7 +224,7 @@ tabular form. According to Cohen, Manion and Morrison {% cite Cohen %}, the whol
 
 One can see that the codes here are abbreviations, enabling the researcher to immediately understand the issue that they denote because they resemble that issue.
 
-**Step 9**: Conduct the data analysis-Once the data have been coded and categorized, the researcher can count the frequency of each code or word in the text, and the number of words in each category. This is the process of retrieval, which may be in multiple modes, for example words, codes, nodes and categories. To ensure reliability, Weber (1990: 21–4) suggests that it is advisable at first to work on small samples of text rather than the whole text, to test out the coding and categorization, and make amendments where necessary. 
+**Step 9**: Conduct the data analysis-Once the data have been coded and categorized, the researcher can count the frequency of each code or word in the text, and the number of words in each category. This is the process of retrieval, which may be in multiple modes, for example words, codes, nodes and categories. To ensure reliability, Weber {% cite Weber %} suggests that it is advisable at first to work on small samples of text rather than the whole text, to test out the coding and categorization, and make amendments where necessary. 
 
 **Step 10**: Summarizing-By this stage the investigator will be in a position to write a summary of the main features of the situation that have been researched so far. 
 
@@ -232,8 +232,8 @@ One can see that the codes here are abbreviations, enabling the researcher to im
 
 
 # **Reliability and Validity in Qualitative Research**
-Patton (2001) states that validity and reliability are two factors which any qualitative researcher should be concerned about while designing a study, analysing results and judging the quality of the study. This corresponds to the question that “How can an inquirer persuade his or her audiences that the research findings of an inquiry are worth paying attention to?" (Lincoln & Guba, 1985, p. 290). 
-Reliability and validity are conceptualized as trustworthiness, rigor and quality in the qualitative paradigm (Golafshani, 2003). Basic notions are summarised below.
+Patton {% cite Patton %} states that validity and reliability are two factors which any qualitative researcher should be concerned about while designing a study, analysing results and judging the quality of the study. This corresponds to the question that “How can an inquirer persuade his or her audiences that the research findings of an inquiry are worth paying attention to?" {% cite Lincoln %}. 
+Reliability and validity are conceptualized as trustworthiness, rigor and quality in the qualitative paradigm {% cite Golafshani %}. Basic notions are summarised below.
 
 **Basic notions** {% cite Cohen %}
 
@@ -243,7 +243,7 @@ In qualitative data validity might be addressed through the honesty, depth, rich
 - In qualitative data the subjectivity of respondents, their opinions, attitudes, and perspective together contribute to a degree of bias. Validity then should be seen as a matter of degree rather than absolute state.
 - Types of validity: generalizability, replicability and controllability, predictability, the derivation of laws and universal statements of behaviour, context freedom, fragmentation and atomization of research, randomization of samples, observability
 
-Maxwell (1992) suggests that ‘understanding’ is a more suitable term than ‘validity’ in qualitative research-it is the meaning that subjects give to the data and inferences drawn from the data that are important. Five kinds of validity for exploring the notion of ‘understanding’:
+Maxwell {% cite Maxwell %} suggests that ‘understanding’ is a more suitable term than ‘validity’ in qualitative research-it is the meaning that subjects give to the data and inferences drawn from the data that are important. Five kinds of validity for exploring the notion of ‘understanding’:
 - descriptive validity (accuracy of the account, that is not made up, selective or distorted)
 - interpretive validity (ability of research to catch the essence of situations and events)
 - theoretical validity (the extent to which the research explains phenomena)
@@ -304,7 +304,7 @@ CAQDAS software do not do any real analysis for us; rather, they have been desig
 
 ## **Which is the ‘best’ CAQDAS package?**
 
-Lewins and Silver(2008) recognised that while this is the most frequently asked question, it is impossible to be answered. They highlight that all software have tools in common but also their own distinctive features. Currently CAQDAS software development is at an expansion stage, with a number of packages competing for the highly lucrative dominant position. Table 2 displays the most frequently mentioned software in the literature.
+Lewins and Silver {% cite Silver %} recognised that while this is the most frequently asked question, it is impossible to be answered. They highlight that all software have tools in common but also their own distinctive features. Currently CAQDAS software development is at an expansion stage, with a number of packages competing for the highly lucrative dominant position. Table 2 displays the most frequently mentioned software in the literature.
 
 <br>
 ![NVivo logo](/detel-book/assets/images/NVivo-Logo.png)
@@ -372,39 +372,12 @@ Lewins and Silver(2008) recognised that while this is the most frequently asked 
 [Here](https://docs.google.com/document/d/e/2PACX-1vSUagF0LkCuxuak9g910SuxaZtQrGnhDv_85-BdktIrm6YuJEfDWwvfNQAc1oBVBS6_g4DXyuNDzBey/pub) you will find a step-by-step guide on how to work with NVivo.
 
 
-Kwalon, 1. <https://www.tijdschriftkwalon.nl/inhoud/tijdschrift_artikel/KW-21-1-5/Qualitative-data-analysis-software-The-state-of-the-art>.
 
-Golafshani, N. (2003). Understanding reliability and validity in qualitative research. The qualitative report, 8(4), 597-607.
 
-Kalpokaite, N. & Radivojevic, I. (2020). Teaching qualitative data analysis software online: a comparison of face-to-face and e-learning ATLAS.ti courses. International Journal of Research & Method in Education, 43(3), 296-310. <https://doi.org/10.1080/1743727X.2019.1687666> 
 
-Krippendorff, K. (2018). Content analysis: An introduction to its methodology. Thousand Oaks: Sage publications.
 
-Layder, D. (1998). Sociological Practice: Linking Theory and Sociological Research. London: SAGE. 
 
-Lewins, A. & Silver, Ch. (2008). Using Software in Qualitative Research. London: SAGE.
 
-Lincoln, Y. S., & Guba, E. G. (1985). Naturalistic inquiry. Beverly Hills, CA: Sage. 
-
-Marshall, C. & Rossman, G. (2006). Designing Qualitative Research. London: SAGE.
-
-Mason, J. (2002). Qualitative Researching. London: SAGE.
-
-Maxwell, J. (1992). Understanding and validity in qualitative research. Harvard educational review, 62(3), 279-301.
-
-Miles, M. & Huberman, A. (1994). Qualitative Data Analysis: An Expanded Sourcebook. London: SAGE.
-
-Parameswaran, U., Ozawa-Kirk, J., Latendresse, G. (2020). To live (code) or to not: A new method for coding in qualitative research. Qualitative Social Work, 19(4). <https://doi.org/10.1177/1473325019840394> 
-
-Patton, M. Q. (2002). Qualitative evaluation and research methods (3rd ed.). Thousand Oaks, CA: Sage Publications, Inc
-
-Richards, L. (2005). Handling Qualitative Data: A Practical Guide. London: SAGE.
-
-Richards, T.  (2002). An intellectual history of NUD*IST and NVivo. International Journal of Social Research Methodology, 5(3), 199-214, DOI:10.1080/13645570210146267
-
-Seidel, J. (1998). The Ethnograph v.5.0: A User’s Guide. London: SAGE. 
-
-Weber, R. P. (1990). Basic content analysis. Thousand Oaks: Sage.
 
 
 	
