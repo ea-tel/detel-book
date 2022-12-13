@@ -36,9 +36,9 @@ Before focusing on the systematic review of the literature, it is considered rel
 
 ## Systematic Literature Review-Definition
 
-Systematic literature review (also referred to as a systematic review) is a form of secondary study that uses a well-defined methodology to identify, analyse and interpret all available evidence related to a specific research question (Kitchenham, B. & Charters, S. 2007)
+Systematic literature review (also referred to as a systematic review) is a form of secondary study that uses a well-defined methodology to identify, analyse and interpret all available evidence related to a specific research question {% cite Kitchenham %}.
 
-Systematic reviews can be defined as “a review of existing research using explicit, accountable  rigorous research methods” (Mark Newman and David Gough, 2020)
+Systematic reviews can be defined as “a review of existing research using explicit, accountable  rigorous research methods” {% cite Newman %}.
 
 ### Glossary
 
@@ -47,7 +47,7 @@ Systematic reviews can be defined as “a review of existing research using expl
 * **Systematic review protocol:** a plan that describes the conduct of a proposed systematic literature review.
 
 ## Systematic Literature Review-Process
-This section first provides an overview of the phases (see also Fig 1: Xiao & Watson, 2019 diagram) involved in conducting a systematic literature review and then focuses on each phase with a brief explanation and examples.
+This section first provides an overview of the phases (see also Fig 1: Xiao & Watson diagram {% cite Xiao %}) involved in conducting a systematic literature review and then focuses on each phase with a brief explanation and examples.
 
   * Planning the SLR: 
     * Identify the need for a systematic review
@@ -127,7 +127,7 @@ The assessment should include an in-depth analysis of the logic from the data co
 ### Data extraction and synthesis
 
 
-The process of data extraction will often involve coding. It is impor tant to establish whether coding will be inductive or deduc tive (i.e., whether or not the coding will be based on the data or preexisting concepts) The way in which studies are coded will have a direct impact on the conclusions of the review. (Xiao and Watson, 2019). 
+The process of data extraction will often involve coding. It is impor tant to establish whether coding will be inductive or deduc tive (i.e., whether or not the coding will be based on the data or preexisting concepts) The way in which studies are coded will have a direct impact on the conclusions of the review {% cite Xiao %}. 
 
 Once the data extraction process is complete, the reviewer will organize the data. Synthesis usually involves some combination of charts, tables, and a textual description. The researcher organise  the data according to the review type: a meta-analysis will present regression tables;  a meta-summary will report effect and intensity  sizes, and a framework synthesis will include a  conceptual model. 
 
@@ -152,17 +152,5 @@ These two questions will help you reflect on what you have learned and think abo
 
 2- On what topic/aspect of your PhD project do you think it would be interesting to do a systematic literature review?
 
-
-## References
-*  Booth A, Papaioannou Diana, Sutton Anthea . Systematic Approaches to a Successful Literature Review. SAGE Publications, 2011.
-* Kitchenham, B. & Charters, S. (2007), Guidelines for performing systematic literature reviews in software engineering, Technical Report EBSE-2007-01, School of Computer Science and Mathematics, Keele University.
-* Matcha W.,  Uzir N. A., Gašević D. and Pardo A. "A Systematic Review of Empirical Studies on Learning Analytics Dashboards: A Self-Regulated Learning Perspective," in IEEE Transactions on Learning Technologies, vol. 13, no. 2, pp. 226-245, 1 April-June 2020, doi: 10.1109/TLT.2019.2916802.
-* Moher, D., Liberati, A., Tetzlaff, J., Altman, D., & Group, T. P. (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLOS Medicine, 6(7), e1000097.
-* Newman M., Gough D. (2020) Systematic Reviews in Educational Research: Methodology, Perspectives and Application. In: Zawacki-Richter O., Kerres M., Bedenlier S., Bond M., Butins K. (eds) Systematic Reviews in Educational Research. Springer VS, Wiesbaden. https://doi.org/10.1007/978-3-658-27602-7_1
-* Petticrew, M., & Roberts, H. (2006). Systematic reviews in the social sciences: A practical guide. Blackwell.
-* Phillips, V., & Barker, E. (2021). Systematic reviews: Structure, form and content. Journal of Perioperative Practice, 31(9), 349-353.
-* Vom Brocke, J., Simons, A., Niehaves, B., Niehaves, B., Reimer, K., Plattfaut, R., and Cleven, A. 2009. “Reconstructing the Giant: On the Importance of Rigour in documenting the Literature Search Process,” Proceedings of the Sixteenths European Conference on Information Systems (ECIS).
-* Webster, J., and Watson, R. T. 2002. “Analyzing the past to prepare for the future: Writing a literature review,” MIS Quarterly (26:2), pp. 13-23.
-* Xiao, Y., & Watson, M. (2019). Guidance on Conducting a Systematic Literature Review. Journal of Planning Education and Research, 39(1), 93–112.
-* Useful link: https://moodle.tech4comp.dbis.rwth-aachen.de/course/view.php?id=35
+* Useful link: [https://moodle.tech4comp.dbis.rwth-aachen.de/course/view.php?id=35](https://moodle.tech4comp.dbis.rwth-aachen.de/course/view.php?id=35)
 
