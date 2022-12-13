@@ -52,14 +52,14 @@ CC licenses offer a “some rights reserved” approach that grants the public p
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168425826-64025832-94a7-4ea8-a9a3-ec829c3d7d7f.JPG" alt="Creative Commons components">
-    <figcaption>Figure 1 - Creative Commons components.</figcaption>
+    <figcaption>*Figure 1 - Creative Commons components.*</figcaption>
 </figure>
 
 When combined, these components can generate six different license types, which are listed below from most to least permissive in Figure 2 [12]:
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168425870-76d3b602-a305-493f-9dfa-5498988c1147.JPG" alt="Creative Commons licence types">
-    <figcaption>Figure 2 - Creative Commons licence types.</figcaption>
+    <figcaption>*Figure 2 - Creative Commons licence types.*</figcaption>
 </figure>
 
 The less restrictive is the license, the better it can benefit both the creators and the users [10]. There is also the “no copyright reserved” option in the CC components, known as CC0, that “allows creators to give up their copyright and put their works into the worldwide public domain” [11]. However, the most popular licenses for OER encompass BY, BY-SA, and BY-NC-SA [9]. As the NoDerivatives component does not permit individuals to make changes or adaptations to the resources, and revising and remixing are activities that belong to OER definition, the licenses containing the NoDerivatives element are not included in the discussion of OER [9].
@@ -85,7 +85,7 @@ Figure 3 shows an example of the content type called drag the words, where it is
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168425976-1adaedf7-cede-4e71-8436-632bac0814f3.JPG" alt="Example of the content type called drag the words">
-    <figcaption>Figure 3 - Example of the content type called drag the words (source: Sousa et al.).</figcaption>
+    <figcaption>*Figure 3 - Example of the content type called drag the words.*</figcaption>
 </figure>
 
 Figure 3 illustrates a part of the page about the Characteristics of design-based research. On the left-hand side of the image, it is possible to visualize the contents of this interactive book. The numbers in the top right-hand corner of the image indicate the actual page and the total pages of the book, respectively. 
@@ -94,7 +94,7 @@ At the end of the interactive book, there is a report displaying the learner’s
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168426050-a2b1c9c7-945b-4652-882b-3e457a22ceaf.JPG" alt="Summary of an interactive book">
-    <figcaption>Figure 4 - Summary of an interactive book (source: Sousa et al.).</figcaption>
+    <figcaption>*Figure 4 - Summary of an interactive book.*</figcaption>
 </figure>
 
 According to the H5P website [17], there are three types of H5P integrations. The first one is to create and store the content on H5P.com, and access it through a direct link or embed the content in any platform that supports embedded content (iframes). The second possibility is via LTI integration with existing publishing systems, like Canvas, Brightspace, Blackboard, and Moodle. And the third one is via H5P plugins made for WordPress, Moodle, and Drupal, for example.

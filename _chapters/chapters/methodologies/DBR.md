@@ -100,7 +100,7 @@ Whatever the purpose of DBR - development studies (to develop research-based sol
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168300519-02c8b414-e406-4b3b-a36f-d7d58674c83c.JPG" alt="DBR_cycle1_plomp">
-    <figcaption>Interactions of systematic design cycles (Plomp, 2013)</figcaption>
+    <figcaption>*Interactions of systematic design cycles.*</figcaption>
 </figure>
 
 Like all systematic educational and instructional design processes - it is cyclical or iterative. It incorporates cycles of analysis, design, evaluation and revision activities until a balance between the intended ideas and realization has been achieved. This process can be illustrated in several ways, depending on how authors have visualized it. 
@@ -112,7 +112,7 @@ Reeves (2006) presented a model that highlights four main phases of DBR:
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168300774-4f1ac346-65d5-4169-bf69-7f2039d893c2.jpg" alt="DBR_cycle2_reeves">
-    <figcaption>Refinement of problems, solutions, methods, and design principles (Reeves, 2006)</figcaption>
+    <figcaption>*Refinement of problems, solutions, methods, and design principles.*</figcaption>
 </figure>
 
 The arrows represent the iterative characteristic of the process.
@@ -122,7 +122,7 @@ This model below was the research design used by Susan McKenney in her thesis.
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168300861-f95ae655-e244-4396-9390-079c6ef0893a.JPG" alt="DBR_cycle3_mckenney">
-    <figcaption>Display of the cascade-sea study (McKenney, 2001)</figcaption>
+    <figcaption>*Display of the cascade-sea study.*</figcaption>
 </figure>
 
 It has three main phases: needs & context analysis; design, development & formative evaluation; and semi-summative evaluation.
@@ -142,7 +142,7 @@ Based on their survey and analysis of existing models and frameworks for DBR, Mc
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168300939-a48e62ed-dd34-4ef4-943c-fbf4c7b29a80.JPG" alt="DBR_cycle4_mckenneyreeves">
-    <figcaption>Generic model for conducting design research in education (McKenney & Reeves, 2012)</figcaption>
+    <figcaption>*Generic model for conducting design research in education.*</figcaption>
 </figure>
 
 This model shows the core elements of a flexible process that features the three main stages: analysis/exploration, design/construction, and evaluation/reflection. 
@@ -199,7 +199,7 @@ In his _Generic Design Research Model_, Wademan (2005) pictures the features and
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168301054-283da1b7-6c40-4c7b-96d4-f840b0995d2c.JPG" alt="DBR_cycle6_model">
-    <figcaption>Generic design research model (Wademan, 2005)</figcaption>
+    <figcaption>*Generic design research model.*</figcaption>
 </figure>
 
 #### Reading recommendations:
