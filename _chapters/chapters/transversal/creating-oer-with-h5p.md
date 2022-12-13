@@ -83,7 +83,7 @@ Figure 3 shows an example of the content type called drag the words, where it is
 
 ![dragthewords](https://user-images.githubusercontent.com/100372892/168425976-1adaedf7-cede-4e71-8436-632bac0814f3.JPG)
 
-> _Figure 3 - Example of the content type called drag the words (source: Sousa et al. [16])_
+> _Figure 3 - Example of the content type called drag the words_
 
 Figure 3 illustrates a part of the page about the Characteristics of design-based research. On the left-hand side of the image, it is possible to visualize the contents of this interactive book. The numbers in the top right-hand corner of the image indicate the actual page and the total pages of the book, respectively. 
 
@@ -91,7 +91,7 @@ At the end of the interactive book, there is a report displaying the learner’s
 
 ![report](https://user-images.githubusercontent.com/100372892/168426050-a2b1c9c7-945b-4652-882b-3e457a22ceaf.JPG)
 
-> _Figure 4 - Summary of an interactive book (source: Sousa et al. [16])_
+> _Figure 4 - Summary of an interactive book_
 
 
 According to the [H5P website](https://h5p.org/integrations), there are three types of H5P integrations. The first one is to create and store the content on H5P.com, and access it through a direct link or embed the content in any platform that supports embedded content (iframes). The second possibility is via LTI integration with existing publishing systems, like Canvas, Brightspace, Blackboard, and Moodle. And the third one is via H5P plugins made for WordPress, Moodle, and Drupal, for example.

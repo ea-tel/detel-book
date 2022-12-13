@@ -33,7 +33,7 @@ Reeves {% cite Reeves %} argues that “there is an urgent need for a better app
 ### 2.1 Terminology
 There are a lot of terms related to DBR. Some of them are synonyms, others may vary according to their goals and characteristics. Examples are _Design Research in Education_ or _Educational Design Research_. _Education_ and _Educational_ were incorporated in the term to denote the area in question and avoid confusion with DBR from other fields. 
 
-In addition to these examples, other members of this family are {% cite Plomp %} {% cite Reeves %}:
+In addition to these examples, other members of this family are {% cite Plomp %}, {% cite Reeves %}:
 * design experiments
 * design studies
 * development or developmental research 
@@ -181,7 +181,7 @@ To deepen your knowledge on the main activities and outputs of each phase, pleas
  
 
 ## 8. DBR characteristics
-DBR authors also agree on a number of characteristics represented in this type of research {% cite Akker1999 %}, {% cite Akker2006 %}, {% cite Kelly %}, {% cite Nieveen1999}, {% cite Plomp %}:
+DBR authors also agree on a number of characteristics represented in this type of research {% cite Akker1999 %}, {% cite Akker2006 %}, {% cite Kelly %}, {% cite Nieveen1999 %}, {% cite Plomp %}:
 * **iterative**: the research process incorporates cycles of analysis, design, development, evaluation, and revision, as demonstrated in the models presented before.
 * **interventionist**: the research aims at designing an intervention in a real world setting in order to positively impact practice. These interventions include educational products, processes, programs or policies, for example. Its intention is to make a real change on the ground.
 * **collaborative**: the research involves active participation and collaboration among researchers and practitioners in the various stages and activities of the research. The intervention needs to be relevant and practical for the educational context, and this collaboration increases the probability for a successful implementation. 
