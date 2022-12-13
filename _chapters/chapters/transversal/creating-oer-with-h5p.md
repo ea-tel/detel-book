@@ -18,13 +18,13 @@ The main goals of this chapter are to introduce some key concepts of OER, presen
 ## OER Definitions
  
 #### OECD (Organization for Economic Co-operation and Development) {% cite OECD %}
-“The definition of OER currently most often used is “digitised materials offered freely and openly for educators, students and self-learners to use and reuse for teaching, learning and research”. OER includes learning content, software tools to develop, use and distribute content, and implementation resources such as open licenses.”
+“The definition of OER currently most often used is “digitised materials offered freely and openly for educators, students and self-learners to use and reuse for teaching, learning and research”. OER includes learning content, software tools to develop, use and distribute content, and implementation resources such as open licences.”
 		
 #### [UNESCO](https://webarchive.unesco.org/20160807000909/http://www.unesco.org/new/en/communication-and-information/events/calendar-of-events/events-websites/world-open-educational-resources-congress)
 “teaching, learning and research materials in any medium, digital or otherwise, that reside in the public domain or have been released under an open license that permits no-cost access, use, adaptation and redistribution by others with no or limited restrictions.”
 	
 #### [The Cape Town Open Education Declaration](https://www.capetowndeclaration.org/read/)
-"Open educational resources should be freely shared through open licenses which facilitate use, revision, translation, improvement and sharing by anyone. Resources should be published in formats that facilitate both use and editing, and that accommodate a diversity of technical platforms. Whenever possible, they should also be available in formats that are accessible to people with disabilities and people who do not yet have access to the Internet.”
+"Open educational resources should be freely shared through open licences which facilitate use, revision, translation, improvement and sharing by anyone. Resources should be published in formats that facilitate both use and editing, and that accommodate a diversity of technical platforms. Whenever possible, they should also be available in formats that are accessible to people with disabilities and people who do not yet have access to the Internet.”
  
 #### [The Wikieducator OER Handbook](https://wikieducator.org/OER_Handbook/educator_version_one)
 “The term "Open Educational Resource(s)" (OER) refers to educational resources (lesson plans, quizzes, syllabi, instructional modules, simulations, etc.) that are freely available for use, reuse, adaptation, and sharing.”
@@ -39,14 +39,14 @@ The main goals of this chapter are to introduce some key concepts of OER, presen
 The terms "open content" and "open educational resources" describe any work (traditionally excluding software, which is described by other terms like "open source") that is either (1) in the public domain or (2) licensed in a manner that provides everyone with free and perpetual permission to engage in the 5R activities:
 1. *Retain* - make, own, and control a copy of the resource (e.g., download and keep your own copy)
 2. *Revise* - edit, adapt, and modify your copy of the resource (e.g., translate into another language)
-3. *Remix* - combine your original or revised copy of the resource with other existing material to create something new (e.g., make a mash-up)
+3. *Remix* - combine your original or revised copy of the resource with other existing material to create something new (e.g., make a mashup)
 4. *Reuse* - use your original, revised, or remixed copy of the resource publicly (e.g., on a website, in a presentation, in a class)
 5. *Redistribute* - share copies of your original, revised, or remixed copy of the resource with others (e.g., post a copy online or give one to a friend)
 
 ## Legal openness: Open Licenses
 According to [Wiley](http://opencontent.org/definition), content is open not only when it is freely available to be used in other contexts, but also when it gives everyone permission to engage with the material through these 5R activities. In other words, neither all educational resources that are free are also open to being remixed and redistributed. Most of them are under copyright protection and, because of this, it is necessary to use open licenses to enable their adaptation and sharing. 
 
-While traditional “all rights reserved” copyright is automatic and restricts access, open licenses allow the authors to concede specific permissions on how they want their property to be used. Although there are other open licenxes such as the Open Publication License and GNU Free Documentation License, the most frequently used licenses are the Creative Commons (CC) {% cite Aaron %}, {% cite Wiley %}.
+While traditional “all rights reserved” copyright is automatic and restricts access, open licenses allow the authors to concede specific permissions on how they want their property to be used. Although there are other open licenses such as the Open Publication License and GNU Free Documentation License, the most frequently used licenses are the Creative Commons (CC) {% cite Aaron %}, {% cite Wiley %}.
 
 CC licenses offer a “some rights reserved” approach that grants the public permission to use the resources in a more flexible way, under a spectrum of concessions that answer the question of how these resources can be utilized {% cite Bissell %}. These licenses consist of four components, Attribution (BY), Share Alike (SA), Non-commercial (NC), and No Derivatives Works (ND), and are defined as follows (Figure 1) as taken from [the CC website](https://creativecommons.org/licenses/?lang=en):
 
@@ -104,7 +104,7 @@ At the bottom of the page, there is a button (Figure 5) that permits the users t
 
 
 ## Conclusions
-In short, OER are materials in any medium, legally and technically, available to educators and learners in a format that facilitates its reuse and adaptation. The open licenses are legal statements that give users permission to interact with the resource through the 5R activities. In a complementary way, the ALMS framework discusses the aspects that materials should have in order to be technically open. One example of a tool that facilitates this technical openness is the H5P tool. With this tool, users can retain, reuse and adapt the content according to their context. 
+In short, OER are materials in any medium, legally and technically available to educators and learners in a format that facilitates its reuse and adaptation. The open licenses are legal statements that give users permission to interact with the resource through the 5R activities. In a complementary way, the ALMS framework discusses the aspects that materials should have in order to be technically open. One example of a tool that facilitates this technical openness is the H5P tool. With this tool, users can retain, reuse and adapt the content according to their context. 
 
  
 [^1]: Alternatively: [https://h5p.com/](https://h5p.com/)

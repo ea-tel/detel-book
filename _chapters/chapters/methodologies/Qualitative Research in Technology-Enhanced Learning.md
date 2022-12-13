@@ -127,7 +127,7 @@ There are different approaches to coding:
 
 **Table 1. Approaches to coding**
 
-|**Corbin & Strauss {% cite Corbin %}**		|**Richards {% cite Richards2005 %} **	|**Layder {% cite Layder %}**	|**Mason {% cite Mason %}**	|**Miles & Huberman {% cite Miles %}**	|**Seidel {% cite Seidel %}**		|
+|**Corbin & Strauss {% cite Corbin %}**		|**Richards {% cite Richards2005 %}**	|**Layder {% cite Layder %}**	|**Mason {% cite Mason %}**	|**Miles & Huberman {% cite Miles %}**	|**Seidel {% cite Seidel %}**		|
 |-----------------------------------------------|-----------------------------------------|-----------------------------|-----------------------------|-----------------------------------------|-----------------------------------|
 | Open                      				| Descriptive       				| Provisional     		| Literal        			| Descriptive               			| Objectivistic   		    	|
 | Axial                     				| Topic             				| Core            		| Interpretive   			| Interpreting              			| Heuristic       			|
