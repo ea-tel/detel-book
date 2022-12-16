@@ -21,6 +21,7 @@ We would like to thank the following authors of the chapters.
 - Anna Nicolaou, Cyprus University of Technology
 - Laia Albo, Universitat Pompeu Fabra, Spain
 - Anu Tammeleht, University of Tartu, Estonia
+- Mikhail Fominykh, Norwegian University of Science and Technology, Norway
 
 
 ### Book Design
@@ -38,9 +39,13 @@ We would like to thank the following contributors for setting up the technical e
 
 - Benedikt Hensen, RWTH Aachen University, Germany
 - Ralf Klamma, RWTH Aachen University, Germany
+- Mikhail Fominykh, Norwegian University of Science and Technology, Norway
 - Emilie Hastrup-Kiil, RWTH Aachen University, Germany
 - Julian Staab, RWTH Aachen University, Germany
 
 ### Organization & Reviews
+
+We would like to thank the following contributors for organizing the book infrastructure and for reviewing additions to the book.
+
 - Mikhail Fominykh, Norwegian University of Science and Technology, Norway
 - Benedikt Hensen, RWTH Aachen University, Germany
