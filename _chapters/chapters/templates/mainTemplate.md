@@ -9,6 +9,9 @@ permalink: /chapter/templates/main-template/
 
 **Abstract:** This chapter will serve as a comprehensive template for future chapters and contains several sections on important Markdown features that you can use, i.e., tables, images, bullet points and references to the bibliography and table of content.
 
+## Example Headline
+
+This is how headlines are created. Use "#" to define them.
 
 ## The Table of Contents {#tableOfContents}
 In order for this page to be linked in the table of contents, please create a header as follows.
