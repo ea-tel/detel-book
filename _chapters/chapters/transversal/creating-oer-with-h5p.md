@@ -17,25 +17,25 @@ The main goals of this chapter are to introduce some key concepts of OER, presen
 
 ## OER Definitions
  
-#### OECD (Organization for Economic Co-operation and Development) [1] 
+#### OECD (Organization for Economic Co-operation and Development) {% cite OECD %}
 > “The definition of OER currently most often used is “digitised materials offered freely and openly for educators, students and self-learners to use and reuse for teaching, learning and research”. OER includes learning content, software tools to develop, use and distribute content, and implementation resources such as open licences.”
 		
-#### UNESCO [2]
+#### [UNESCO](https://webarchive.unesco.org/20160807000909/http://www.unesco.org/new/en/communication-and-information/events/calendar-of-events/events-websites/world-open-educational-resources-congress)
 > “teaching, learning and research materials in any medium, digital or otherwise, that reside in the public domain or have been released under an open license that permits no-cost access, use, adaptation and redistribution by others with no or limited restrictions.”
 	
-#### The Cape Town Open Education Declaration [3]
+#### [The Cape Town Open Education Declaration](https://www.capetowndeclaration.org/read/)
 > "Open educational resources should be freely shared through open licences which facilitate use, revision, translation, improvement and sharing by anyone. Resources should be published in formats that facilitate both use and editing, and that accommodate a diversity of technical platforms. Whenever possible, they should also be available in formats that are accessible to people with disabilities and people who do not yet have access to the Internet.”
  
-#### The Wikieducator OER Handbook [4]
+#### [The Wikieducator OER Handbook](https://wikieducator.org/OER_Handbook/educator_version_one)
 > “The term "Open Educational Resource(s)" (OER) refers to educational resources (lesson plans, quizzes, syllabi, instructional modules, simulations, etc.) that are freely available for use, reuse, adaptation, and sharing.”
  
-#### OER Commons [5]
+#### [OER Commons](https://www.oercommons.org/about#about-open-educational-resources)
 > “Open Educational Resources (OER) are teaching and learning materials that you may freely use and reuse at no cost, and without needing to ask permission. Unlike copyrighted resources, OER have been authored or created by an individual or organization that chooses to retain few, if any, ownership rights.”
  
-#### The William and Flora Hewlett Foundation [6]
+#### [The William and Flora Hewlett Foundation](https://hewlett.org/open-educational-resources-breaking-the-lockbox-on-education/)
 > “The idea behind Open Educational Resources (OER) is simple but powerful—educational materials made freely and legally available on the Internet for anyone to reuse, revise, remix and redistribute. These digital materials have the potential to give people everywhere equal access to our collective knowledge and provide many more people around the world with access to quality education by making lectures, books and curricula widely available on the Internet for little or no cost.” 
  
-#### David Wiley [7]
+#### [David Wiley](http://opencontent.org/definition/)
 The terms "open content" and "open educational resources" describe any work (traditionally excluding software, which is described by other terms like "open source") that is either (1) in the public domain or (2) licensed in a manner that provides everyone with free and perpetual permission to engage in the 5R activities:
 1. *Retain* - make, own, and control a copy of the resource (e.g., download and keep your own copy)
 2. *Revise* - edit, adapt, and modify your copy of the resource (e.g., translate into another language)
@@ -44,42 +44,42 @@ The terms "open content" and "open educational resources" describe any work (tra
 5. *Redistribute* - share copies of your original, revised, or remixed copy of the resource with others (e.g., post a copy online or give one to a friend)
 
 ## Legal openness: Open Licenses
-According to Wiley [7], content is open not only when it is freely available to be used in other contexts, but also when it gives everyone permission to engage with the material through these 5R activities. In other words, neither all educational resources that are free are also open to being remixed and redistributed. Most of them are under copyright protection and, because of this, it is necessary to use open licenses to enable their adaptation and sharing. 
+According to [Wiley](http://opencontent.org/definition), content is open not only when it is freely available to be used in other contexts, but also when it gives everyone permission to engage with the material through these 5R activities. In other words, neither all educational resources that are free are also open to being remixed and redistributed. Most of them are under copyright protection and, because of this, it is necessary to use open licenses to enable their adaptation and sharing. 
 
-While traditional “all rights reserved” copyright is automatic and restricts access, open licenses allow the authors to concede specific permissions on how they want their property to be used. Although there are other open licenses such as the Open Publication License and GNU Free Documentation License, the most frequently used licenses are the Creative Commons (CC) [8] [9].
+While traditional “all rights reserved” copyright is automatic and restricts access, open licenses allow the authors to concede specific permissions on how they want their property to be used. Although there are other open licenses such as the Open Publication License and GNU Free Documentation License, the most frequently used licenses are the Creative Commons (CC) {% cite Aaron %}, {% cite Wiley %}.
 
-CC licenses offer a “some rights reserved” approach that grants the public permission to use the resources in a more flexible way, under a spectrum of concessions that answer the question of how these resources can be utilized [10]. These licenses consist of four components, Attribution (BY), Share Alike (SA), Non-commercial (NC), and No Derivatives Works (ND), and are defined as follows (Figure 1) [11]:
+CC licenses offer a “some rights reserved” approach that grants the public permission to use the resources in a more flexible way, under a spectrum of concessions that answer the question of how these resources can be utilized {% cite Bissell %}. These licenses consist of four components, Attribution (BY), Share Alike (SA), Non-commercial (NC), and No Derivatives Works (ND), and are defined as follows (Figure 1) as taken from [the CC website](https://creativecommons.org/licenses/?lang=en):
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168425826-64025832-94a7-4ea8-a9a3-ec829c3d7d7f.JPG" alt="Creative Commons components">
     <figcaption>*Figure 1 - Creative Commons components.*</figcaption>
 </figure>
 
-When combined, these components can generate six different license types, which are listed below from most to least permissive in Figure 2 [12]:
+When combined, these components can generate six different license types, which are listed below from most to least permissive in Figure 2 taken from [the CC website](https://creativecommons.org/about/cclicenses/):
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168425870-76d3b602-a305-493f-9dfa-5498988c1147.JPG" alt="Creative Commons licence types">
     <figcaption>*Figure 2 - Creative Commons licence types.*</figcaption>
 </figure>
 
-The less restrictive is the license, the better it can benefit both the creators and the users [10]. There is also the “no copyright reserved” option in the CC components, known as CC0, that “allows creators to give up their copyright and put their works into the worldwide public domain” [11]. However, the most popular licenses for OER encompass BY, BY-SA, and BY-NC-SA [9]. As the NoDerivatives component does not permit individuals to make changes or adaptations to the resources, and revising and remixing are activities that belong to OER definition, the licenses containing the NoDerivatives element are not included in the discussion of OER [9].
+The less restrictive is the license, the better it can benefit both the creators and the users {% cite Bissell %}. There is also the “no copyright reserved” option in the CC components, known as CC0, that “allows creators to give up their copyright and put their works into the worldwide public domain” as taken from [the CC website](https://creativecommons.org/licenses/?lang=en). However, the most popular licenses for OER encompass BY, BY-SA, and BY-NC-SA {% cite Wiley %}. As the NoDerivatives component does not permit individuals to make changes or adaptations to the resources, and revising and remixing are activities that belong to OER definition, the licenses containing the NoDerivatives element are not included in the discussion of OER {% cite Wiley %}.
 
-There are also some concerns about the ShareAlike component. According to Hilton et al. [8], sharing adaptations under the same license as the original is a challenging situation for those who want to remix OER. Besides, the Non-Commercial component is also problematic, since it is not clear if a material licensed under this component can be used in a course where students are charged a fee. Therefore, if you want to make your resource as free as possible, the Attribution license is the most open option.
+There are also some concerns about the ShareAlike component. According to Hilton et al. {% cite Aaron %}, sharing adaptations under the same license as the original is a challenging situation for those who want to remix OER. Besides, the Non-Commercial component is also problematic, since it is not clear if a material licensed under this component can be used in a course where students are charged a fee. Therefore, if you want to make your resource as free as possible, the Attribution license is the most open option.
 
 ## Technical openness: the ALMS Framework
-In addition to legal considerations related to licensing, there are also some technical issues that affect openness. If people are given permission to interact with OER through the 5R activities, they should also be given technical tools to unlock the material so that they can revise and remix it according to their needs [8]. The ALMS analysis is a framework developed by Wiley [7] and helps thinking about these technical aspects. ALMS is an acronym for: 
+In addition to legal considerations related to licensing, there are also some technical issues that affect openness. If people are given permission to interact with OER through the 5R activities, they should also be given technical tools to unlock the material so that they can revise and remix it according to their needs {% cite Aaron %}. The ALMS analysis is a framework developed by [Wiley](http://opencontent.org/definition/) and helps thinking about these technical aspects. ALMS is an acronym for: 
 
 * Access to editing tools: people must have access to software that enables them to edit the resource, not only open and visualize it.
 * Level of expertise required to revise or remix: the tools used to develop the OER must be simple and easy to use. 
 * Meaningfully editable: the OER produced must be shared in such a format that enables people to edit it.
 * Source-file access: a source file is accessible when the file that the web developer edits and works with is the same that the web browser displays and the user interacts with (e.g., an HTML file). Consequently, modifying it must be uncomplicated.  
 
-Applying open licenses which permit users to engage with materials through the 5R activities as well as applying the ALMS analysis framework that enables and facilitates technical openness are two aspects that must be taken into consideration in order to maximize the openness of content [7] [8]. One example of an easy-to-use tool to develop OER is the H5P tool.
+Applying open licenses which permit users to engage with materials through the 5R activities as well as applying the ALMS analysis framework that enables and facilitates technical openness are two aspects that must be taken into consideration in order to maximize the openness of content according to [Wiley](http://opencontent.org/definition/) and {% cite Aaron %}. One example of an easy-to-use tool to develop OER is the H5P tool.
 
 ## H5P tool
-H5P (an abbreviation for HTML5 Package) is an open-source and free to use tool that enables anyone to create, share and reuse interactive HTML5 content without the need for any technical skills [13] [14]. H5P makes it easy to create rich interactive content by providing several content types for various needs, such as videos enriched with interactions, presentations with interactive slides, interactive books integrating several content types, drag and drop tasks with images and text, images with multiple information hotspots, quizzes with various question types, and many others [15]. 
+[H5P](https://h5p.org/)[^1] (an abbreviation for HTML5 Package) is an open-source and free to use tool that enables anyone to create, share and reuse interactive HTML5 content without the need for any technical skills. H5P makes it easy to create rich interactive content by providing several content types for various needs, such as videos enriched with interactions, presentations with interactive slides, interactive books integrating several content types, drag and drop tasks with images and text, images with multiple information hotspots, quizzes with various question types, and many others. Visit [their website](https://h5p.org/content-types-and-applications) for more examples. 
 
-Sousa et al. [16] developed an OER [prototype about Design-based Research](https://h5p.org/node/1265482) for doctoral programs in Technology-Enhanced Learning using the H5P tool. The content type adopted was the interactive book because it allows authors to combine other interactive content types, like interactive videos, presentations, and quizzes, through multiple pages. 
+Sousa et al. {% cite Sousa %} developed an OER [prototype about Design-based Research](https://h5p.org/node/1265482) for doctoral programs in Technology-Enhanced Learning using the H5P tool. The content type adopted was the interactive book because it allows authors to combine other interactive content types, like interactive videos, presentations, and quizzes, through multiple pages. 
 
 Figure 3 shows an example of the content type called drag the words, where it is possible to create text-based drag and drop tasks. In this activity, learners are asked to drag the characteristics of design-based research and drop them into the correct explanation. Then, they can check their answers to see how many responses they got right and, based on the right answers, a score is generated. They can also choose between retrying the task or visualizing its solution. Figure 3, for instance, presents the solution with the correct responses.
 
@@ -97,50 +97,21 @@ At the end of the interactive book, there is a report displaying the learner’s
     <figcaption>*Figure 4 - Summary of an interactive book.*</figcaption>
 </figure>
 
-According to the H5P website [17], there are three types of H5P integrations. The first one is to create and store the content on H5P.com, and access it through a direct link or embed the content in any platform that supports embedded content (iframes). The second possibility is via LTI integration with existing publishing systems, like Canvas, Brightspace, Blackboard, and Moodle. And the third one is via H5P plugins made for WordPress, Moodle, and Drupal, for example.
+According to the [H5P website](https://h5p.org/integrations), there are three types of H5P integrations. The first one is to create and store the content on H5P.com, and access it through a direct link or embed the content in any platform that supports embedded content (iframes). The second possibility is via LTI integration with existing publishing systems, like Canvas, Brightspace, Blackboard, and Moodle. And the third one is via H5P plugins made for WordPress, Moodle, and Drupal, for example.
 
-At the bottom of the page, there is a button (Figure 5) that permits the users to reuse the material. It is possible to download the content, upload it to the users’ own account, and make whatever alterations or adaptations they need. In other words, with the H5P tool, the users can engage in the 5R activities that were proposed by David Wiley [7]. 
+At the bottom of the page, there is a button (Figure 5) that permits the users to reuse the material. It is possible to download the content, upload it to the users’ own account, and make whatever alterations or adaptations they need. In other words, with the H5P tool, the users can engage in the 5R activities that were proposed by [David Wiley](http://opencontent.org/definition/). 
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168426072-0f675316-1178-4638-84a6-60c81101c318.JPG" alt="H5P Reuse button">
     <figcaption>Figure 5 - H5P Reuse button.</figcaption>
 </figure>
 
+
 ## Conclusions
 In short, OER are materials in any medium, legally and technically available to educators and learners in a format that facilitates its reuse and adaptation. The open licenses are legal statements that give users permission to interact with the resource through the 5R activities. In a complementary way, the ALMS framework discusses the aspects that materials should have in order to be technically open. One example of a tool that facilitates this technical openness is the H5P tool. With this tool, users can retain, reuse and adapt the content according to their context. 
 
-## References
-[1] OECD (2007). [Giving Knowledge for Free: the Emergence of Open Educational Resources](https://www.oecd.org/education/ceri/38654317.pdf) 
  
-[2] UNESCO (2012). [2012 Paris OER Declaration](https://webarchive.unesco.org/20160807000909/http://www.unesco.org/new/en/communication-and-information/events/calendar-of-events/events-websites/world-open-educational-resources-congress/) 
- 
-[3] [Cape Town Open Education Declaration: unlocking the promise of Open Educational Resources](https://www.capetowndeclaration.org/read/) 
- 
-[4] [OER Handbook for Educators](https://wikieducator.org/OER_Handbook/educator_version_one) 
- 
-[5] [OER Commons and Open Education](ttps://www.oercommons.org/about#about-open-educational-resources) 
- 
-[6] [Open Educational Resources: Breaking the Lockbox on Education](https://hewlett.org/open-educational-resources-breaking-the-lockbox-on-education/) 
- 
-[7] Wiley, D. (2014). [Defining the “open” in open content and open educational resources](http://opencontent.org/definition/)
- 
-[8] Hilton, John; Wiley, David; Stein, Jared; Johnson, Aaron (2010). The four ‘R’s of openness and ALMS analysis: frameworks for open educational resources. Open learning: The journal of open, distance and e-learning, v. 25, n. 1, pp. 37-44. https://doi.org/10.1080/02680510903482132
- 
-[9] Wiley, D., Bliss, T.J., & McEwen, M. (2014). Open Educational Resources: A Review of the Literature. In J. M. Spector, M. D. Merrill, J. Elen, and M. J. Bishop (Eds.), Handbook of Research on Educational Communications and Technology (pp. 781–789), New York: Springer.
+[^1]: Alternatively: [https://h5p.com/](https://h5p.com/)
 
-[10] Bissell, A. (2009). Permission granted: Open licensing for educational resources. Open Learning, The Journal of Open and Distance Learning, 24, 97–106.
 
-[11] Creative Commons (2007). [About the licenses](https://creativecommons.org/licenses/?lang=en)
-
-[12] Creative Commons (2019). [About CC Licenses](https://creativecommons.org/about/cclicenses/) 
- 
-[13] [H5P website .com](https://h5p.com/) 
- 
-[14] [H5P website org](https://h5p.org/) 
- 
-[15] [H5P website: content types and applications](https://h5p.org/content-types-and-applications) 
- 
-[16] Sousa, L., Pedro, L., Santos, C. (2021). Developing a Prototype of an Open Educational Resource on Research Methods for PhD Candidates in Technology-Enhanced Learning. In: De Laet, T., Klemke, R., Alario-Hoyos, C., Hilliger, I., Ortega-Arranz, A. (eds) Technology-Enhanced Learning for a Free, Safe, and Sustainable World. EC-TEL 2021. Lecture Notes in Computer Science(), vol 12884. Springer, Cham. https://doi.org/10.1007/978-3-030-86436-1_23
- 
-[17] [H5P website: integrations](https://h5p.org/integrations) 
 

@@ -16,24 +16,24 @@ The objective of this chapter is to:
 This chapter is organized in three main parts. In the first part, some definitions and other DBR terminologies that might be used as synonyms are presented. Also, there will be an introduction to the structure of the research question in order to help you elaborate yours. In the second part, some models for conducting DBR are introduced, as well as their phases - which are analysis, development and evaluation -, and characteristics. In the third part, a repertoire of activities that may be developed in each phase is suggested. During the chapter, you will have access to other references and be informed about further reading recommendations.  
 
 ## 2. DBR Definitions
-Two possible purposes of DBR can be identified, and depending on the purpose of the research they may be distinguished between development studies and validation studies (Plomp, 2013).
+Two possible purposes of DBR can be identified, and depending on the purpose of the research they may be distinguished between development studies and validation studies {% cite Plomp %}
 * **Development studies**: to develop a research-based intervention as a solution for complex problems in educational practice. 
 * **Validation studies**: to develop or validate theories about processes of learning and teaching.
 
-However, regardless of the purpose, Plomp (2013, p.11) affirms that DBR “encompasses the systematic study of designing, developing and evaluating educational interventions”. These interventions can be programs, learning processes, learning environments, teaching-learning materials, products or systems.
+However, regardless of the purpose, {% cite Plomp %} affirms that DBR “encompasses the systematic study of designing, developing and evaluating educational interventions”. These interventions can be programs, learning processes, learning environments, teaching-learning materials, products or systems.
 
-The Design-Based Research Collective (2003, p.5) states that “educational research is often divorced from the problems and issues of everyday practice – a split that resulted in a credibility gap and creates a need for new research approaches that speak directly to problems of practice and that lead to the development of ‘usable knowledge’.”
+The Design-Based Research Collective {% cite Baumgartner %} states that “educational research is often divorced from the problems and issues of everyday practice – a split that resulted in a credibility gap and creates a need for new research approaches that speak directly to problems of practice and that lead to the development of ‘usable knowledge’.”
 
-Van den Akker (1999, p.2) writes “that ‘traditional’ research approaches such as experiments, surveys, correlational analyses, with their emphasis on description hardly provide prescriptions that are useful for design and development problems in education”.
+Van den Akker {% cite Akker2006 %} writes “that ‘traditional’ research approaches such as experiments, surveys, correlational analyses, with their emphasis on description hardly provide prescriptions that are useful for design and development problems in education”.
 
-Bakker (2018, p. 3) says that “most educational research describes or evaluates education as it currently is. Some educational research analyzes education as it was. Design research, however, is about education as it _could be_ or even as it _should be_.” In other words, traditional research approaches in the education field usually provide a description of the context, and rarely emphasize a plan or suggestion that is useful to tackle real problems in education.
+Bakker {% cite Bakker %} says that “most educational research describes or evaluates education as it currently is. Some educational research analyzes education as it was. Design research, however, is about education as it _could be_ or even as it _should be_.” In other words, traditional research approaches in the education field usually provide a description of the context, and rarely emphasize a plan or suggestion that is useful to tackle real problems in education.
 
-Reeves (2006, p. 57) argues that “there is an urgent need for a better approach to educational technology research”. Instead of undertaking comparison studies, analyzing if method A is better than method B, educational technologists should conduct research aimed at developing optimal solutions to practical problems in learning environments.
+Reeves {% cite Reeves %} argues that “there is an urgent need for a better approach to educational technology research”. Instead of undertaking comparison studies, analyzing if method A is better than method B, educational technologists should conduct research aimed at developing optimal solutions to practical problems in learning environments.
 
 ### 2.1 Terminology
 There are a lot of terms related to DBR. Some of them are synonyms, others may vary according to their goals and characteristics. Examples are _Design Research in Education_ or _Educational Design Research_. _Education_ and _Educational_ were incorporated in the term to denote the area in question and avoid confusion with DBR from other fields. 
 
-In addition to these examples, other members of this family are (Plomp, 2013; Reeves, 2006):
+In addition to these examples, other members of this family are {% cite Plomp %}, {% cite Reeves %}:
 * design experiments
 * design studies
 * development or developmental research 
@@ -50,7 +50,7 @@ If you want to have a general and introductory idea about DBR, check the links b
 
 
 ## 3. Research functions
-Plomp (2013) affirms that, in general, various research functions can be identified and distinguished from each other, with each reflecting certain types of research questions:
+Plomp {% cite Plomp %} affirms that, in general, various research functions can be identified and distinguished from each other, with each reflecting certain types of research questions:
 
 * **to describe**: what is the achievement of Chinese grade 8 pupils in mathematics?; what barriers to students’ experience in the learning of mathematical modelling? 
 * **to compare**: what are the differences and similarities between the Chinese and the Netherlands curriculum for primary education?; what is the achievement in mathematics of Chinese grade 8 pupils as compared to that in certain other countries? 
@@ -83,20 +83,20 @@ Textbooks on research methodology usually do not present and discuss design rese
 
 ## 5. The overall research question in DBR
 Here we have some examples of research question structures that might help you when elaborating yours, in case you are going to conduct a research using DBR as the research method.
-* _What are the characteristics of an intervention X for the purpose/outcome Y in context Z?_ (Plomp, 2013)
+* _What are the characteristics of an intervention X for the purpose/outcome Y in context Z?_ {% cite Plomp %}
 * _What are the characteristics of an effective teaching and learning strategy aimed at acquiring certain learning outcomes in a certain context?_
 
 Examples of research questions using the structure above are:
 
-* _What are the characteristics of an intervention for promoting academic research writing which will best support graduates in education in the proposal stage of their research?_ (Dowse & Howie, 2013)
-* _What are the characteristics of microscale chemistry curriculum materials so that they contribute to the implementation of effective practical work in chemistry teaching in Tanzania schools?_ (Mafumiko, Voogt, & van den Akker, 2013)
+* _What are the characteristics of an intervention for promoting academic research writing which will best support graduates in education in the proposal stage of their research?_ {% cite Dowse %}
+* _What are the characteristics of microscale chemistry curriculum materials so that they contribute to the implementation of effective practical work in chemistry teaching in Tanzania schools?_ {% cite Mafumiko %}
 * _What are the characteristics of a digital resource for teaching and learning mathematics in secondary schools?_ 
 * _What are the characteristics of an online course aimed at enhancing second language acquisition in higher education?_ 
 
 > **Reflective activity**: Now, if you are thinking of conducting a Design-Based Research, try to formulate your research question using the structure presented above. 
 
 ## 6. Cycles and phases
-Whatever the purpose of DBR - development studies (to develop research-based solutions for complex problems in educational practice) or validation studies (to develop or validate theories about processes of learning and teaching) -, the research process always incorporates systematic educational design processes, as illustrated below:
+Whatever the purpose of DBR - development studies (to develop research-based solutions for complex problems in educational practice) or validation studies (to develop or validate theories about processes of learning and teaching) -, the research process always incorporates systematic educational design processes, as illustrated below {% cite Plomp %}:
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168300519-02c8b414-e406-4b3b-a36f-d7d58674c83c.JPG" alt="DBR_cycle1_plomp">
@@ -108,7 +108,7 @@ Like all systematic educational and instructional design processes - it is cycli
 Let’s see another example.
 
 ### Reeves’ model
-Reeves (2006) presented a model that highlights four main phases of DBR:
+Reeves {% cite Reeves %} presented a model that highlights four main phases of DBR:
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168300774-4f1ac346-65d5-4169-bf69-7f2039d893c2.jpg" alt="DBR_cycle2_reeves">
@@ -118,7 +118,7 @@ Reeves (2006) presented a model that highlights four main phases of DBR:
 The arrows represent the iterative characteristic of the process.
 
 ### McKenney’s model
-This model below was the research design used by Susan McKenney in her thesis.
+This model below was the research design used by Susan McKenney in her thesis {% cite McKenney2001 %}.
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168300861-f95ae655-e244-4396-9390-079c6ef0893a.JPG" alt="DBR_cycle3_mckenney">
@@ -138,7 +138,7 @@ The number of participants varied in each cycle. In the first cycle there were a
 According to the scale, each cycle lasted about six months.
 
 ### McKenney and Reeves’ model
-Based on their survey and analysis of existing models and frameworks for DBR, McKenney and Reeves created the _generic model for conducting design research in education_:
+Based on their survey and analysis of existing models and frameworks for DBR, McKenney and Reeves {% cite McKenney %} created the _generic model for conducting design research in education_:
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168300939-a48e62ed-dd34-4ef4-943c-fbf4c7b29a80.JPG" alt="DBR_cycle4_mckenneyreeves">
@@ -150,7 +150,7 @@ This model shows the core elements of a flexible process that features the three
 The three stages take place in interaction with implementation and spread, and this model provides the dual outputs of intervention and theoretical understanding.
 
 ### Summary
-Authors may vary in the details of how they portray DBR, but they all agree that DBR consists of three main phases: preliminary research, development or prototyping phase, and assessment phase (Plomp, 2013).
+Authors may vary in the details of how they portray DBR, but they all agree that DBR consists of three main phases: preliminary research, development or prototyping phase, and assessment phase {% cite Plomp %}.
 
 ![DBR_cycle5_summary](https://user-images.githubusercontent.com/100372892/168300987-f637f4ff-a2c8-4829-86cb-de1c5e37be38.jpg)
 
@@ -162,11 +162,8 @@ Authors may vary in the details of how they portray DBR, but they all agree that
 #### Reading recommendations:
 For a deeper discussion of the DBR cycles and phases, check the references.
 
-We also recommend the book Conducting Educational Design Research, by Susan McKenney and Thomas C. Reeves (2012), chapter 3: _Toward a generic model for educational design research_.
-* McKenney, S., & Reeves, T. (2012). Toward a generic model for educational design research. In S. McKenney, & T. Reeves (Eds), Conducting Educational Design Research (pp. 61-82). London: Routledge. [link](https://www.routledge.com/Conducting-Educational-Design-Research/McKenney-Reeves/p/book/9781138095564)
-
-Another recommendation is the book _Educational Design Research_, chapter 4:
-* Reeves, T. C. (2006). Design research from a technology perspective. In J. van den Akker, K. Gravemeijer, S. McKenney, & N. Nieveen (Eds.), Educational design research (pp. 52-66). London: Routledge. [link](https://www.routledge.com/Educational-Design-Research/Akker-Gravemeijer-McKenney-Nieveen/p/book/9780415396356)
+We also recommend the book Conducting Educational Design Research, by Susan McKenney and Thomas C. Reeves (2012), chapter 3: _Toward a generic model for educational design research_. {% cite McKenney %}
+Another recommendation is the book _Educational Design Research_, chapter 4. {% cite Reeves %}
 
 
 ## 7. Main activities in each phase
@@ -178,7 +175,7 @@ preliminary field-based investigation; context analysis and needs assessment; li
 
 
 #### Reading recommendation: 
-To deepen your knowledge on the main activities and outputs of each phase, please check _Part II Core processes_ from the book _Conducting Educational Design Research_, by McKenney and Reeves (2012). This part of the book is divided into four chapters:
+To deepen your knowledge on the main activities and outputs of each phase, please check _Part II Core processes_ from the book _Conducting Educational Design Research_, by McKenney and Reeves {% cite McKenney %}. This part of the book is divided into four chapters:
 * **Chapter 4**: Analysis and exploration
 * **Chapter 5**: Design and construction
 * **Chapter 6**: Evaluation and reflection
@@ -186,7 +183,7 @@ To deepen your knowledge on the main activities and outputs of each phase, pleas
  
 
 ## 8. DBR characteristics
-DBR authors also agree on a number of characteristics represented in this type of research (Van den Akker, 1999; Van den Akker et al., 2006; Kelly, 2006; Nieveen, 1999; Plomp, 2013):
+DBR authors also agree on a number of characteristics represented in this type of research {% cite Akker1999 %}, {% cite Akker2006 %}, {% cite Kelly %}, {% cite Nieveen1999 %}, {% cite Plomp %}:
 * **iterative**: the research process incorporates cycles of analysis, design, development, evaluation, and revision, as demonstrated in the models presented before.
 * **interventionist**: the research aims at designing an intervention in a real world setting in order to positively impact practice. These interventions include educational products, processes, programs or policies, for example. Its intention is to make a real change on the ground.
 * **collaborative**: the research involves active participation and collaboration among researchers and practitioners in the various stages and activities of the research. The intervention needs to be relevant and practical for the educational context, and this collaboration increases the probability for a successful implementation. 
@@ -195,7 +192,7 @@ DBR authors also agree on a number of characteristics represented in this type o
 * **theory oriented**: scientific understanding is used to frame not only the research, but also to shape the design of the intervention / the solution to the real problem. The results also contribute to theoretical understanding and theory building.
 
 ### Generic Design Research Model
-In his _Generic Design Research Model_, Wademan (2005) pictures the features and characteristics of DBR. His model illustrates that the successive approximation of practical products or results (referred to as ‘interventions’) is working side by side with the successive approximation of theory (referred to as ‘design principles’).
+In his _Generic Design Research Model_, Wademan {% cite Wademan %} pictures the features and characteristics of DBR. His model illustrates that the successive approximation of practical products or results (referred to as ‘interventions’) is working side by side with the successive approximation of theory (referred to as ‘design principles’).
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168301054-283da1b7-6c40-4c7b-96d4-f840b0995d2c.JPG" alt="DBR_cycle6_model">
@@ -205,8 +202,7 @@ In his _Generic Design Research Model_, Wademan (2005) pictures the features and
 #### Reading recommendations:
 For a deeper discussion of the DBR characteristics, check the references.
 
-We also recommend the book _Conducting Educational Design Research_, by Susan McKenney and Thomas C. Reeves (2012), chapter 1: _About educational design research_.
-* McKenney, S., & Reeves, T. (2012). Toward a generic model for educational design research. In S. McKenney, & T. Reeves (Eds), Conducting Educational Design Research (pp. 61-82). London: Routledge. [link](https://www.routledge.com/Conducting-Educational-Design-Research/McKenney-Reeves/p/book/9781138095564)
+We also recommend the book _Conducting Educational Design Research_, by Susan McKenney and Thomas C. Reeves (2012), chapter 1: _About educational design research_. {% cite McKenneyb %}
 
 
 ## 9. Further readings
@@ -247,18 +243,3 @@ We also recommend the book _Conducting Educational Design Research_, by Susan Mc
 - A journey through a Design-based Research Project [link](https://ro.uow.edu.au/cgi/viewcontent.cgi?article=2308&context=edupapers), from Wayne Cotton of the University of Sydney, and Lori Lockyer and Gwyn Brickell of the University of Wollongong
 - Design-Based Research in Science Education: One Step Towards Methodology [link](https://www.researchgate.net/publication/320337173_Design-Based_Research_in_Science_Education_One_Step_Towards_Methodology), from Kalle Juuti and Jari Lavonen of the University of Helsinki
 - Design based research to create instructional design templates for learning objects [link](https://www.it.iitb.ac.in/~sri/papers/dbr4LOs-nfe2013.pdf), from Sameer Sahsasrabudhe, Sahana Murthy, and Sridhar Iyer of Indian Institute of Technology-Bombay
-
-
-## References
-* Bakker, A. (2018). Design Research in Education: a Practical Guide for Early Career Researchers. London: Routledge. [link](https://www.routledge.com/Design-Research-in-Education-A-Practical-Guide-for-Early-Career-Researchers/Bakker/p/book/9781138574489)
-* Design-Based Research Collective. (2003). Design-based research: An emerging paradigm for educational inquiry. Educational Researcher, 32(1), 5-8. [link](https://journals.sagepub.com/doi/10.3102/0013189X032001005)
-* Kelly, A.E. (2006). Quality criteria for design research: Evidence and commitments. In J. van den Akker, K. Gravemeijer, S. McKenney, & N. Nieveen (Eds.), Educational design research (pp.107-118). London: Routledge. [link](https://www.routledge.com/Educational-Design-Research/Akker-Gravemeijer-McKenney-Nieveen/p/book/9780415396356)
-* McKenney, S. (2001). Computer-based support for science education materials developers in Africa: Exploring potentials. Doctoral dissertation. Enschede, the Netherlands: University of Twente. [link](https://research.utwente.nl/en/publications/computer-based-support-for-science-education-materials-developers)
-* McKenney, S., & Reeves, T. (2012). Toward a generic model for educational design research. In S. McKenney, & T. Reeves (Eds), Conducting Educational Design Research (pp. 61-82). London: Routledge. [link](https://www.routledge.com/Conducting-Educational-Design-Research/McKenney-Reeves/p/book/9781138095564)
-* McKenney, S., & Reeves, T. (2012). Conducting Educational Design Research. London: Routledge. [link](https://www.routledge.com/Conducting-Educational-Design-Research/McKenney-Reeves/p/book/9781138095564)
-* Nieveen, N. (1999). Prototyping to reach product quality. In J. van den Akker, R.M. Branch, K. Gustafson, N. Nieveen, & T. Plomp (Eds), Design approaches and tools in education and training (pp. 125-136). Boston: Kluwer Academic. [link](https://link.springer.com/book/10.1007/978-94-011-4255-7)
-* Plomp, T., & Nieveen, N. (Eds.). (2013). Educational design research: an Introduction. Enschede, the Netherlands: SLO. [link](https://slo.nl/publish/pages/2904/educational-design-research-part-a.pdf)
-* Reeves, T.C. (2006). Design research from a technology perspective. In J. van den Akker, K. Gravemeijer, S. McKenney, & N. Nieveen (Eds.), Educational design research (pp. 52-66). London: Routledge. [link](https://www.routledge.com/Educational-Design-Research/Akker-Gravemeijer-McKenney-Nieveen/p/book/9780415396356) 
-* Van den Akker, J. (1999). Principles and methods of development research. In J. van den Akker, R.M. Branch, K. Gustafson, N. Nieveen, & T. Plomp (Eds.), Design approaches and tools in education and training (pp. 1-14). Boston: Kluwer Academic. [link](https://link.springer.com/book/10.1007/978-94-011-4255-7)
-* Van den Akker, J., Gravemeijer, K, McKenney, S. & Nieveen, N. (Eds.). (2006). Educational design research. London: Routledge. [link](https://www.routledge.com/Educational-Design-Research/Akker-Gravemeijer-McKenney-Nieveen/p/book/9780415396356) 
-* Wademan, M.R. (2005). Utilizing development research to guide people-capability maturity model adoption considerations. Doctoral dissertation. Syracuse: Syracuse University. Dissertation Abstracts International, 67-01A, 434. (UMI No. 3205587) [link](https://surface.syr.edu/idde_etd/12/)

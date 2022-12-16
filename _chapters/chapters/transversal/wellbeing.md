@@ -213,7 +213,7 @@ If these basic tactics do not work for you, please do contact a professional cou
 
 ### Deep Dive: Thesis Appropriation
 
-Several elements play into “a thesis that makes sense to us”, one of the three key motivational factors that Belgian researchers have found distinguish doctoral students that finish the PhD from those that abandon it[^devos]. These elements include:
+Several elements play into “a thesis that makes sense to us”, one of the three key motivational factors that Belgian researchers have found distinguish doctoral students that finish the PhD from those that abandon it {% cite devos %}. These elements include:
 
 * We feel we have control about where the research goes (perceived autonomy)
 * **We understand the thesis as a whole (vs. a series of random studies) (conceptualization of content or topic of the dissertation)** 
@@ -221,8 +221,6 @@ Several elements play into “a thesis that makes sense to us”, one of the thr
 * We think our research contribution is worth making (perceived usefulness of the outcome)
 
 Below, you can find two exercises that other PhD students (including the authors of this chapter when they were students) have found useful to both assess and develop your conceptualization of the *contents* and *process* of your TEL dissertation.
-
-[^devos]: Devos, C., Boudrenghien, G., Van der Linden, N., Azzi, A., Frenay, M., Galand, B., & Klein, O. (2017). Doctoral students’ experiences leading to completion or attrition: A matter of sense, progress and distress. *European Journal of Psychology of Education*, *32*(1), 61–77.
 
 #### Appropriating the *Content* (i.e., your PhD topic)
 

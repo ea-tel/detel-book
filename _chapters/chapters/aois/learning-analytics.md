@@ -40,13 +40,13 @@ Thus, the key overarching question that learning analytics research explores is:
 According to the [Society for Learning Analytics Research (SoLAR)](https://www.solaresearch.org/about/what-is-learning-analytics/), the definition for learning analytics is the following:
 > "Learning analytics is **the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimising learning and the environments in which it occurs**".
 
-One may wonder how this definition is different from the whole field of educational research. The key difference is that LA solutions tend to make use of **preexisting, machine-readable data**, and apply **computational techniques** (e.g., machine learning) to handle the resulting ‘big data’, something that would not be practicable manually[^ferguson].
+One may wonder how this definition is different from the whole field of educational research. The key difference is that LA solutions tend to make use of **preexisting, machine-readable data**, and apply **computational techniques** (e.g., machine learning) to handle the resulting ‘big data’, something that would not be practicable manually {% cite ferguson %}.
 
 ## Benefits and Challenges of LA
 
 ### Understanding the design space of LA solutions
 
-According to the definitions above, we could design many kinds of learning analytics solutions. Greller & Drachsler proposed a conceptual framework that can help us both **describe** existing LA systems (in terms other LA researchers can easily understand) and even **generate** ideas for new ones[^greller].
+According to the definitions above, we could design many kinds of learning analytics solutions. Greller & Drachsler proposed a conceptual framework that can help us both **describe** existing LA systems (in terms other LA researchers can easily understand) and even **generate** ideas for new ones {% cite greller %}.
 
 According to this framework, we can describe an LA innovation along six “critical dimensions”:
 
@@ -59,7 +59,7 @@ According to this framework, we can describe an LA innovation along six “criti
 
 ## Learning Analytics Processes
 
-Aside from the "static view" of a system that the six dimensions above provide, it is also important to understand the (dynamic) **processes** that the functioning or development of an LA solution entail. You can see a couple of examples below[^siemens],[^shankar]:
+Aside from the "static view" of a system that the six dimensions above provide, it is also important to understand the (dynamic) **processes** that the functioning or development of an LA solution entail. You can see a couple of examples below introduced by Siemens {% cite siemens %} and Shankar et al. {% cite shankar %}:
 
 <img width="1250" alt="Two learning analytics processes, by Siemens (2013, left) and Shankar et al. (2020, right)" src="https://user-images.githubusercontent.com/105489417/169746662-d3d3b1bc-f844-449b-b21f-bca76e156c6f.png">
 
@@ -73,7 +73,7 @@ In the educational sciences, gathering data (e.g., interviews, questionnaires, e
 
 In contrast, if people use digital tools for learning, machines can automatically gather **detailed, ongoing data about the learning process**, e.g., from platform logs (actions, clicks, taps), intermediate artifacts (think, GoogleDocs and its revision history). Such data can give a greater insight into the learning process and how the final outcomes are reached. Moreover, machines can even analyze the (large volume of) data for us, using big data techniques, machine learning, and data mining, therefore providing **faster insights**.
 
-Even in cases where learners do not use technology for learning, we can apply learning analytics to the physical world through sensors (e.g., cameras, microphones, eye-trackers, movement trackers, etc.), which can then be analyzed using what has been termed "multimodal learning analytics", an emergent sub-field of LA[^blikstein][^dimitri].
+Even in cases where learners do not use technology for learning, we can apply learning analytics to the physical world through sensors (e.g., cameras, microphones, eye-trackers, movement trackers, etc.), which can then be analyzed using what has been termed "multimodal learning analytics", an emergent sub-field of LA {% cite blikstein %}, {% cite dimitri %}.
 
 ### A novel method for educational researchers
 
@@ -93,12 +93,12 @@ For instance, a classic, yet unsolved technical problem in LA is that of **inter
 
 **Interpreting** the data output by learning analytics solutions is also a challenge. Learning processes are known to be highly contextual, and individual differences matter a lot. Even in "purely online" experiences, learning still happens in the physical world. When looking at the outputs of an LA system, we need to consider: Can some **extraneous aspect** be causing this data? (short answer: probably yes!). For example, a temporary lack of activity from a learner in the system can indicate that they are thinking hard about the answer... but it could also be because the student was interrupted by someone else in the room. Hence, beware of over-simplistic interpretations and extrapolations from a single source of (digital) data, with no knowledge of the physical context.
 
-In LA research there is a strong emphasis on **theory/pedagogical grounding of analyses**. The results of LA should still make sense when seen from the point of view of some learning/pedagogical theory. As a consequence, particular analysis approaches have been devised to understand learning under certain pedagogies like collaborative learning[^chejara2020], inquiry learning, or knowledge building.
+In LA research there is a strong emphasis on **theory/pedagogical grounding of analyses**. The results of LA should still make sense when seen from the point of view of some learning/pedagogical theory. As a consequence, particular analysis approaches have been devised to understand learning under certain pedagogies like collaborative learning {% cite chejara2020 %}, inquiry learning, or knowledge building.
 
 
 ## Ethical challenges
 
-As in other fields where analytics and big data are applied, LA can have ethical implications. These implications include: the need for respecting privacy, users' agency, avoiding risks, and biases. In the LA field, researchers are also trying to police themselves and the use, practice and implementation of LA. As a result of such monitoring, for instance, the **DELICATE** framework emerged[^drachsler]. You can use this framework (pictured below) as a checklist to analyze different ethical aspects that to take into consideration when implementing LA in an educational setting:
+As in other fields where analytics and big data are applied, LA can have ethical implications. These implications include: the need for respecting privacy, users' agency, avoiding risks, and biases. In the LA field, researchers are also trying to police themselves and the use, practice and implementation of LA. As a result of such monitoring, for instance, the **DELICATE** framework emerged {% cite drachsler %}. You can use this framework (pictured below) as a checklist to analyze different ethical aspects that to take into consideration when implementing LA in an educational setting:
 
 
 <img width="500" alt="The DELICATE ethical framework for learning analytics" src="https://user-images.githubusercontent.com/105489417/169748539-338d7873-3ac5-4061-8fe1-736154cb6cf4.png">
@@ -112,7 +112,7 @@ With all the knowledge we have accumulated throughout the previous sections, let
 
 Small-group collaboration is a very common learning arrangement, both in face-to-face courses and online. Good collaboration, however, has multiple components which are quite difficult to track even for experienced teachers: sharing knowledge, mutual understanding, argumentation, etc.
 
-CoTrack is a web-based tool that looks like a mix between Google Docs (it features a shared text editor) and Zoom (it has videoconferencing features). It aims to support teachers to manage classrooms of small groups working together by shifting from just "mirroring the data" to "guiding" the teacher to intervene effectively[^chejara2020],[^chejara2021],[^kasepalu]. To do so, it uses audio, video and log data to try to estimate whether the group is having a "good collaboration".
+CoTrack is a web-based tool that looks like a mix between Google Docs (it features a shared text editor) and Zoom (it has videoconferencing features). It aims to support teachers to manage classrooms of small groups working together by shifting from just "mirroring the data" to "guiding" the teacher to intervene effectively {% cite chejara2020 %}, {% cite chejara2021 %}, {% cite kasepalu %}. To do so, it uses audio, video and log data to try to estimate whether the group is having a "good collaboration".
 
 The CoTrack prototype is available at [https://www.cotrack.website/en-gb/](https://www.cotrack.website/en-gb/).
 
@@ -120,7 +120,7 @@ The CoTrack prototype is available at [https://www.cotrack.website/en-gb/](https
 
 ### Tool example: Enabling recurrent, fast-loop questionnaire analytics for teachers and learners with LAPills
 
-Learning analytics are still too complex for everyday classroom use. For most teachers, it only makes sense to use LA if you are teaching a fully online, probably large-scale course (as there the benefits of increased awareness will clearly outweigh the cost of implementing this new technology). Still, analytics offered by most platforms are generic, and do not provide useful information for the particular context of a teacher's lesson. LAPills tries to be the simplest LA platform to help a teacher see the benefits at a low cost/effort[^prieto].
+Learning analytics are still too complex for everyday classroom use. For most teachers, it only makes sense to use LA if you are teaching a fully online, probably large-scale course (as there the benefits of increased awareness will clearly outweigh the cost of implementing this new technology). Still, analytics offered by most platforms are generic, and do not provide useful information for the particular context of a teacher's lesson. LAPills tries to be the simplest LA platform to help a teacher see the benefits at a low cost/effort {% cite prieto %}.
 
 LAPills is based on the idea of having reusable templates for a tiny LA solution, which includes the learning design (i.e., the sequence of learning activities in the lesson), the means to gather data along the sequence of activities (in the form of questionnaires) and customized analytics that are contextualized for the particular lesson.
 
@@ -149,7 +149,7 @@ There's many overlapping, related or similar terms to "Learning Analytics" (LA).
 
 On the other hand, different (but very related) research communities to LA include: Educational Datamining (EDM), AI in Education (AIED), Learning at Scale (L@S), Intelligent Tutoring Systems (ITS), or Quantitative Ethnography (QE). Each of those communities has its own conferences, journals and ways of thinking!
 
-In this sense, we could define broad, non-exclusive paradigms within LA and related fields[^baker]. Some researchers try to understand learning systems/situations "as a whole" (a dialectical approach, represented by the LA community and the LAK conference); de-composing the socio-technical system into components and analyzing components and their relationships (a reductionist approach, represented most vividly by the EDM community); predicting without comprehension or explanation (an essentialist approach, often featured in the L@S conference); or understanding individual experiences, processes, and their variety (an existentialist approach, typical of the QE field and its ICQE conference).
+In this sense, we could define broad, non-exclusive paradigms within LA and related fields {% cite baker %}. Some researchers try to understand learning systems/situations "as a whole" (a dialectical approach, represented by the LA community and the LAK conference); de-composing the socio-technical system into components and analyzing components and their relationships (a reductionist approach, represented most vividly by the EDM community); predicting without comprehension or explanation (an essentialist approach, often featured in the L@S conference); or understanding individual experiences, processes, and their variety (an existentialist approach, typical of the QE field and its ICQE conference).
 
 
 ## Summary and further resources
@@ -165,36 +165,3 @@ You can deepen your knowledge of LA by visiting any of the following educational
 * [Practical Learning Analytics](https://www.edx.org/course/practical-learning-analytics), a massive open online course on the topic by the University of Michigan.
 * Prinsloo, Slade and Khalil's [Learning Analytics: A Primer](https://oasis.col.org/items/b35591a9-f1ad-454c-a3c5-d728ea694861), another mini-course on the topic, in a single PDF.
 
-
-
-## References
-
-[^baker]: Baker, R. S., Gašević, D., & Karumbaiah, S. (2021). Four Paradigms in Learning Analytics: Why Paradigm Convergence Matters. Computers and Education: Artificial Intelligence, 100021. https://doi.org/10.1016/j.caeai.2021.100021
-
-[^blikstein]: Blikstein, P., & Worsley, M. (2016). Multimodal learning analytics and education data mining: Using computational technologies to measure complex learning tasks. Journal of Learning Analytics, 3(2), 220-238.
-
-[^chejara2021]: Chejara, P., Prieto, L. P., Ruiz-Calleja, A., Rodríguez-Triana, M. J., Shankar, S. K., & Kasepalu, R. (2021). EFAR-MMLA: An Evaluation Framework to 22 Assess and Report Generalizability of Machine Learning Models in MMLA. Sensors, 21(8), 2863.
-
-[^chejara2020]: Chejara, P., Kasepalu, R., Shankar, S. K., Prieto, L. P., Rodríguez-Triana, M. J., & Ruiz-Calleja, A. (2020). MMLA Approach to Track Collaborative Behavior in Face-to-Face Blended Settings.
-
-[^dimitri]: Di Mitri, D., Schneider, J., Specht, M., & Drachsler, H. (2018). From signals to knowledge: A conceptual model for multimodal learning analytics. Journal of Computer Assisted Learning, 34(4), 338-349.
-
-[^drachsler]: Drachsler, H., & Greller, W. (2016). Privacy and analytics: it's a DELICATE issue a checklist for trusted learning analytics. In Proceedings of the 6th International Conference on Learning Analytics & Knowledge (pp. 89-98). ACM.
-
-[^ferguson]: Ferguson, R. (2012). Learning analytics: drivers, developments and challenges. International Journal of Technology Enhanced Learning, 4(5/6), 304-317.
-
-[^greller]: Greller, W., & Drachsler, H. (2012). Translating Learning into Numbers: A Generic Framework for Learning Analytics. Journal of Educational Technology & Society, 15(3), 42-57.
-
-[^kasepalu]: Kasepalu, R., Chejara, P., Prieto, L. P., & Ley, T. (2021). Do Teachers Find Dashboards Trustworthy, Actionable and Useful? A Vignette Study Using a Logs and Audio Dashboard. Technology, Knowledge and Learning, 1-19.
-
-[^lang]: Lang, C., Siemens, G., Wise, A., & Gasevic, D. (Eds.). (2017). Handbook of learning analytics. New York, NY, USA: SOLAR, Society for Learning Analytics and Research. https://www.solaresearch.org/publications/hla-17/
-
-[^prieto]: Prieto, L. P., Rodríguez-Triana, M. J., Odriozola-González, P., & Dimitriadis, Y. (2022). Single-Case Learning Analytics to Support Social-Emotional Learning: The Case of Doctoral Education. In Social and Emotional Learning and Complex Skills Assessment (pp. 251-278). Springer, Cham.
-
-[^martinez]: Martinez-Maldonado, R., Echeverria, V., Fernandez Nieto, G., & Buckingham Shum, S. (2020, April). From data to insights: a layered storytelling approach for multimodal learning analytics. In Proceedings of the 2020 chi conference on human factors in computing systems (pp. 1-15).
-
-[^samuelsen]: Samuelsen, J., Chen, W., & Wasson, B. (2019). Integrating multiple data sources for learning analytics—review of literature. Research and Practice in Technology Enhanced Learning, 14(1), 1-20.
-
-[^siemens]: Siemens, G. (2013). Learning analytics: The emergence of a discipline. American Behavioral Scientist, 57(10), 1380-1400.
-
-[^shankar]: Shankar, S. K., Rodríguez-Triana, M. J., Ruiz-Calleja, A., Prieto, L. P., Chejara, P., & Martínez-Monés, A. (2020). Multimodal Data Value Chain (M-DVC): A Conceptual Tool to Support the Development of Multimodal Learning Analytics Solutions. IEEE Revista Iberoamericana de Tecnologias del Aprendizaje, 15(2), 113-122.
