@@ -1,7 +1,7 @@
 ---
 layout: reading_chapter
 title: Completing a Happy TEL PhD&#58; Wellbeing in TEL Doctorates
-authors: <br>Luis P. Prieto, Tallinn University, Estonia
+authors: <br>Luis P. Prieto, Tallinn University <br>Yagmur Cisem Yilmaz, Tallinn University
 hide: true
 permalink: /chapter/transversal/wellbeing/
 ---
