@@ -18,6 +18,8 @@ order: 3
 
 [Learning Analytics](/detel-book/chapter/aois/learning-analytics/)
 
+[Gamification](/detel-book/chapter/aois/gamification/)
+
 ...
 
 ## 3 TEL Methodologies
