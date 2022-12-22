@@ -44,7 +44,6 @@ In addition to these examples, other members of this family are {% cite Plomp %}
 
 #### Reading recommendations:
 If you want to have a general and introductory idea about DBR, check the links below:
-* _What is design-based research?_, by University of Georgia (2006) [link](http://dbr.coe.uga.edu/explain01.html)
 * _7 things you should know about Educational Design Research_, by EDUCAUSE (2012) [link](https://library.educause.edu/resources/2012/8/7-things-you-should-know-about-educational-design-research)
 * _Design-based research_, by Dr. Michele Jacobsen (2014) [link](https://www.edcan.ca/articles/design-based-research/)
 
@@ -208,9 +207,7 @@ We also recommend the book _Conducting Educational Design Research_, by Susan Mc
 ## 9. Further readings
 
 ### 9.1 Introductory resources
-- What is Design-based Research? (University of Georgia) [link](http://dbr.coe.uga.edu/explain01.html)  
-- Design-based research (EduTech Wiki) [link](http://edutechwiki.unige.ch/en/Design-based_research)
-- Design-Based Research Webliography (University of Georgia) [link](http://dbr.coe.uga.edu/FAQ.html)  
+- Design-based research (EduTech Wiki) [link](http://edutechwiki.unige.ch/en/Design-based_research)  
 - Design-Based Research (University of Calgary, by Michele Jacobsen) [link](https://www.edcan.ca/articles/design-based-research/) 
 - Design-Based Research: An Emerging Paradigm for Educational Inquiry (The Design-Based Research Collective) [link](http://www.designbasedresearch.org/reppubs/DBRC2003.pdf) 
 
