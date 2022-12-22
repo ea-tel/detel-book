@@ -18,12 +18,9 @@ The gamification concept has gained, in the past ten to fifteen years, a major r
 The “use of game design elements in non-game contexts” {% cite Deterding %} is the most well-known definition of gamification and encapsulates this strategy of applying and integrating these elements, commonly used in games, in other contexts.
 A quick survey of the SCOPUS scientific database shows us that the use of the term ‘gamification’ has been steadily increasing since 2011, particularly in the computer science and in the social sciences fields.
 
-<p align="center">
-  ![Graph showing incrising number of documents since 2011](/detel-book/assets/images/DocumentsByYear.png)
-</p>
-<p align="center">
-  ![Circular graph showing the subject areas of the documents](/detel-book/assets/images/DocumentsBySubjectArea.png)
-</p>
+![Graph showing incrising number of documents since 2011](/detel-book/assets/images/DocumentsByYear.png)
+
+![Circular graph showing the subject areas of the documents](/detel-book/assets/images/DocumentsBySubjectArea.png)
 
 These two areas are, of course, the foundational areas of the Technology-Enhanced Learning field. Several authors claim that the use of gamification elements and strategies in education can enhance learning as pleasure and reward typically activate important human functions such as attention, motivation and memory {% cite Huotari %}.
 It is important, at this stage, to clarify some differences between gamification and other terms that are frequently but mistakenly used in an interchangeable way.
