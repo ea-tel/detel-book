@@ -9,7 +9,7 @@ permalink: /chapter/aois/professional-TEL
 ## Introduction
 
 Professional Technology-Enhanced Learning is concerned with technology-enhanced learning for professionals, i.e. people in employed jobs. Other terms used instead of professional learning are sometimes workplace learning or work-related learning; and there is a large overlap with research that focusses on informal, situated, or lifelong learning. 
-The below introductory parts about professional learning are adapted from Pammer-Schindler (2019) and {% cite Littlejohn2022 %}.
+The below introductory parts about professional learning are adapted from {% cite Pammer2019 %} and {% cite Littlejohn2022 %}.
 
 ## What is special about professional learning?
 
@@ -37,7 +37,7 @@ Technologies, technology uses, and challenges around professional technology-enh
 >Reflection activity if your research has been within professional technology-enhanced learning: Which of the specifics of professionals as learners have you encountered in your empirical work, or addressed in your technology design? Did you already make use of the general design implications as outlined above, and which others might be interesting for you in your future work?
 
 
-2. (Littlejohn & Pammer-Schindler, 2022) Allison Littlejohn & Viktoria Pammer-Schindler. Technologies for Professional Learning. In: Hartelis, C., Gijbels, D. and Kyndt, E. (Eds), Handbook of Research Approaches on Workplace Learning. Springer, 2022. DOI: https://doi.org/10.1007/978-3-030-89582-2_15.
+
 3. (Hager, 2011) Hager, P. Theories of Workplace Learning. In: Malloch, Cairns, Evans & O’Connor (Eds): The SAGE Handbook of Workplace Learning. SAGE Publications Ltd, 2011, p. 17-31.
 4. (Pammer-Schindler et al., 2022) Viktoria Pammer-Schindler, Tobias Ley, Joachim Kimmerle and Allison Littlejohn, "Guest Editorial: Designing Technologies to Support Professional and Workplace Learning for Situated Practice," in IEEE Transactions on Learning Technologies, vol. 15, no. 5, pp. 523-525, 1 Oct. 2022, DOI: https://doi.org/10.1109/TLT.2022.3207306 .
 5. (Pammer-Schindler, 2019) Viktoria Pammer-Schindler. Designing Data-Driven and Adaptive Technologies for Reflective Learning in the Workplace. Habilitation thesis, Graz University of Technology, 2019.
