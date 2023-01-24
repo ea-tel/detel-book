@@ -9,7 +9,7 @@ permalink: /chapter/aois/professional-TEL
 ## Introduction
 
 Professional Technology-Enhanced Learning is concerned with technology-enhanced learning for professionals, i.e. people in employed jobs. Other terms used instead of professional learning are sometimes workplace learning or work-related learning; and there is a large overlap with research that focusses on informal, situated, or lifelong learning. 
-The below introductory parts about professional learning are adapted from Pammer-Schindler (2019) and Littlejohn & Pammer-Schindler (2022).
+The below introductory parts about professional learning are adapted from Pammer-Schindler (2019) and {% cite Littlejohn2022 %}.
 
 ## What is special about professional learning?
 
@@ -17,7 +17,7 @@ The below introductory parts about professional learning are adapted from Pammer
 
 “The major a priori difference between learning in educational settings and professional learning is the learner’s work experience, the learner’s engagement in work, and in learners’ motivation in learning because of work. This seems obvious; but it implies that it is the social context of work that defines the relevance of that which is learned, and poses constraints on what may be applied and subsequently learned sustainably, as the learners in the workplace act within a set of rules, roles, divisions of labour. In addition, this social context including its overarching objectives and tasks and activities is not designed for learning. In other words: Organisation’s value-creating processes typically have nothing to do with learning per se - most organisations’ overarching objectives are not to learn but to produce something or to provide a service of some sort, and thereby to make money. Consequently, within the social context of organisations, priority is therefore frequently assigned to operative work (as opposed to learning); and most relevant for reflective learning: Roles and a division of labour impact who can apply (individually gained) insights or who can engender organisational learning.” (Pammer-Schindler, 2019)
 
-Further professionals as learners have work experience which contextualises their learning. This can be an advantage, as professional learners can use their work experience to ground theoretical knowledge. It can be a challenging, if newly received knowledge is hard to integrate with past or future work experience (cp. also {% cite Eraut%}, 2004 on the challenges of transferring knowledge from education to workplace settings).
+Further professionals as learners have work experience which contextualises their learning. This can be an advantage, as professional learners can use their work experience to ground theoretical knowledge. It can be a challenging, if newly received knowledge is hard to integrate with past or future work experience (cp. also {% cite eraut %} on the challenges of transferring knowledge from education to workplace settings).
 
 “To some extent of course, every workplace setting is special, and different workplaces may differ from each other very significantly in size, in degree of formality of procedures and hierarchy, in infrastructure, in organisational culture with respect to learning and making errors, etc. The above description of specifics of workplace learning is therefore not a description of characteristics that are true in every workplace settings, but are plausibly found in many workplaces.” (Pammer-Schindler, 2019)
 Furthermore, the border between “normal” education and professional learning can become blurred, for instance when a professional learner enters fully into a formal education – such as a MOOC, a master degree, etc. – and pursues this education at the surface no different than learners without prior work experience or an a priori known future workplace where the learned knowledge will be applied. This can happen for instance in re-skilling endeavors. In turn, some educational environments heavily include workplace experience in the curricula.
@@ -36,8 +36,7 @@ Technologies, technology uses, and challenges around professional technology-enh
 
 >Reflection activity if your research has been within professional technology-enhanced learning: Which of the specifics of professionals as learners have you encountered in your empirical work, or addressed in your technology design? Did you already make use of the general design implications as outlined above, and which others might be interesting for you in your future work?
 
-### References
-1. Michael Eraut, Transfer of Knowledge Between Education and Workplace Settings. 
+
 2. (Littlejohn & Pammer-Schindler, 2022) Allison Littlejohn & Viktoria Pammer-Schindler. Technologies for Professional Learning. In: Hartelis, C., Gijbels, D. and Kyndt, E. (Eds), Handbook of Research Approaches on Workplace Learning. Springer, 2022. DOI: https://doi.org/10.1007/978-3-030-89582-2_15.
 3. (Hager, 2011) Hager, P. Theories of Workplace Learning. In: Malloch, Cairns, Evans & O’Connor (Eds): The SAGE Handbook of Workplace Learning. SAGE Publications Ltd, 2011, p. 17-31.
 4. (Pammer-Schindler et al., 2022) Viktoria Pammer-Schindler, Tobias Ley, Joachim Kimmerle and Allison Littlejohn, "Guest Editorial: Designing Technologies to Support Professional and Workplace Learning for Situated Practice," in IEEE Transactions on Learning Technologies, vol. 15, no. 5, pp. 523-525, 1 Oct. 2022, DOI: https://doi.org/10.1109/TLT.2022.3207306 .
