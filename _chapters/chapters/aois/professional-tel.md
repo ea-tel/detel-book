@@ -3,7 +3,7 @@ layout: reading_chapter
 title: Professional Technology-Enhanced Learning
 authors: <br>Viktoria Pammer-Schindler, Graz University of Technology, Austria
 hide: true 
-permalink: /chapter/aois/professional-TEL
+permalink: /chapter/aois/professional-tel/
 ---
 
 ## Introduction
