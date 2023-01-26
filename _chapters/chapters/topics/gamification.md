@@ -2,7 +2,7 @@
 layout: reading_chapter
 title: Gamification
 hide: true
-permalink: /chapter/aois/gamification/
+permalink: /chapter/topics/gamification/
 ---
 
 # Introduction
