@@ -3,7 +3,7 @@ layout: tutorial
 title: Creating Open Educational Resources with the H5P tool
 authors: <br>Lorena Sousa, University of Aveiro, Portugal <br>Luís Pedro, University of Aveiro, Portugal <br>Carlos Santos, University of Aveiro, Portugal
 hide: true
-permalink: /chapter/transversal/creating-oer-with-the-H5P-tool/
+permalink: /chapter/tutorials/creating-oer-with-the-H5P-tool/
 ---
 
 **Abstract:** Open Educational Resources are any teaching, learning or research materials that are under open licenses or reside in the public domain, free of copyright restrictions, giving users free permission to engage in the 5R activities (retain, reuse, revise, remix, and redistribute). Applying open licenses that legally enable users to engage in these 5R activities as well as tools that facilitate the technical openness of the content are two aspects that must be taken into consideration when developing OER. One example of a tool is the H5P (an abbreviation for HTML5 Package), which is an open-source and free to use tool that enables anyone to create, share and reuse interactive HTML5 content without the need for any technical skills. With H5P, users can create several content types such as videos enriched with interactions, presentations with interactive slides, interactive books, and quizzes with various question types. The main goals of this chapter are to introduce some key concepts of OER, present the H5P tool, and show how these key concepts can be applied and explored with the H5P tool.
