@@ -16,7 +16,7 @@ The objective of this chapter is to:
 This chapter is organized in three main parts. In the first part, some definitions and other DBR terminologies that might be used as synonyms are presented. Also, there will be an introduction to the structure of the research question in order to help you elaborate yours. In the second part, some models for conducting DBR are introduced, as well as their phases - which are analysis, development and evaluation -, and characteristics. In the third part, a repertoire of activities that may be developed in each phase is suggested. During the chapter, you will have access to other references and be informed about further reading recommendations.  
 
 ## 2. DBR Definitions
-Two possible purposes of DBR can be identified, and depending on the purpose of the research they may be distinguished between development studies and validation studies {% cite Plomp %}
+Two possible purposes of DBR can be identified, and depending on the purpose of the research they may be distinguished between development studies and validation studies {% cite Plomp %}:
 * **Development studies**: to develop a research-based intervention as a solution for complex problems in educational practice. 
 * **Validation studies**: to develop or validate theories about processes of learning and teaching.
 
@@ -137,7 +137,7 @@ The number of participants varied in each cycle. In the first cycle there were a
 According to the scale, each cycle lasted about six months.
 
 ### McKenney and Reeves’ model
-Based on their survey and analysis of existing models and frameworks for DBR, McKenney and Reeves {% cite McKenney %} created the _generic model for conducting design research in education_:
+Based on their survey and analysis of existing models and frameworks for DBR, McKenney and Reeves {% cite McKenney2012a %} created the _generic model for conducting design research in education_:
 
 <figure>
     <img src="https://user-images.githubusercontent.com/100372892/168300939-a48e62ed-dd34-4ef4-943c-fbf4c7b29a80.JPG" alt="DBR_cycle4_mckenneyreeves">
@@ -161,7 +161,7 @@ Authors may vary in the details of how they portray DBR, but they all agree that
 #### Reading recommendations:
 For a deeper discussion of the DBR cycles and phases, check the references.
 
-We also recommend the book Conducting Educational Design Research, by Susan McKenney and Thomas C. Reeves (2012), chapter 3: _Toward a generic model for educational design research_. {% cite McKenney %}
+We also recommend the book Conducting Educational Design Research, by Susan McKenney and Thomas C. Reeves (2012), chapter 3: _Toward a generic model for educational design research_. {% cite McKenney2012 %}
 Another recommendation is the book _Educational Design Research_, chapter 4. {% cite Reeves %}
 
 
@@ -174,7 +174,7 @@ preliminary field-based investigation; context analysis and needs assessment; li
 
 
 #### Reading recommendation: 
-To deepen your knowledge on the main activities and outputs of each phase, please check _Part II Core processes_ from the book _Conducting Educational Design Research_, by McKenney and Reeves {% cite McKenney %}. This part of the book is divided into four chapters:
+To deepen your knowledge on the main activities and outputs of each phase, please check _Part II Core processes_ from the book _Conducting Educational Design Research_, by McKenney and Reeves {% cite McKenney2012a %}. This part of the book is divided into four chapters:
 * **Chapter 4**: Analysis and exploration
 * **Chapter 5**: Design and construction
 * **Chapter 6**: Evaluation and reflection
@@ -201,7 +201,7 @@ In his _Generic Design Research Model_, Wademan {% cite Wademan %} pictures the 
 #### Reading recommendations:
 For a deeper discussion of the DBR characteristics, check the references.
 
-We also recommend the book _Conducting Educational Design Research_, by Susan McKenney and Thomas C. Reeves (2012), chapter 1: _About educational design research_. {% cite McKenneyb %}
+We also recommend the book _Conducting Educational Design Research_, by Susan McKenney and Thomas C. Reeves (2012), chapter 1: _About educational design research_. {% cite McKenney2012b %}
 
 
 ## 9. Further readings
