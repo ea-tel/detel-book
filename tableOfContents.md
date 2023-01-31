@@ -22,6 +22,24 @@ order: 3
 
 [Learning Analytics](/detel-book/chapter/topics/learning-analytics/)
 
+[Artificial Intelligence in education]
+
+[Personalized and adaptive learning]
+
+[Self-regulated / Informal Learning]
+
+[Smart / Intelligent Learning Environments]
+
+[Pedagogical Patterns]
+
+[Gamification](/detel-book/chapter/topics/gamification/)
+
+[Visualisation / Visual Analytics]
+
+[Mixed and Augmented Reality]
+
+[Engagement / Emotion / Affect]
+
 [Wearable Enhanced Learning]
 
 [Open Educational Resources (OER) and Open Content]
@@ -36,11 +54,7 @@ order: 3
 
 [Blockchain in education]
 
-[Mixed and Augmented Reality]
-
 [Competence Development]
-
-[Gamification](/detel-book/chapter/topics/gamification/)
 
 [Intelligent tutoring]
 
@@ -52,15 +66,9 @@ order: 3
 
 [Knowledge Work Management / Knowledge Maturing]
 
-[Pedagogical Patterns]
-
 [Application domains of TEL]
 
 [Learning Object Repositories and Meta-Data]
-
-[Engagement / Emotion / Affect]
-
-[Smart Learning Environments / Intelligent Learning Environments]
 
 [Game-based learning]
 
@@ -94,17 +102,11 @@ order: 3
 
 [Digitally mediated communication]
 
-[Personalized and adaptive learning]
-
 [Sensors / Multimodal Learning Analytics]
-
-[Artificial Intelligence in education]
 
 [Cloud in TEL]
 
 [Personal Learning Environments (PLE)]
-
-[Self-regulated / Informal Learning]
 
 [HR Management / Learning Processes]
 
@@ -116,16 +118,9 @@ order: 3
 
 [TEL Policy]
 
-[Open source software]
-
 [Contextualised Learning]
 
 [Learning systems (LMS / VLE)]
-
-[Visualisation / Visual Analytics]
-
-[Industry 4.0]
-
 
 ...
 
