@@ -133,6 +133,8 @@ order: 3
 
 [Design-Based Research in TEL](/detel-book/chapter/methodologies/design-based-research/)
 
+[Field Studies in TEL](/detel-book/chapter/methodologies/field-studies-in-tel/)
+
 [Action research in TEL]
 
 [Information systems methods in TEL]
