@@ -161,7 +161,7 @@ Authors may vary in the details of how they portray DBR, but they all agree that
 #### Reading recommendations:
 For a deeper discussion of the DBR cycles and phases, check the references.
 
-We also recommend the book Conducting Educational Design Research, by Susan McKenney and Thomas C. Reeves (2012), chapter 3: _Toward a generic model for educational design research_. {% cite McKenney2012 %}
+We also recommend the book Conducting Educational Design Research, by Susan McKenney and Thomas C. Reeves (2012), chapter 3: _Toward a generic model for educational design research_. {% cite McKenney2012b %}
 Another recommendation is the book _Educational Design Research_, chapter 4. {% cite Reeves %}
 
 
