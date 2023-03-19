@@ -30,7 +30,7 @@ order: 3
 
 [Smart / Intelligent Learning Environments]
 
-[Pedagogical Patterns]
+[Pedagogical Patterns](/detel-book/chapter/topics/podagogical-patterns/)
 
 [Gamification](/detel-book/chapter/topics/gamification/)
 
