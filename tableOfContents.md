@@ -14,7 +14,7 @@ order: 3
 
 >Topics relevant for all PhD candidates working in TEL
 
-[What is Technology-Enhanced Learning (TEL)?](/detel-book/chapter/introduction/intro-to-TEL/)
+[Technology-Enhanced Learning overview](/detel-book/chapter/tel-core/tel-overview/)
 
 ## 2 TEL Topics
 
