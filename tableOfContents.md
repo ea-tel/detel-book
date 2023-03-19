@@ -36,7 +36,7 @@ order: 3
 
 [Visualisation / Visual Analytics]
 
-[Mixed and Augmented Reality]
+[eXtended Reality in TEL](/detel-book/chapter/topics/extended-reality-in-tel/)
 
 [Engagement / Emotion / Affect]
 
