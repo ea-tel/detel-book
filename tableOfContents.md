@@ -158,7 +158,7 @@ order: 3
 
 ## 5 Tutorials
 
-[Creating Open Educational Resources with the H5P tool](/chapter/tutorials/creating-oer-with-the-H5P-tool/)
+[Creating Open Educational Resources with the H5P tool](/detel-book/chapter/tutorials/creating-oer-with-the-H5P-tool/)
 
 ## Templates
 
