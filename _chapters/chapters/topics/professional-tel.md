@@ -38,6 +38,6 @@ Technologies, technology uses, and challenges around professional technology-enh
 
 
 ### Further resources
-* (Cicchinelli & Pammer-Schindler, 2023) A systematically collected list of publications in learning and technologies research with empirical research in professional learning. (Link to be added).
+* (Cicchinelli & Pammer-Schindler, 2023) A systematically collected list of publications in learning and technologies research with empirical research in professional learning. https://viktoriapammer.wordpress.com/2023/05/22/professional-tel-systematically-collected-dataset/.
 * (Ruiz-Calleja et al., 2021) Adolfo Ruiz-Calleja, Luis P.  Prieto, Tobias Ley, Maria Jesus Rodríguez-Triana and Sebastian Dennerlein, "Learning Analytics for Professional and Workplace Learning: A Literature Review," in IEEE Transactions on Learning Technologies, vol. 14, no. 3, pp. 353-366, 1 June 2021, DOI: https://doi.org/10.1109/TLT.2021.3092219.
 
