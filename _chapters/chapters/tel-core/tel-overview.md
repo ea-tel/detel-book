@@ -129,11 +129,11 @@ Starting from the technological end is what we call the *innovation approach*. I
 
 Depending on the technological innovation at hand, existing learning theories may not or only partly fit. Your research may thus involve experimentation with various prototype settings, to find out what may or may not be useful for education and learning. This may involve technical feasibility studies, usability studies, user experience studies, and measuring effectivity and efficiency with respect to learning. Possible issues to look into include innovation bias, where people are positive just because of the innovative nature. This effect is assumed to disappear over time.
 
-![TEL goals](/detel-book/assets/images/TEL-theory-innovation.png)
+![TEL goals](/detel-book/assets/images/TEL-innovation.png)
 
 An example for the innovation approach can e.g. be seen in the [WEKIT project](https://cordis.europa.eu/project/id/687669). In this European research project, we explored the use of wearable technologies and augmented reality for learning and training purposes. To find out how this can possibly be done, we assessed technological affordances of wearables and augmented reality and then derived hypotheses about how we can create appropriate learning solutions. One idea was to record export activities with wearable sensors and recreate augmented reality experiences in 3D which help the learner to reimagine the expert performance. We developed an according prototype system and performed data collections with pilot partners. Results from such piloting activities allow us to continuously refine the solution and the corresponding methodological framework in order to identify useful learning applications and evaluate their effectiveness and efficiency. Outcomes of this kind of research comprise e.g. complex architectures containing various components, methodological frameworks of how to apply the technology in education and evaluation results.
 
-![TEL goals](/detel-book/assets/images/TEL-theory-innovation-example.png)
+![TEL goals](/detel-book/assets/images/TEL-innovation-example.png)
 
 The challenges for you as PhD researcher are also different in this case: typically this kind of research happens as part of larger, multi-partner projects. One question thus is: how do you apply your individual PhD research to such a complex architecture? Where is your individual aspect and how do you balance this with potentially conflicting partner interests. There is no one-size-fits-all solution for this, but it should be made explicit and transparent from the earliest possible moment in such a project situation where the individual interests are.
 
@@ -166,8 +166,6 @@ Consequently, you are facing the challenge to understand the architecture to be 
 Now that we have an overview of the three identified typical approaches, the question that arises is: if you are a phd student in TEL then are you a “T”, “L”, or “E”? Or are you already “TE” or “EL”? Thus, the question is where do you belong in the presented approaches. In most cases it will not be a perfect match but there may be one of these letters that is basically the main one for you. 
 
 Don't expect a straight path and that you will only do one of these steps and one of these iterations in your PhD research. You may go through even combinations of the approaches and also multiple iterations. This is where your individual research design comes into play. A useful resource to look into is design-based research: a research process model that exactly is specified for situations as they regularly occur in TEL research.
-
-## **Reality**
 
 We have seen these three different approaches (theory-based, innovation-based and service-based). In reality, there is a lot of overlap and all of the mentioned aspects come somehow together. 
 
