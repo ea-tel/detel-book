@@ -1,7 +1,7 @@
 ---
 layout: reading_chapter
 title: Technology Enhanced Learning Overview
-authors: <br>Roland Klemke, Open University of the Netherlands<br>Mikhail Fominykh, Norwegian University of Science and Technology
+authors: <br>Roland Klemke, Open University of the Netherlands<br>Mikhail Fominykh, Norwegian University of Science and Technology<br>Viktoria Pammer-Schindler, Graz University of Technology
 hide: true
 permalink: /chapter/tel-core/tel-overview/
 ---
@@ -21,7 +21,11 @@ TEL is an interdisciplinary field that connects Computer Science with the Learni
 
 According to Conole et al., Kalz & Specht and Scanlon & Taylor, the research focus of TEL has led to interdisciplinary perspectives integrating theories and methods {% cite Conole2010 %}, {% cite Kalz-and-Specht %}, {% cite Scanlon2016 %}. Pammer-Schindler et al. describes TEL research as an intersection of Learning Sciences, Educational Psychology, and Computer Science, investigating interventions based on digital technologies in education and training settings {% cite Pammer-Schindler-feduc-2020 %}.
 
-## **TEL as a field of study and research**
+## **TEL as a field of research**
+
+As a field of research, TEL is concerned with investigating how technologies can be used to enhance learning- and teaching-related processes, and thereby facilitate better outcomes; as well as with developing technologies that improve learning- and teaching-related processes and outcomes. Subsequently, TEL research asks all kinds of research questions: explorative, descriptive, analytical, predictive, interventionist, design-oriented, normative, or artistic. TEL researchers use a wide range of data collection and analysis methods, such as quantitative or qualitative, inductive or deductive.
+
+## **TEL as a field of study*
 
 The term TEL has not only been used to describe a research domain, it has also been the foundation for a number of higher education study programs {% cite Orey2017 %}. This landscape has been characterized as continuously changing {% cite Dennen2007 %}, {% cite Spector2015 %}. A systematic analysis of master study programs in TEL found that their curricula rely on subjects of educational sciences and management of TEL in an organization, while the share of technological subjects is relatively small {% cite Fominykh2022 %}.
 
