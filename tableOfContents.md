@@ -48,7 +48,7 @@ order: 3
 
 [Immersive Technologies (Virtual Reality and Simulations)]
 
-[Massive Online Open Courses (MOOCs)]
+[Massive Online Open Courses (MOOCs)](/detel-book/chapter/topics/mooc/)
 
 [Scalability / mainstreaming]
 
