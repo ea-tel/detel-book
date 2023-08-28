@@ -1,7 +1,7 @@
 ---
 layout: reading_chapter
 title: eXtended Reality in TEL
-authors: <br>Mikhail Fominykh, Norwegian University of Science and Technology<br>Benedikt Hansen, RWTH Aachen University<br> Ekaterina Prasolova-Førland, Norwegian University of Science and Technology<br>Fridolin Wild, Open University of UK
+authors: <br>Mikhail Fominykh, Norwegian University of Science and Technology<br>Benedikt Hensen, RWTH Aachen University<br> Ekaterina Prasolova-Førland, Norwegian University of Science and Technology<br>Fridolin Wild, Open University of UK
 hide: true
 permalink: /chapter/topics/extended-reality-in-tel/
 ---
