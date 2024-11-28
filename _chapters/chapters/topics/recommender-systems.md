@@ -16,7 +16,7 @@ In this chapter, we try to cover the basics of recommender systems, starting wit
 
 According to Wikipedia, _Recommender systems are a subclass of information filtering system that provides suggestions for items that are most pertinent to a particular user._
 
-Recommender systems (RS) can be defined as _software tools that help the user in making decisions when the provided information is overwhelming_ \[1\]. They can become considerably important when the options available for buying an item or receiving a service vary over a wide range, such as the wide variety of online courses available for a certain topic.
+Recommender systems (RS) can be defined as _software tools that help the user in making decisions when the provided information is overwhelming_ {% cite ricci_recommender_2022 %}. They can become considerably important when the options available for buying an item or receiving a service vary over a wide range, such as the wide variety of online courses available for a certain topic.
 
 The definition of RS can also be considered from the application dimensions and contexts. Therefore, we can define RS as follows from the technical, functional, and algorithmic contexts:
 
@@ -31,7 +31,7 @@ Each of these definitions highlights different aspects of a recommender system, 
 
 # 3. Types of Recommender Systems
 
-Since their early days in the 1990s, recommender systems were developed under several categories that correspond to the reasoning process of the RS. The first concept of comparing users and the items, that are to be recommended, appeared in the work of Belkin and Croft in 1992 \[2\], as well as Goldberg et al. \[3\], and was known as collaborative filtering. Recommendation approaches were then developed to reflect different reasoning processes, which correspond to different applications and contexts of the recommender system.
+Since their early days in the 1990s, recommender systems were developed under several categories that correspond to the reasoning process of the RS. The first concept of comparing users and the items, that are to be recommended, appeared in the work of Belkin and Croft in 1992 {% cite belkin_information_1992 %}, as well as Goldberg et al. {% cite goldberg_using_1992 %}, and was known as collaborative filtering. Recommendation approaches were then developed to reflect different reasoning processes, which correspond to different applications and contexts of the recommender system.
 
 The categories that RS were classified into include:
 
@@ -57,9 +57,9 @@ This type of recommender system relies on pre-defined rules to recommend items b
 <br>Conten Based RS
 </p>
 
-As a result of the logic that CF and CB recommendation systems follow, each type faces limitations that affect its output. CF recommender systems rely on the behavior and preferences that are stored in the user profile to make a recommendation by finding similar users. This means that a new user in the system, whose profile does not have yt information about their preferences, will not get sound recommendations. This issue is referred to as the “cold-start” problem of recommender systems \[4\].
+As a result of the logic that CF and CB recommendation systems follow, each type faces limitations that affect its output. CF recommender systems rely on the behavior and preferences that are stored in the user profile to make a recommendation by finding similar users. This means that a new user in the system, whose profile does not have yt information about their preferences, will not get sound recommendations. This issue is referred to as the “cold-start” problem of recommender systems {% cite hasan_traditional_2024 %}.
 
-On the other hand, a CB recommender system will recommend items to a user, which are similar to items the user already liked. This logic may lead to a problem of over-specialization of the recommended items, meaning that the user will only receive recommendations from a smaller group of items that are similar to the items the user interacted with before. To account for those limitations of CF and CB recommenders, hybridizing the recommendation logic was introduced, to utilize the best of each algorithm, and mitigate its limitations \[5\].
+On the other hand, a CB recommender system will recommend items to a user, which are similar to items the user already liked. This logic may lead to a problem of over-specialization of the recommended items, meaning that the user will only receive recommendations from a smaller group of items that are similar to the items the user interacted with before. To account for those limitations of CF and CB recommenders, hybridizing the recommendation logic was introduced, to utilize the best of each algorithm, and mitigate its limitations {% cite dong_brief_2022 %}.
 
 ## 3.2 Hybrid RS
 
@@ -95,42 +95,42 @@ Figure 3 illustrates a graph-based recommendation system, which tries to predict
 
 <p align="center">
 <img src="https://github.com/CleoSchulten/detel-hack-jtelss2024/blob/d06fdf32379ae0b0ded3c27db6e6df640efb996b/assets/images/graph_based_RS.png" alt="Internal Image" width="500px">
-<br>Graph-based recommendation through link prediction \[6\]
+<br>Graph-based recommendation through link prediction {% cite cui_graph-based_nodate %}
 </p>
 
 # 4. Applications of Recommender Systems in educational settings
 
 Recommender systems have found diverse and impactful applications in the field of education, particularly in e-learning, aiming to enhance personalized learning experiences and optimize educational resources for both students and educators. Several literature reviews provide valuable insights into the different types of applications, their purposes, and their benefits across various educational contexts.
 
-Specifically, in e-learning, the different applications of recommender systems include \[7\]:
+Specifically, in e-learning, the different applications of recommender systems include {% cite zhang_recommender_2022 %}:
 
 1. Learning material recommendations:  
         Different users require appropriate learning materials tailored to their knowledge level and current needs. The primary form of these learning materials is text which involves the use of **content-based techniques**.
 
-One interesting example is the personalized citation recommendation. In \[8\], the authors propose a three-layered (paper, author, venue) interactive clustering approach to cluster related vertices in the graph (Figure 4).
+One interesting example is the personalized citation recommendation. In {% cite cai_three-layered_2018 %}, the authors propose a three-layered (paper, author, venue) interactive clustering approach to cluster related vertices in the graph (Figure 4).
 
 <p align="center">
 <img src="https://github.com/CleoSchulten/detel-hack-jtelss2024/blob/d06fdf32379ae0b0ded3c27db6e6df640efb996b/assets/images/three_layered_clustering.png" alt="Internal Image" width="500px">
-<br>Three-layered (paper, author, venue) interactive clustering approach \[10\]
+<br>Three-layered (paper, author, venue) interactive clustering approach {% cite cai_three-layered_2018 %}
 </p>
 
 2. Learning object recommendation:  
         Unlike learning materials, learning objects refer to distinct, granular items such as exercises, questions, and examples. Recommending these learning objects is typically accomplished through **knowledge-based techniques**.
 
-One example is the work in \[9\] where authors proposed a hybrid filtering approach for recommending learning objectives to students. That was achieved by their proposed framework which combined three modules namely, the _learner module,_ the _recommendation module,_ and the _interactive module_ (Figure 5). The learner module with the learner influence model aims to address interpersonal information sparsity and cold start problems in e-learning. The recommendation module aims to simulate learners’ collaborative behaviors and give learners cliques using a self-organization-based recommendation. In the interactive module students' activities are being recorded, e.g., studying records.
+One example is the work in {% cite wan_hybrid_2020 %} where authors proposed a hybrid filtering approach for recommending learning objectives to students. That was achieved by their proposed framework which combined three modules namely, the _learner module,_ the _recommendation module,_ and the _interactive module_ (Figure 5). The learner module with the learner influence model aims to address interpersonal information sparsity and cold start problems in e-learning. The recommendation module aims to simulate learners’ collaborative behaviors and give learners cliques using a self-organization-based recommendation. In the interactive module students' activities are being recorded, e.g., studying records.
 
 <p align="center">
 <img src="https://github.com/CleoSchulten/detel-hack-jtelss2024/blob/d06fdf32379ae0b0ded3c27db6e6df640efb996b/assets/images/framework_thre_modules.png" alt="Internal Image" width="500px">
-<br>Proposed framework in \[9\] with the learner module, the recommendation module, and the interactive module
+<br>Proposed framework in {% cite wan_hybrid_2020 %} with the learner module, the recommendation module, and the interactive module
 </p>
 
 3. Learning path recommendation:  
-        A learning path consists of a series of items, which may include learning materials, learning objects, or learning activities. Due to the complexity of this function, **sequence modeling and recurrent neural networks** (RNNs) are commonly employed because of their inherent strengths in handling sequential data. For example, in \[10\] the authors developed a full-path learning recommendation by clustering a group of learners based on a feature similarity metric and training a long short-term memory (LSTM) model, i.e., a type of RNN, to predict their learning paths and performance.
+        A learning path consists of a series of items, which may include learning materials, learning objects, or learning activities. Due to the complexity of this function, **sequence modeling and recurrent neural networks** (RNNs) are commonly employed because of their inherent strengths in handling sequential data. For example, in {% cite zhou_personalized_2018 %} the authors developed a full-path learning recommendation by clustering a group of learners based on a feature similarity metric and training a long short-term memory (LSTM) model, i.e., a type of RNN, to predict their learning paths and performance.
 4. Learning activity recommendation:  
         Learning activities generally cover broader contexts, such as classes or events involving students. Recommendations for these activities are typically achieved through content-based, collaborative filtering (CF)-based, or hybrid methods.
 5. Others: e.g., exercise difficulty ranking, knowledge requirement acquisition.
 
-Similarly, a systematic review \[11\] that analyzed 56 articles from the period 2015-2020 that focus on the use of recommender systems in education identified their primary purposes to be recommending learning resources and courses. Additionally, the authors in \[12\] focused their systematic on recommender systems that support students’ agency (i.e., the learner’s ability to set and pursue learning goals). They also analyzed 56 articles in the timeframe 2008-2018 and found that the main purpose of the relevant studies was to recommend quality content, with other purposes including suggesting learning activities and helping students find peers.
+Similarly, a systematic review {% cite urdaneta-ponte_recommendation_2021 %} that analyzed 56 articles from the period 2015-2020 that focus on the use of recommender systems in education identified their primary purposes to be recommending learning resources and courses. Additionally, the authors in {% cite deschenes_recommender_2020 %} focused their systematic on recommender systems that support students’ agency (i.e., the learner’s ability to set and pursue learning goals). They also analyzed 56 articles in the timeframe 2008-2018 and found that the main purpose of the relevant studies was to recommend quality content, with other purposes including suggesting learning activities and helping students find peers.
 
 These studies collectively underscore that the central aim of recommender systems in technology-enhanced learning is to recommend learning resources and guide learning paths, highlighting their crucial role in personalized education.
 
@@ -140,17 +140,17 @@ The integration and use of RS in education introduce challenges and implications
 
 ## 5.1 Ethical and legal considerations for RS in education
 
-RS aim to support stakeholders (in this case, teachers and learners) by providing suggestions on multiple levels that would address their individual needs. At the same time, such systems have been criticized for diminishing the **autonomy** and initiative of stakeholders to retrieve their own resources and information, undermining their **agency** and creating the feeling of loss of **control** \[13\]**.**
+RS aim to support stakeholders (in this case, teachers and learners) by providing suggestions on multiple levels that would address their individual needs. At the same time, such systems have been criticized for diminishing the **autonomy** and initiative of stakeholders to retrieve their own resources and information, undermining their **agency** and creating the feeling of loss of **control** {% cite chiu_systematic_2023 %}**.**
 
-The generation of recommendations is tightly coupled with the data that recommendation algorithms have been trained upon. That is, in order for an RS to provide **fair** and **unbiased** - but at the same time, useful and helpful - recommendations, it should be trained on data that are complete and represent the target population accurately, and additionally, no bias has been introduced in later stages, such as through labeling or coding \[14\].
+The generation of recommendations is tightly coupled with the data that recommendation algorithms have been trained upon. That is, in order for an RS to provide **fair** and **unbiased** - but at the same time, useful and helpful - recommendations, it should be trained on data that are complete and represent the target population accurately, and additionally, no bias has been introduced in later stages, such as through labeling or coding {% cite baker_algorithmic_2022 %}.
 
-At the same time, we want to ensure equity while one of the main objectives of RS is to address learners’ individual needs. That is, RS should not widen existing gaps in terms of knowledge, but instead, take into account learning outcomes on higher levels \[15\].
+At the same time, we want to ensure equity while one of the main objectives of RS is to address learners’ individual needs. That is, RS should not widen existing gaps in terms of knowledge, but instead, take into account learning outcomes on higher levels {% cite holmes_equity_2022 %}.
 
-Besides aspects of fairness and bias, the collection and use of users’ data - that can potentially be **private** or **sensitive** - raises questions and concerns as to how these data are collected, stored, and processed, for what purposes they are used, and whether or with whom these data are shared \[16\].
+Besides aspects of fairness and bias, the collection and use of users’ data - that can potentially be **private** or **sensitive** - raises questions and concerns as to how these data are collected, stored, and processed, for what purposes they are used, and whether or with whom these data are shared {% cite ramzan_privacy_2013 %}.
 
-**Accountability** in RS is typically explored in relation to **transparency** and connects to aspects of **reproducibility** \[17\]. This means that, on the one hand, RS should deliver results that can be reproduced in order to ensure robustness and on the other hand, they should make visible the decision-making processes according to which they delivered these results and provide explanations that is understandable and useful for the users.
+**Accountability** in RS is typically explored in relation to **transparency** and connects to aspects of **reproducibility** {% cite bellogin_improving_2021 %}. This means that, on the one hand, RS should deliver results that can be reproduced in order to ensure robustness and on the other hand, they should make visible the decision-making processes according to which they delivered these results and provide explanations that is understandable and useful for the users.
 
-However, when it comes to education, the use of RS – and the potential of overriding their use, or ignoring system recommendations – has implications on aspects of accountability, and potentially **liability**, of educators and education institutions \[18\].
+However, when it comes to education, the use of RS – and the potential of overriding their use, or ignoring system recommendations – has implications on aspects of accountability, and potentially **liability**, of educators and education institutions {% cite holmes_artificial_2022 %}.
 
 ## 5.2 Implications for Education and Future Directions
 
@@ -158,7 +158,7 @@ In the following, we provide a contextualized discussion regarding the use of RS
 
 ### 5.2.1 Recommendation accuracy vs. learners’ history
 
-“_As a user’s history records accumulate, older records may be inconsistent with the user's new requests. Using all the available data indiscriminately jeopardizes prediction accuracy, and recommender systems that fail to take this into consideration run the risk of performance degradation_” \[19\].
+“_As a user’s history records accumulate, older records may be inconsistent with the user's new requests. Using all the available data indiscriminately jeopardizes prediction accuracy, and recommender systems that fail to take this into consideration run the risk of performance degradation_” {% cite zhang_artificial_2021 %}.
 
 One may argue that the quality of recommendations we offer to a learner depends on the amount of information that we have about them, that is the more, the better! Nonetheless, one should also consider temporal aspects and contingencies of data generated by learners. For example, a topic of interest may change over time (for example, someone who was not particularly interested in math discovers
 
@@ -168,13 +168,13 @@ Developing methods – potentially combining the use of AI and learner modeling 
 
 ### 5.2.2 Recommendation Algorithms vs. Pedagogy
 
-The first instances of recommender systems were developed in domains focusing on information filtering, including news recommendations, music, and video recommendations, as well as e-commerce recommendations \[5\]. The latter of which was then one of the main drivers of advancing the development of RS algorithms, models, and approaches. RSs that were developed for educational purposes were relatively influenced by those methods, if not completely adopting them. This raises the question about the strength of the pedagogical foundation of the development of modern RS approaches, and how fitting the common RS are for a learning setting. Take collaborative filtering for example, if this approach is implemented in a classroom, can one say that it is correct to recommend a student certain exercises, only because other students in the classroom (similar students) have solved these exercises? Although this might be correct in some cases, it is clear that the original concept of collaborative filtering was not based on the pedagogical requirement of how students in the same classroom should solve exercises.
+The first instances of recommender systems were developed in domains focusing on information filtering, including news recommendations, music, and video recommendations, as well as e-commerce recommendations {% cite dong_brief_2022 %}. The latter of which was then one of the main drivers of advancing the development of RS algorithms, models, and approaches. RSs that were developed for educational purposes were relatively influenced by those methods, if not completely adopting them. This raises the question about the strength of the pedagogical foundation of the development of modern RS approaches, and how fitting the common RS are for a learning setting. Take collaborative filtering for example, if this approach is implemented in a classroom, can one say that it is correct to recommend a student certain exercises, only because other students in the classroom (similar students) have solved these exercises? Although this might be correct in some cases, it is clear that the original concept of collaborative filtering was not based on the pedagogical requirement of how students in the same classroom should solve exercises.
 
 To that end, one can argue that solid pedagogy foundations, i.e., learning theories, are not the main source of influence on the development of most types of recommender systems. This, of course, does not mean that no RS were designed based on learning theories. However, the most common RS approaches may still arguably follow a commercial logic, rather than a logic that is strongly founded in pedagogy.
 
 ### 5.2.3 Recommendations & personalization
 
-_“Another risk of using “learning with AI” tools is that, while they offer personalized recommendations for each student’s learning path, they still lead everyone to the same fixed learning outcomes”_ \[20\]. This approach may work well in K-12 education, where all students are required to obtain fundamental knowledge. However, it is risky for adult learning as well as more open forms of education such as MOOCs, where students often have different learning goals. For example, a working professional might follow an introductory course on statistics to be able to provide insightful analyses for their job. This student does not need as a learning outcome an in-depth coverage of the foundations of probabilities and normal distribution. Ideally, the recommender system should be sufficiently adaptable and personalized to not overwhelm students with unnecessary information assuming a one-fits-all learning goal.
+_“Another risk of using “learning with AI” tools is that, while they offer personalized recommendations for each student’s learning path, they still lead everyone to the same fixed learning outcomes”_ {% cite holmes_artificial_2019 %}. This approach may work well in K-12 education, where all students are required to obtain fundamental knowledge. However, it is risky for adult learning as well as more open forms of education such as MOOCs, where students often have different learning goals. For example, a working professional might follow an introductory course on statistics to be able to provide insightful analyses for their job. This student does not need as a learning outcome an in-depth coverage of the foundations of probabilities and normal distribution. Ideally, the recommender system should be sufficiently adaptable and personalized to not overwhelm students with unnecessary information assuming a one-fits-all learning goal.
 
 Building on our previous points, the more information (i.e., data) we have about a student the better the recommendation we can provide. However, while personalization increases relevance it also carries the risk of overfitting. In other words, recommendations can become too narrow and focused which leads to keeping the students on a predetermined path, also known as the _‘Lemming effect’_. This effect can “trap” the student’s performance in a cycle. For example, data from a student performing poorly may lead to recommendations of material for poor-performing students limiting the exposure to more challenging material that could stimulate growth and provoke curiosity. Therefore, balancing personalization with diverse learning recommendations is essential for optimal learning.
 
@@ -189,47 +189,3 @@ While such information might be useful, it does pose a potential violation of th
 To that end, a potential approach to solve this problem is to enhance the **transparency** of the RS by clarifying to the end users the data they are collecting and the way this data is used, as well as ensuring the user’s agency over the decision of sharing certain data with the RS which has a direct effect on the learner’s autonomy in the learning setting.
 
 Guaranteeing that the student, especially at an early age, is capable of understanding the privacy-implications and the criticality of sharing their data with the RS shows a need for a user-friendly design of consent forms, as well as a certain level of digital literacy, that enables the student of making an informed decision about the level of privacy they want to keep while using a recommender system.
-
-
-
-# References
-
-\[1\] F. Ricci, L. Rokach, and B. Shapira, Eds., _Recommender Systems Handbook_. New York, NY: Springer US, 2022. doi: 10.1007/978-1-0716-2197-4.
-
-\[2\] N. J. Belkin and W. B. Croft, “Information filtering and information retrieval: two sides of the same coin?,” _Commun. ACM_, vol. 35, no. 12, pp. 29–38, Dec. 1992, doi: 10.1145/138859.138861.
-
-\[3\] D. Goldberg, D. Nichols, B. M. Oki, and D. Terry, “Using collaborative filtering to weave an information tapestry,” _Commun. ACM_, vol. 35, no. 12, pp. 61–70, Dec. 1992, doi: 10.1145/138859.138867.
-
-\[4\] T. M. Al-Hasan, A. N. Sayed, F. Bensaali, Y. Himeur, I. Varlamis, and G. Dimitrakopoulos, “From Traditional Recommender Systems to GPT-Based Chatbots: A Survey of Recent Developments and Future Directions,” _Big Data Cogn. Comput._, vol. 8, no. 4, p. 36, Mar. 2024, doi: 10.3390/bdcc8040036.
-
-\[5\] Z. Dong, Z. Wang, J. Xu, R. Tang, and J. Wen, “A Brief History of Recommender Systems,” Sep. 05, 2022, _arXiv_: arXiv:2209.01860. doi: 10.48550/arXiv.2209.01860.
-
-\[6\] Y. Cui and W. Badr, “Graph-based recommendation system with Neptune ML: An illustration on social network link prediction challenges.” Accessed: Oct. 09, 2024. \[Online\]. Available: <https://aws.amazon.com/blogs/machine-learning/graph-based-recommendation-system-with-neptune-ml-an-illustration-on-social-network-link-prediction-challenges/>
-
-\[7\] Q. Zhang, J. Lu, and G. Zhang, “Recommender Systems in E-learning,” _J. Smart Environ. Green Comput._, 2022, doi: 10.20517/jsegc.2020.06.
-
-\[8\] X. Cai, J. Han, W. Li, R. Zhang, S. Pan, and L. Yang, “A Three-Layered Mutually Reinforced Model for Personalized Citation Recommendation,” _IEEE Trans. Neural Netw. Learn. Syst._, vol. 29, no. 12, pp. 6026–6037, Dec. 2018, doi: 10.1109/TNNLS.2018.2817245.
-
-\[9\] S. Wan and Z. Niu, “A Hybrid E-Learning Recommendation Approach Based on Learners’ Influence Propagation,” _IEEE Trans. Knowl. Data Eng._, vol. 32, no. 5, pp. 827–840, May 2020, doi: 10.1109/TKDE.2019.2895033.
-
-\[10\] Y. Zhou, C. Huang, Q. Hu, J. Zhu, and Y. Tang, “Personalized learning full-path recommendation model based on LSTM neural networks,” _Inf. Sci._, vol. 444, pp. 135–152, May 2018, doi: 10.1016/j.ins.2018.02.053.
-
-\[11\] M. C. Urdaneta-Ponte, A. Mendez-Zorrilla, and I. Oleagordia-Ruiz, “Recommendation Systems for Education: Systematic Review,” _Electronics_, vol. 10, no. 14, p. 1611, Jul. 2021, doi: 10.3390/electronics10141611.
-
-\[12\] M. Deschênes, “Recommender systems to support learners’ Agency in a Learning Context: a systematic review,” _Int. J. Educ. Technol. High. Educ._, vol. 17, no. 1, p. 50, Dec. 2020, doi: 10.1186/s41239-020-00219-w.
-
-\[13\] T. K. F. Chiu, Q. Xia, X. Zhou, C. S. Chai, and M. Cheng, “Systematic literature review on opportunities, challenges, and future research recommendations of artificial intelligence in education,” _Comput. Educ. Artif. Intell._, vol. 4, p. 100118, 2023, doi: 10.1016/j.caeai.2022.100118.
-
-\[14\] R. S. Baker and A. Hawn, “Algorithmic Bias in Education,” _Int. J. Artif. Intell. Educ._, vol. 32, no. 4, pp. 1052–1092, Dec. 2022, doi: 10.1007/s40593-021-00285-9.
-
-\[15\] K. Holstein and S. Doroudi, “Equity and Artificial Intelligence in education,” in _The Ethics of Artificial Intelligence in Education_, 1st ed., New York: Routledge, 2022, pp. 151–173. doi: 10.4324/9780429329067-9.
-
-\[16\] A. J. P. Jeckmans, M. Beye, Z. Erkin, P. Hartel, R. L. Lagendijk, and Q. Tang, “Privacy in Recommender Systems,” in _Social Media Retrieval_, N. Ramzan, R. Van Zwol, J.-S. Lee, K. Clüver, and X.-S. Hua, Eds., in Computer Communications and Networks. , London: Springer London, 2013, pp. 263–281. doi: 10.1007/978-1-4471-4555-4_12.
-
-\[17\] A. Bellogín and A. Said, “Improving accountability in recommender systems research through reproducibility,” _User Model. User-Adapt. Interact._, vol. 31, no. 5, pp. 941–977, Nov. 2021, doi: 10.1007/s11257-021-09302-x.
-
-\[18\] W. Holmes, _Artificial Intelligence and Education: A Critical View Through the Lens of Human Rights, Democracy and the Rule of Law_, 1st ed. Namur: Council of Europe, 2022.
-
-\[19\] Q. Zhang, J. Lu, and Y. Jin, “Artificial intelligence in recommender systems,” _Complex Intell. Syst._, vol. 7, no. 1, pp. 439–457, Feb. 2021, doi: 10.1007/s40747-020-00212-w.
-
-\[20\] W. Holmes, M. Bialik, and C. Fadel, _Artificial intelligence in education: promises and implications for teaching and learning_. Boston, MA: The Center for Curriculum Redesign, 2019.
