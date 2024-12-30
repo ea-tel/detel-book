@@ -1,4 +1,12 @@
-# Recommender Systems
+---
+layout: reading_chapter
+title: Recommender Systems
+authors: <br>Hasan Abu-Rasheed, University of Siegen, Germany<br>Krist Shingjergji, Open Universtiteit, Netherlands<br>Irene-Angelica Chounta, University of Duisburg-Essen, Germany
+hide: true
+permalink: /chapter/topics/
+---
+
+**Abstract:** This chapter explores the fundamental concepts, types, and applications of recommender systems (RS), emphasizing their growing significance in educational contexts. It provides an overview of RS, covering their definition, key algorithms (collaborative filtering, content-based methods, and hybrid models), and advanced techniques like graph-based and context-aware approaches. It also highlights RS applications in education, such as learning material and path recommendations, and delves into challenges like ethical concerns, personalization, and privacy issues. 
 
 # 1. Introduction
 
