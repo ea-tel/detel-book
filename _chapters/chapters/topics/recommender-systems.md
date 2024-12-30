@@ -120,7 +120,7 @@ One interesting example is the personalized citation recommendation. In {% cite 
 One example is the work in {% cite wan_hybrid_2020 %} where authors proposed a hybrid filtering approach for recommending learning objectives to students. That was achieved by their proposed framework which combined three modules namely, the _learner module,_ the _recommendation module,_ and the _interactive module_ (Figure 5). The learner module with the learner influence model aims to address interpersonal information sparsity and cold start problems in e-learning. The recommendation module aims to simulate learners’ collaborative behaviors and give learners cliques using a self-organization-based recommendation. In the interactive module students' activities are being recorded, e.g., studying records.
 
 <p align="center">
-<img src="https://github.com/CleoSchulten/detel-hack-jtelss2024/blob/d06fdf32379ae0b0ded3c27db6e6df640efb996b/assets/images/framework_three_modules.png" alt="Internal Image" width="500px">
+<img src="https://github.com/Hasan-AR/detel-book/blob/e6a47a9dbecb77d1b737e467d32373c9719a27a2/assets/images/framework_three_modules.png" alt="Internal Image" width="500px">
 <br>Proposed framework in {% cite wan_hybrid_2020 %} with the learner module, the recommendation module, and the interactive module
 </p>
 
