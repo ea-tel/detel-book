@@ -80,7 +80,7 @@ order: 3
 
 [Knowledge Representation: Semantic Web]
 
-[Recommender systems]
+[Recommender systems](/detel-book/chapter/topics/recommender-systems)
 
 [Remote labs]
 
