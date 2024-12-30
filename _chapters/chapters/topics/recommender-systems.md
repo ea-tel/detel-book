@@ -1,4 +1,12 @@
-# Recommender Systems
+---
+layout: reading_chapter
+title: Recommender Systems
+authors: <br>Hasan Abu-Rasheed, University of Siegen, Germany<br>Krist Shingjergji, Open Universtiteit, Netherlands<br>Irene-Angelica Chounta, University of Duisburg-Essen, Germany
+hide: true
+permalink: /chapter/topics/
+---
+
+**Abstract:** This chapter explores the fundamental concepts, types, and applications of recommender systems (RS), emphasizing their growing significance in educational contexts. It provides an overview of RS, covering their definition, key algorithms (collaborative filtering, content-based methods, and hybrid models), and advanced techniques like graph-based and context-aware approaches. It also highlights RS applications in education, such as learning material and path recommendations, and delves into challenges like ethical concerns, personalization, and privacy issues. 
 
 # 1. Introduction
 
@@ -110,7 +118,7 @@ Specifically, in e-learning, the different applications of recommender systems i
 One interesting example is the personalized citation recommendation. In {% cite cai_three-layered_2018 %}, the authors propose a three-layered (paper, author, venue) interactive clustering approach to cluster related vertices in the graph (Figure 4).
 
 <p align="center">
-<img src="https://github.com/CleoSchulten/detel-hack-jtelss2024/blob/d06fdf32379ae0b0ded3c27db6e6df640efb996b/assets/images/three_layered_clustering.png" alt="Internal Image" width="500px">
+<img src="https://github.com/Hasan-AR/detel-book/blob/a0f42c9af50182f3a3a51870cc37f8b14a4150db/assets/images/three_layered_clustering.png" alt="Internal Image" width="500px">
 <br>Three-layered (paper, author, venue) interactive clustering approach {% cite cai_three-layered_2018 %}
 </p>
 
@@ -120,7 +128,7 @@ One interesting example is the personalized citation recommendation. In {% cite 
 One example is the work in {% cite wan_hybrid_2020 %} where authors proposed a hybrid filtering approach for recommending learning objectives to students. That was achieved by their proposed framework which combined three modules namely, the _learner module,_ the _recommendation module,_ and the _interactive module_ (Figure 5). The learner module with the learner influence model aims to address interpersonal information sparsity and cold start problems in e-learning. The recommendation module aims to simulate learners’ collaborative behaviors and give learners cliques using a self-organization-based recommendation. In the interactive module students' activities are being recorded, e.g., studying records.
 
 <p align="center">
-<img src="https://github.com/CleoSchulten/detel-hack-jtelss2024/blob/d06fdf32379ae0b0ded3c27db6e6df640efb996b/assets/images/framework_thre_modules.png" alt="Internal Image" width="500px">
+<img src="https://github.com/Hasan-AR/detel-book/blob/e6a47a9dbecb77d1b737e467d32373c9719a27a2/assets/images/framework_three_modules.png" alt="Internal Image" width="500px">
 <br>Proposed framework in {% cite wan_hybrid_2020 %} with the learner module, the recommendation module, and the interactive module
 </p>
 
