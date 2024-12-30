@@ -110,7 +110,7 @@ Specifically, in e-learning, the different applications of recommender systems i
 One interesting example is the personalized citation recommendation. In {% cite cai_three-layered_2018 %}, the authors propose a three-layered (paper, author, venue) interactive clustering approach to cluster related vertices in the graph (Figure 4).
 
 <p align="center">
-<img src="https://github.com/CleoSchulten/detel-hack-jtelss2024/blob/d06fdf32379ae0b0ded3c27db6e6df640efb996b/assets/images/three_layered_clustering.png" alt="Internal Image" width="500px">
+<img src="https://github.com/Hasan-AR/detel-book/blob/7ee52bfde0078ec63727c09102cbefbc64b691de/assets/images/framework_three_modules.png" alt="Internal Image" width="500px">
 <br>Three-layered (paper, author, venue) interactive clustering approach {% cite cai_three-layered_2018 %}
 </p>
 
