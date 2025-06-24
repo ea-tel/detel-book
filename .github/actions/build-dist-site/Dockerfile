@@ -7,7 +7,7 @@ LABEL version="1.1.0"
 RUN gem update --system
 
 # install dependencies
-ENV BUNDLER_VERSION 2.1.4
+ENV BUNDLER_VERSION 2.6.9
 RUN apt-get update && \
     apt-get install --no-install-recommends -y \
         bats \
@@ -18,7 +18,7 @@ RUN apt-get update && \
         make \
         shellcheck \
         git-all \
-    && gem install bundler:2.1.4 \
+    && gem install bundler:2.6.9 \
     && bundle config --global silence_root_warning 1
 
 # entrypoint to the scripts
