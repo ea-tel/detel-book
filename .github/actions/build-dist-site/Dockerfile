@@ -3,6 +3,9 @@ FROM ruby:2-slim
 LABEL author="Benedikt Hensen"
 LABEL version="1.0.0"
 
+# Update rubygems
+RUN gem update --system
+
 # install dependencies
 ENV BUNDLER_VERSION 2.1.4
 RUN apt-get update && \
