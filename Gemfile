@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 ruby RUBY_VERSION
+# Specify the Bundler version
+gem "bundler", ">= 2.6.9"
 # This will help ensure the proper Jekyll version is running.
 gem "addressable", "2.5.2"
 gem "sassc"
