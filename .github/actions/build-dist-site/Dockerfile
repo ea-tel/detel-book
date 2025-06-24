@@ -1,7 +1,7 @@
-# Docker image based on ruby:2-slim
-FROM ruby:2-slim
+# Docker image based on ruby:3-slim
+FROM ruby:3-slim
 LABEL author="Benedikt Hensen"
-LABEL version="1.0.0"
+LABEL version="1.1.0"
 
 # Update rubygems
 RUN gem update --system
